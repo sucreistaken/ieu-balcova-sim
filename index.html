@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <title>İEÜ Balçova Kampüsü</title>
+  <meta name="description" content="İzmir Ekonomi Üniversitesi Balçova Kampüsü'nde gezinebileceğiniz üç boyutlu simülasyon.">
+  <link rel="stylesheet" href="css/style.css">
+  <script type="importmap">
+    { "imports": { "three": "./js/vendor/three.module.js", "three/addons/": "./js/vendor/addons/" } }
+  </script>
+</head>
+<body>
+  <canvas id="view" tabindex="0"></canvas>
+
+  <div id="loading">
+    <div class="load-card">
+      <div class="load-mark">İEÜ</div>
+      <h1>Balçova Kampüsü</h1>
+      <p class="load-sub">Simülasyon hazırlanıyor</p>
+      <div class="load-bar"><div id="load-fill"></div></div>
+      <p id="load-step">Başlıyor</p>
+    </div>
+  </div>
+
+  <div id="start" class="overlay hidden">
+    <canvas id="contours"></canvas>
+    <div class="start-panel">
+      <div class="brand">İzmir Ekonomi Üniversitesi</div>
+      <h1>Balçova Kampüsü</h1>
+      <p class="lead">Sakarya Caddesi No:156. Kampüste yürüyün, blokların içine girin, kütüphaneden amfiye tüm alanları gezin.</p>
+      <div class="controls-grid">
+        <div><kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd><span>Yürü</span></div>
+        <div><kbd>Shift</kbd><span>Koş</span></div>
+        <div><kbd>Boşluk</kbd><span>Zıpla</span></div>
+        <div><kbd>Fare</kbd><span>Etrafa bak</span></div>
+        <div><kbd>E</kbd><span>Merdiven, selam ver</span></div>
+        <div><kbd>Q</kbd><span>Merdivende alt kata</span></div>
+        <div><kbd>M</kbd><span>Harita, tıkla ve ışınlan</span></div>
+        <div><kbd>T</kbd><span>Yerler listesi</span></div>
+        <div><kbd>V</kbd><span>Uçuş modu</span></div>
+        <div><kbd>I</kbd><span>Veri seti ve bilgi</span></div>
+        <div><kbd>Esc</kbd><span>Ayarlar</span></div>
+      </div>
+      <button id="btn-start" class="primary">Kampüse gir</button>
+      <p class="fine">Kapılardan yürüyerek girebilirsiniz. Bina şekilleri OpenStreetMap, arazi eğimi EU-DEM verisinden; iç mekânlar simülasyon için üretilmiş genel yerleşimdir. Kaynaklar için <kbd>I</kbd> tuşu.</p>
+    </div>
+  </div>
+
+  <div id="hud" class="hidden">
+    <div id="hud-top">
+      <div id="place" class="plate">
+        <div id="place-tab"></div>
+        <div id="place-body"><div id="place-name"></div><div id="place-sub"></div></div>
+      </div>
+      <canvas id="compass-canvas" width="760" height="76"></canvas>
+      <div id="hud-right">
+        <div id="clock" class="plate"><span id="clock-icon"></span><span id="clock-text">15:30</span></div>
+        <div id="clock-date" class="plate"></div>
+        <div id="fps"></div>
+      </div>
+    </div>
+    <div id="crosshair"></div>
+    <div id="prompt" class="hidden"></div>
+    <div id="toast" class="hidden"></div>
+    <div id="labels"></div>
+    <div id="minimap-wrap"><canvas id="minimap" width="440" height="440"></canvas><div id="minimap-n">K</div></div>
+    <div id="hint">Esc ayarlar, M harita, T yerler</div>
+  </div>
+
+  <div id="card" class="hidden"></div>
+
+  <div id="menu-places" class="overlay hidden"></div>
+  <div id="menu-map" class="overlay hidden"></div>
+  <div id="menu-info" class="overlay hidden"></div>
+  <div id="menu-settings" class="overlay hidden"></div>
+
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

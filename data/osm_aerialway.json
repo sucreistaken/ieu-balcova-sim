@@ -1,0 +1,153 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-09-29T19:21:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1915298462,
+  "lat": 38.3815741,
+  "lon": 27.0448822,
+  "tags": {
+    "aerialway": "pylon",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1915298525,
+  "lat": 38.3834354,
+  "lon": 27.0447249,
+  "tags": {
+    "aerialway": "pylon",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1915298545,
+  "lat": 38.3849789,
+  "lon": 27.0446152,
+  "tags": {
+    "aerialway": "pylon",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1915298548,
+  "lat": 38.3867012,
+  "lon": 27.0444635,
+  "tags": {
+    "aerialway": "pylon",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 6213720561,
+  "lat": 38.3803766,
+  "lon": 27.0449938,
+  "tags": {
+    "aerialway": "station",
+    "name": "Balçova Yukarı",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 6213720565,
+  "lat": 38.3872521,
+  "lon": 27.0444136,
+  "tags": {
+    "aerialway": "station",
+    "name": "Balçova Aşağı",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 181081982,
+  "bounds": {
+    "minlat": 38.3801999,
+    "minlon": 27.0447184,
+    "maxlat": 38.3804198,
+    "maxlon": 27.0450968
+  },
+  "geometry": [
+    { "lat": 38.3802129, "lon": 27.0450968 },
+    { "lat": 38.3801999, "lon": 27.0447260 },
+    { "lat": 38.3803324, "lon": 27.0447184 },
+    { "lat": 38.3803402, "lon": 27.0449407 },
+    { "lat": 38.3804146, "lon": 27.0449365 },
+    { "lat": 38.3804198, "lon": 27.0450851 },
+    { "lat": 38.3802129, "lon": 27.0450968 }
+  ],
+  "tags": {
+    "aerialway": "station",
+    "building": "transportation",
+    "public_transport": "station",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 181081983,
+  "bounds": {
+    "minlat": 38.3871370,
+    "minlon": 27.0441413,
+    "maxlat": 38.3873095,
+    "maxlon": 27.0445846
+  },
+  "geometry": [
+    { "lat": 38.3871867, "lon": 27.0441472 },
+    { "lat": 38.3872947, "lon": 27.0441413 },
+    { "lat": 38.3873037, "lon": 27.0444087 },
+    { "lat": 38.3873095, "lon": 27.0445784 },
+    { "lat": 38.3871956, "lon": 27.0445846 },
+    { "lat": 38.3871925, "lon": 27.0444908 },
+    { "lat": 38.3871424, "lon": 27.0444936 },
+    { "lat": 38.3871370, "lon": 27.0443338 },
+    { "lat": 38.3871929, "lon": 27.0443308 },
+    { "lat": 38.3871867, "lon": 27.0441472 }
+  ],
+  "tags": {
+    "aerialway": "station",
+    "building": "transportation",
+    "public_transport": "station",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 181081995,
+  "bounds": {
+    "minlat": 38.3803766,
+    "minlon": 27.0444136,
+    "maxlat": 38.3872521,
+    "maxlon": 27.0449938
+  },
+  "geometry": [
+    { "lat": 38.3872521, "lon": 27.0444136 },
+    { "lat": 38.3867012, "lon": 27.0444635 },
+    { "lat": 38.3849789, "lon": 27.0446152 },
+    { "lat": 38.3834354, "lon": 27.0447249 },
+    { "lat": 38.3815741, "lon": 27.0448822 },
+    { "lat": 38.3803766, "lon": 27.0449938 }
+  ],
+  "tags": {
+    "aerialway": "gondola",
+    "name": "Balçova Teleferik",
+    "source": "bing",
+    "wikidata": "Q6051960",
+    "wikimedia_commons": "Category:Balçova Gondola",
+    "wikipedia": "tr:Balçova Teleferiği"
+  }
+}
+
+  ]
+}

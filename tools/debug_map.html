@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title>Veri seti kontrol haritasi</title>
+<style>
+  body { margin: 0; background: #1b1f24; color: #ddd; font: 12px system-ui; }
+  canvas { display: block; }
+  #bar { position: fixed; top: 6px; left: 6px; background: #000a; padding: 6px 8px; border-radius: 6px; }
+</style>
+</head>
+<body>
+<div id="bar">ok</div>
+<canvas id="c"></canvas>
+<script>
+const params = new URLSearchParams(location.search);
+const R = parseFloat(params.get('r') || '170');
+const cx0 = parseFloat(params.get('x') || '0');
+const cz0 = parseFloat(params.get('z') || '0');
+const cv = document.getElementById('c');
+cv.width = innerWidth;
+cv.height = innerHeight;
+const g = cv.getContext('2d');
+const S = Math.min(cv.width, cv.height) / (2 * R);
+const X = (x) => cv.width / 2 + (x - cx0) * S;
+const Z = (z) => cv.height / 2 + (z - cz0) * S;
+
+const AREA_COL = {
+  urban: '#3a3a3a', farmland: '#4a5a2f', scrub: '#4d5f3a', forest: '#1f4d2b', grass: '#3f6b35', orchard: '#4c7a3a',
+  cemetery: '#40503a', institution: '#4a4f57', park: '#3f8a45', sports: '#3b6d55', pitch: '#3a9060',
+  playground: '#8a6a3a', parking: '#555a60', water: '#2a5c8a'
+};
+const ROAD_COL = { footway: '#cfc7b0', path: '#cfc7b0', steps: '#e0c070', pedestrian: '#d9d2c0' };
+
+fetch('../data/campus.json').then((r) => r.json()).then((d) => {
+  const ring = (arr, close = true) => {
+    g.beginPath();
+    for (let i = 0; i < arr.length; i += 2) (i ? g.lineTo : g.moveTo).call(g, X(arr[i]), Z(arr[i + 1]));
+    if (close) g.closePath();
+  };
+  g.fillStyle = '#2b2f36';
+  g.fillRect(0, 0, cv.width, cv.height);
+  for (const a of d.areas) { ring(a.r); g.fillStyle = AREA_COL[a.kind] || '#444'; g.fill(); }
+  g.fillStyle = '#ffffff10'; ring(d.campusRing); g.fill(); g.strokeStyle = '#ffd54a'; g.setLineDash([6, 4]); g.stroke(); g.setLineDash([]);
+  for (const r of d.roads) {
+    ring(r.p, false);
+    g.strokeStyle = ROAD_COL[r.t] || '#777';
+    g.lineWidth = Math.max(1, r.w * S);
+    g.lineJoin = 'round'; g.lineCap = 'round';
+    g.stroke();
+  }
+  for (const b of d.buildings) {
+    ring(b.ring);
+    g.fillStyle = b.campus ? '#e07b39' : '#9a938a';
+    g.fill();
+    for (const h of b.holes) { ring(h); g.fillStyle = '#2b2f36'; g.fill(); }
+    g.strokeStyle = '#0006'; g.lineWidth = 1; g.stroke();
+  }
+  g.font = '11px system-ui'; g.textAlign = 'center';
+  for (const b of d.buildings) if (b.campus && b.name) { g.fillStyle = '#fff'; g.fillText(b.name + ` (${b.h}m)`, X(b.c[0]), Z(b.c[1])); }
+  g.strokeStyle = '#ff4d4d'; g.lineWidth = 1;
+  for (const [a, b] of d.nav.edges) { g.beginPath(); g.moveTo(X(d.nav.nodes[a][0]), Z(d.nav.nodes[a][1])); g.lineTo(X(d.nav.nodes[b][0]), Z(d.nav.nodes[b][1])); g.stroke(); }
+  g.fillStyle = '#3ddc84';
+  for (const o of d.doors) { g.beginPath(); g.arc(X(o.x), Z(o.z), 4, 0, 7); g.fill(); g.beginPath(); g.moveTo(X(o.x), Z(o.z)); g.lineTo(X(o.x + o.nx * 5), Z(o.z + o.nz * 5)); g.strokeStyle = '#3ddc84'; g.stroke(); }
+  g.fillStyle = '#4db8ff'; g.textAlign = 'left';
+  for (const p of d.pois) { g.beginPath(); g.arc(X(p.x), Z(p.z), 3, 0, 7); g.fill(); if (p.name && Math.abs(p.x - cx0) < R && Math.abs(p.z - cz0) < R) g.fillText(p.name, X(p.x) + 5, Z(p.z) + 3); }
+  const gl = d.gondola;
+  g.strokeStyle = '#fff'; g.lineWidth = 1; ring(gl.line, false); g.stroke();
+  document.getElementById('bar').textContent = JSON.stringify(d.meta.stats) + ` R=${R}`;
+});
+</script>
+</body>
+</html>

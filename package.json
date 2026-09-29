@@ -1,0 +1,16 @@
+{
+  "name": "ieu-balcova-sim",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Walkable 3D simulation of the Izmir University of Economics Balcova campus (Three.js, no build step)",
+  "type": "module",
+  "scripts": {
+    "serve": "python3 tools/serve.py",
+    "build:dataset": "node tools/build_dataset.mjs",
+    "build:real": "node tools/build_real.mjs",
+    "test:layout": "node tools/test_layout.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title>Insan laboratuvari</title>
+<style>
+  body { margin: 0; background: #b9c9d6; overflow: hidden; font: 13px system-ui; }
+  #bar { position: fixed; top: 8px; left: 8px; background: #000a; color: #fff; padding: 8px 10px; border-radius: 6px; line-height: 1.5; max-width: 560px; }
+  select, button { font: inherit; }
+</style>
+<script>
+  window.__errs = [];
+  const ce = console.error.bind(console);
+  console.error = (...a) => { window.__errs.push(a.map(String).join(' ').slice(0, 400)); ce(...a); };
+  window.addEventListener('error', (e) => window.__errs.push('window: ' + e.message));
+</script>
+<script type="importmap">
+  { "imports": { "three": "../js/vendor/three.module.js", "three/addons/": "../js/vendor/addons/" } }
+</script>
+</head>
+<body>
+<div id="bar"></div>
+<script type="module">
+import * as THREE from 'three';
+import { HumanCrowd } from '../js/humanrender.js';
+import { CLIP_NAMES, ACC } from '../js/humanoid.js';
+
+const bar = document.getElementById('bar');
+const params = new URLSearchParams(location.search);
+const renderer = new THREE.WebGLRenderer({ antialias: true });
+renderer.setPixelRatio(Math.min(devicePixelRatio, 2));
+renderer.setSize(innerWidth, innerHeight);
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.shadowMap.enabled = true;
+document.body.appendChild(renderer.domElement);
+const scene = new THREE.Scene();
+scene.background = new THREE.Color('#b9c9d6');
+const camera = new THREE.PerspectiveCamera(35, innerWidth / innerHeight, 0.05, 100);
+const hemi = new THREE.HemisphereLight('#dfeaff', '#7a745c', 1.1);
+scene.add(hemi);
+const sun = new THREE.DirectionalLight('#fff2dc', 2.6);
+sun.position.set(3, 6, 4);
+sun.castShadow = true;
+sun.shadow.mapSize.set(2048, 2048);
+sun.shadow.camera.left = -6; sun.shadow.camera.right = 6; sun.shadow.camera.top = 6; sun.shadow.camera.bottom = -6;
+scene.add(sun);
+const ground = new THREE.Mesh(new THREE.PlaneGeometry(40, 40), new THREE.MeshStandardMaterial({ color: '#9aa08f', roughness: 1 }));
+ground.rotation.x = -Math.PI / 2;
+ground.receiveShadow = true;
+scene.add(ground);
+
+const t0 = performance.now();
+const crowd = new HumanCrowd(24);
+scene.add(crowd.mesh);
+const bakeMs = Math.round(performance.now() - t0);
+
+const col = (h) => new THREE.Color(h);
+const SKIN = ['#f1cba8', '#e6b48c', '#d49b72', '#b97d57', '#8d5c40', '#6f4630'].map(col);
+const HAIR = ['#1b1917', '#2a201a', '#5a3d2b', '#a98657', '#8a8a86', '#7a3b25'].map(col);
+const SHIRT = ['#1f3a5f', '#f2f2ee', '#b23a34', '#2d8a8a', '#d8a531', '#6c7d3f', '#e3a3b5', '#4f79ad'].map(col);
+const PANTS = ['#3b5478', '#23252b', '#a89573', '#5b5f66'].map(col);
+const N = 12;
+const people = [];
+for (let i = 0; i < N; i++) {
+  const female = i % 2 === 1;
+  const hijab = female && i % 6 === 1;
+  crowd.setLook(i, {
+    shirt: SHIRT[i % SHIRT.length], sleeve: i % 3 === 0 ? 1.0 : 0.38,
+    pants: PANTS[i % PANTS.length], pantsLen: i % 5 === 4 ? 0.55 : 1.0,
+    skin: SKIN[i % SKIN.length], hairStyle: hijab ? 4 : female ? (i % 4 === 1 ? 1 : 2) : (i % 4 === 0 ? 0 : 3),
+    hair: HAIR[(i * 3) % HAIR.length],
+    flags: (i % 3 === 0 ? 1 << ACC.BACKPACK : 0) | (i % 4 === 2 ? 1 << ACC.GLASSES : 0) | (i % 5 === 1 ? 1 << ACC.CUP : 0) | (i === 7 ? 1 << ACC.BOOK : 0) | (i === 9 ? 1 << ACC.PHONE : 0),
+    shoe: col(i % 2 ? '#f0f0ec' : '#202226'),
+    extra: (female && i % 6 === 3 ? 1 : 0) | (i === 4 ? 2 : 0) | (hijab ? 4 : 0),
+    accent: col(hijab ? '#6b4e8c' : '#2c4a7a'),
+    gender: female ? 1 : 0,
+  });
+  people.push({ clip: 'idle', prev: null, time: Math.random() * 5, prevTime: 0, blend: 0, female });
+}
+crowd.setCount(N);
+
+const names = CLIP_NAMES;
+let clipAll = params.get('clip') || 'walk';
+bar.innerHTML = `humanoid vertices: ${crowd.human.vertexCount}, frames: ${crowd.human.totalFrames}, build ms: ${bakeMs}<br>` +
+  `clip: <select id="clip">${names.map((n) => `<option ${n === clipAll ? 'selected' : ''}>${n}</option>`).join('')}</select> ` +
+  `<button id="mode">mixed</button> drag = rotate, wheel = zoom`;
+let mixed = false;
+let mixedOffset = 0;
+let depthLayout = false;
+const place = (i) => { const o = (i - (N - 1) / 2) * 1.05; return depthLayout ? { x: 0, z: o } : { x: o, z: 0 }; };
+document.getElementById('clip').onchange = (e) => (clipAll = e.target.value);
+document.getElementById('mode').onclick = () => (mixed = !mixed);
+
+let yaw = 0.5; let pitch = 0.15; let dist = 9; let target = new THREE.Vector3(0, 0.9, 0);
+let drag = null;
+addEventListener('mousedown', (e) => (drag = [e.clientX, e.clientY]));
+addEventListener('mouseup', () => (drag = null));
+addEventListener('mousemove', (e) => { if (drag) { yaw -= (e.clientX - drag[0]) * 0.006; pitch = Math.max(-0.3, Math.min(1.2, pitch + (e.clientY - drag[1]) * 0.004)); drag = [e.clientX, e.clientY]; } });
+addEventListener('wheel', (e) => (dist = Math.max(1.2, Math.min(30, dist * (e.deltaY > 0 ? 1.1 : 0.9)))));
+if (params.get('focus')) { dist = 2.6; target.set(0, 1.0, 0); }
+
+const clock = new THREE.Clock();
+const stepClip = (p, dt, name) => {
+  const c = crowd.clips[name];
+  if (p.clip !== name) { p.prev = p.clip; p.prevTime = p.time; p.blend = 1; p.clip = name; p.time = 0; }
+  const cur = crowd.clips[p.clip];
+  const rate = cur.nominal > 0 ? 1.0 : 1.0;
+  p.time += dt * rate;
+  if (p.prev) { p.prevTime += dt; p.blend = Math.max(0, p.blend - dt / 0.25); if (p.blend <= 0) p.prev = null; }
+  void c;
+};
+function frame(fixedDt) {
+  const dt = fixedDt ?? Math.min(clock.getDelta(), 0.05);
+  const time = performance.now() / 1000;
+  people.forEach((p, i) => {
+    const name = mixed ? names[(i + mixedOffset) % names.length] : clipAll;
+    stepClip(p, dt, name);
+    const cur = crowd.clips[p.clip];
+    const { x, z } = place(i);
+    const moving = cur.nominal > 0;
+    crowd.setPose(i, {
+      x, y: 0, z, yaw: 0.0, sx: p.female ? 0.95 : 1.02, sy: p.female ? 0.95 : 1.02, sz: p.female ? 0.95 : 1.02,
+      clip: p.clip, frame: p.time * cur.fps, prev: p.prev, prevFrame: p.prev ? p.prevTime * crowd.clips[p.prev].fps : 0, blend: p.blend,
+      lookYaw: 0.35 * Math.sin(time * 0.6 + i), lookPitch: 0.08, blink: i * 0.37,
+    });
+  });
+  crowd.commit(time);
+  camera.position.set(target.x + Math.sin(yaw) * Math.cos(pitch) * dist, target.y + Math.sin(pitch) * dist, target.z + Math.cos(yaw) * Math.cos(pitch) * dist);
+  camera.lookAt(target);
+  renderer.render(scene, camera);
+}
+function loop() {
+  frame();
+  requestAnimationFrame(loop);
+}
+window.__lab = {
+  crowd, people, renderer,
+  tick(n = 1, dt = 1 / 30) { for (let i = 0; i < n; i++) frame(dt); },
+  set(name) { clipAll = name; mixed = false; },
+  mix(off = 0) { mixed = true; mixedOffset = off; },
+  cam(y, p, d, ty = 1.0, tx = 0) { yaw = y; pitch = p; dist = d; target.set(tx, ty, 0); },
+  who(i, y = 0.4, p = 0.1, d = 3.2, ty = 1.0) { yaw = y; pitch = p; dist = d; const q = place(i); target.set(q.x, ty, q.z); },
+  layout(depth) { depthLayout = !!depth; },
+  camAt(y, p, d, ty, tx, tz) { yaw = y; pitch = p; dist = d; target.set(tx, ty, tz); },
+  ph(i, seconds) { const q = people[i]; q.time = seconds; q.prev = null; q.blend = 0; },
+};
+requestAnimationFrame(loop);
+</script>
+</body>
+</html>

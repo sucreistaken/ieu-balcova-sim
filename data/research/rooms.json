@@ -1,0 +1,1817 @@
+{
+  "retrieved": "2026-09-30",
+  "classrooms": [
+    {
+      "code": "E 101",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 1,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı AST 01 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 102",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 1,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı AST 02 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 103",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 1,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı AST 03 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 104",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 1,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı AST 04 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 105",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 1,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı AST 05 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 109",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 1,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Support grubu SP1-1 (22 Eylül 2026 düzey belirleme sınavı yeri)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13831"
+    },
+    {
+      "code": "E 110",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 1,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Support grubu SP1-2 (22 Eylül 2026 düzey belirleme sınavı yeri)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13831"
+    },
+    {
+      "code": "E 111",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 1,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Support grubu SP1-3 (22 Eylül 2026 düzey belirleme sınavı yeri)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13831"
+    },
+    {
+      "code": "E 112",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 1,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Support grubu SP2-1 (22 Eylül 2026 düzey belirleme sınavı yeri)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13831"
+    },
+    {
+      "code": "E 113",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 1,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Support grubu SP2-2 (22 Eylül 2026 düzey belirleme sınavı yeri)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13831"
+    },
+    {
+      "code": "E 114",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 1,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Support grubu SP2-3 (22 Eylül 2026 düzey belirleme sınavı yeri)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13831"
+    },
+    {
+      "code": "E 201",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 2,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı AST 06 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 202",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 2,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı AST 07 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 203",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 2,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı AST 08 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 204",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 2,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı AST 09 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 205",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 2,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı AST 10 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 209",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 2,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı AST 11 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 210",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 2,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı AST 12 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 211",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 2,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı AST 13 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 212",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 2,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı AST 14 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 213",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 2,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı AST 15 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 214",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 2,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı AST 16 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 301",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 3,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı AST 17 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 302",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 3,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı AST 18 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 303",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 3,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı AST 19 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 304",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 3,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı AST 20 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 305",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 3,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı AST 21 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 308",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 3,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "İngilizce Yeterlik Sınavı sözlü bölümü sınav yeri, 22 Eylül 2026 (E 308 ve E 309)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13839"
+    },
+    {
+      "code": "E 309",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 3,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "İngilizce Yeterlik Sınavı sözlü bölümü sınav yeri, 22 Eylül 2026 (E 308 ve E 309)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13839"
+    },
+    {
+      "code": "E 311",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 3,
+      "floorBasis": "explicit",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "hazırlık programı ders kitabı satış dersliği, 22 Eylül-5 Ekim 2026 (duyuru metni: \"3. kat E 311 numaralı derslikte\")",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 401",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 4,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı BST 01 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 402",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 4,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı BST 02 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 403",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 4,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı BST 03 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 404",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 4,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı BST 04 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 405",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 4,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı BST 05 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 406",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 4,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı BST 06 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 407",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 4,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı BST 07 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 408",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 4,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı BST 08 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 409",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 4,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı BST 09 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 410",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 4,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı BST 10 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 411",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 4,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı BST 11 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 501",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 5,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı CST 01 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 502",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 5,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı CST 02 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 503",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 5,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı CST 03 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 504",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 5,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı CST 04 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 505",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 5,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı CST 05 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 506",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 5,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı BST 12 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 507",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 5,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı BST 13 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 508",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 5,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı BST 14 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 509",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 5,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı BST 15 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 510",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 5,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı BST 16 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 511",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 5,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı BST 17 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 601",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 6,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı CST 06 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 602",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 6,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı CST 07 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 603",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 6,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı CST 08 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 604",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 6,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı CST 09 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 605",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 6,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı CST 10 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 606",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 6,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı CST 11 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 607",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 6,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı CST 12 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 608",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 6,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı CST 13 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "code": "E 609",
+      "building": "E Blok",
+      "buildingBasis": "code prefix E; the Welcome Day brochure lists \"E Block Classrooms\" as the prep-student venue",
+      "floor": 6,
+      "floorBasis": "inferred-from-code",
+      "capacity": null,
+      "type": "derslik",
+      "usage": "Yabancı Diller Yüksekokulu hazırlık programı sınıfı CST 14 (2026-27 dönem başı sınıf listesi)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    }
+  ],
+  "labs": [
+    {
+      "name": "Simülasyon Laboratuvarı",
+      "building": "C Blok",
+      "floor": 6,
+      "floorBasis": "inferred-from-code",
+      "room": "C 601",
+      "locationText": "Mühendislik Fakültesi \"C Blok Bilgisayar Laboratuvarları\" sayfasında \"C 601 ...\" olarak listeli. IT müdürlüğü sayfası \"SİMÜLASYON LAB. I (C601)\"; CE bölüm sayfası \"Programlama Dilleri/Simülasyon Laboratuvarı (C-601/C-602)\".",
+      "source": "https://fecs.ieu.edu.tr/tr/c-blok-bilgisayar-laboratuvarlari"
+    },
+    {
+      "name": "Simülasyon Laboratuvarı - II",
+      "building": "C Blok",
+      "floor": 6,
+      "floorBasis": "inferred-from-code",
+      "room": "C 602",
+      "locationText": "Mühendislik Fakültesi \"C Blok Bilgisayar Laboratuvarları\" sayfasında \"C 602 ...\" olarak listeli. IT müdürlüğü sayfası \"SİMÜLASYON LAB. II (C602)\".",
+      "source": "https://fecs.ieu.edu.tr/tr/c-blok-bilgisayar-laboratuvarlari"
+    },
+    {
+      "name": "Kontrol Laboratuvarı",
+      "building": "C Blok",
+      "floor": 6,
+      "floorBasis": "inferred-from-code",
+      "room": "C 604",
+      "locationText": "Mühendislik Fakültesi \"C Blok Bilgisayar Laboratuvarları\" sayfasında \"C 604 ...\" olarak listeli.",
+      "source": "https://fecs.ieu.edu.tr/tr/c-blok-bilgisayar-laboratuvarlari"
+    },
+    {
+      "name": "Network, İletişim ve Yazılım Geliştirme Laboratuvarı",
+      "building": "C Blok",
+      "floor": 6,
+      "floorBasis": "inferred-from-code",
+      "room": "C 605",
+      "locationText": "Mühendislik Fakültesi \"C Blok Bilgisayar Laboratuvarları\" sayfasında \"C 605 ...\" olarak listeli. IT müdürlüğü sayfası \"(C605-C606)\" yazıyor.",
+      "source": "https://fecs.ieu.edu.tr/tr/c-blok-bilgisayar-laboratuvarlari"
+    },
+    {
+      "name": "Mikroişlemci Laboratuvarı",
+      "building": "C Blok",
+      "floor": 6,
+      "floorBasis": "inferred-from-code",
+      "room": "C 608",
+      "locationText": "Mühendislik Fakültesi \"C Blok Bilgisayar Laboratuvarları\" sayfasında \"C 608 ...\" olarak listeli. ÇELİŞKİ: CE bölüm sayfası Mikroişlemciler Laboratuvarı için C-606 diyor, bu sayfa C 608.",
+      "source": "https://fecs.ieu.edu.tr/tr/c-blok-bilgisayar-laboratuvarlari"
+    },
+    {
+      "name": "Oyun ve Web Laboratuvarı",
+      "building": "C Blok",
+      "floor": 6,
+      "floorBasis": "inferred-from-code",
+      "room": "C 609",
+      "locationText": "Mühendislik Fakültesi \"C Blok Bilgisayar Laboratuvarları\" sayfasında \"C 609 ...\" olarak listeli. IT müdürlüğü sayfası \"WEB VE OYUN MÜH. LAB. (C609)\".",
+      "source": "https://fecs.ieu.edu.tr/tr/c-blok-bilgisayar-laboratuvarlari"
+    },
+    {
+      "name": "Enstrümental Analiz Laboratuvarı",
+      "building": "C Blok",
+      "floor": 3,
+      "floorBasis": "inferred-from-code",
+      "room": "C 302",
+      "locationText": "Mühendislik Fakültesi \"C Blok Multidisipliner Laboratuvar\" sayfasında \"C 302 ...\" olarak listeli.",
+      "source": "https://fecs.ieu.edu.tr/tr/c-blok-multidisipliner-laboratuvar"
+    },
+    {
+      "name": "Kimya Laboratuvarı",
+      "building": "C Blok",
+      "floor": 3,
+      "floorBasis": "inferred-from-code",
+      "room": "C 303",
+      "locationText": "Mühendislik Fakültesi \"C Blok Multidisipliner Laboratuvar\" sayfasında \"C 303 ...\" olarak listeli.",
+      "source": "https://fecs.ieu.edu.tr/tr/c-blok-multidisipliner-laboratuvar"
+    },
+    {
+      "name": "Analitik Kimya Laboratuvarı",
+      "building": "C Blok",
+      "floor": 3,
+      "floorBasis": "inferred-from-code",
+      "room": "C 304",
+      "locationText": "Mühendislik Fakültesi \"C Blok Multidisipliner Laboratuvar\" sayfasında \"C 304 ...\" olarak listeli.",
+      "source": "https://fecs.ieu.edu.tr/tr/c-blok-multidisipliner-laboratuvar"
+    },
+    {
+      "name": "Kültür Laboratuvarı",
+      "building": "C Blok",
+      "floor": 3,
+      "floorBasis": "inferred-from-code",
+      "room": "C 306",
+      "locationText": "Mühendislik Fakültesi \"C Blok Multidisipliner Laboratuvar\" sayfasında \"C 306 ...\" olarak listeli.",
+      "source": "https://fecs.ieu.edu.tr/tr/c-blok-multidisipliner-laboratuvar"
+    },
+    {
+      "name": "Mikrobiyoloji Laboratuvarı",
+      "building": "C Blok",
+      "floor": 3,
+      "floorBasis": "inferred-from-code",
+      "room": "C 307",
+      "locationText": "Mühendislik Fakültesi \"C Blok Multidisipliner Laboratuvar\" sayfasında \"C 307 ...\" olarak listeli.",
+      "source": "https://fecs.ieu.edu.tr/tr/c-blok-multidisipliner-laboratuvar"
+    },
+    {
+      "name": "Simultane Lab (resmi listedeki \"Mütercim Tercümanlık Laboratuvarı\" ile aynı olması muhtemel, bu eşleştirme benim çıkarımım)",
+      "building": "C Blok (kod öneki C; sayfa yalnız \"C309\" yazıyor)",
+      "floor": 3,
+      "floorBasis": "inferred-from-code",
+      "room": "C 309",
+      "locationText": "IT müdürlüğü \"FEN EDEBİYAT FAKÜLTESİ LABORATUVARLARI\" sayfası: \"SIMULTANE LAB. (C309)\".",
+      "source": "https://comp.ieu.edu.tr/tr/fen-edebiyat-fakultesi-laboratuvarlari"
+    },
+    {
+      "name": "Robotik ve Mekanik Laboratuvarı",
+      "building": "TESLA",
+      "floor": null,
+      "floorBasis": "unknown",
+      "floorHint": "kodun ilk hanesi 1; OSM TESLA için 2 kat veriyor, kodlar 1 ve 2 ile başlıyor, yani hane tabanı (1 = zemin mi) doğrulanmadı",
+      "room": "ML 102",
+      "locationText": "Mühendislik Fakültesi \"TESLA Laboratuvarları\" sayfasında \"ML 102 ...\" olarak listeli; kod öneki ML, bina sayfa başlığına göre TESLA (CE sayfası da ML-104, ML-105, ML-201 için \"TESLA ...\" diyor).",
+      "source": "https://fecs.ieu.edu.tr/tr/tesla-laboratuvarlari"
+    },
+    {
+      "name": "Endüstri 4.0 Laboratuvarı",
+      "building": "TESLA",
+      "floor": null,
+      "floorBasis": "unknown",
+      "floorHint": "kodun ilk hanesi 1; OSM TESLA için 2 kat veriyor, kodlar 1 ve 2 ile başlıyor, yani hane tabanı (1 = zemin mi) doğrulanmadı",
+      "room": "ML 103",
+      "locationText": "Mühendislik Fakültesi \"TESLA Laboratuvarları\" sayfasında \"ML 103 ...\" olarak listeli; kod öneki ML, bina sayfa başlığına göre TESLA (CE sayfası da ML-104, ML-105, ML-201 için \"TESLA ...\" diyor).",
+      "source": "https://fecs.ieu.edu.tr/tr/tesla-laboratuvarlari"
+    },
+    {
+      "name": "Bilgisayar Oyunları Tasarım Laboratuvarları",
+      "building": "TESLA",
+      "floor": null,
+      "floorBasis": "unknown",
+      "floorHint": "kodun ilk hanesi 1; OSM TESLA için 2 kat veriyor, kodlar 1 ve 2 ile başlıyor, yani hane tabanı (1 = zemin mi) doğrulanmadı",
+      "room": "ML 104",
+      "locationText": "Mühendislik Fakültesi \"TESLA Laboratuvarları\" sayfasında \"ML 104 ...\" olarak listeli; kod öneki ML, bina sayfa başlığına göre TESLA (CE sayfası da ML-104, ML-105, ML-201 için \"TESLA ...\" diyor).",
+      "source": "https://fecs.ieu.edu.tr/tr/tesla-laboratuvarlari"
+    },
+    {
+      "name": "Genel Bilgisayar Laboratuvarı (TESLA Bilgisayar Laboratuvarı 1)",
+      "building": "TESLA",
+      "floor": null,
+      "floorBasis": "unknown",
+      "floorHint": "kodun ilk hanesi 1; OSM TESLA için 2 kat veriyor, kodlar 1 ve 2 ile başlıyor, yani hane tabanı (1 = zemin mi) doğrulanmadı",
+      "room": "ML 105",
+      "locationText": "Mühendislik Fakültesi \"TESLA Laboratuvarları\" sayfasında \"ML 105 ...\" olarak listeli; kod öneki ML, bina sayfa başlığına göre TESLA (CE sayfası da ML-104, ML-105, ML-201 için \"TESLA ...\" diyor).",
+      "source": "https://fecs.ieu.edu.tr/tr/tesla-laboratuvarlari"
+    },
+    {
+      "name": "Moleküler Araştırma Laboratuvarı",
+      "building": "TESLA",
+      "floor": null,
+      "floorBasis": "unknown",
+      "floorHint": "kodun ilk hanesi 1; OSM TESLA için 2 kat veriyor, kodlar 1 ve 2 ile başlıyor, yani hane tabanı (1 = zemin mi) doğrulanmadı",
+      "room": "ML 106",
+      "locationText": "Mühendislik Fakültesi \"TESLA Laboratuvarları\" sayfasında \"ML 106 ...\" olarak listeli; kod öneki ML, bina sayfa başlığına göre TESLA (CE sayfası da ML-104, ML-105, ML-201 için \"TESLA ...\" diyor).",
+      "source": "https://fecs.ieu.edu.tr/tr/tesla-laboratuvarlari"
+    },
+    {
+      "name": "Hücre ve Doku Kültürü Laboratuvarı",
+      "building": "TESLA",
+      "floor": null,
+      "floorBasis": "unknown",
+      "floorHint": "kodun ilk hanesi 1; OSM TESLA için 2 kat veriyor, kodlar 1 ve 2 ile başlıyor, yani hane tabanı (1 = zemin mi) doğrulanmadı",
+      "room": "ML 107",
+      "locationText": "Mühendislik Fakültesi \"TESLA Laboratuvarları\" sayfasında \"ML 107 ...\" olarak listeli; kod öneki ML, bina sayfa başlığına göre TESLA (CE sayfası da ML-104, ML-105, ML-201 için \"TESLA ...\" diyor).",
+      "source": "https://fecs.ieu.edu.tr/tr/tesla-laboratuvarlari"
+    },
+    {
+      "name": "Biyoteknoloji Laboratuvarı",
+      "building": "TESLA",
+      "floor": null,
+      "floorBasis": "unknown",
+      "floorHint": "kodun ilk hanesi 1; OSM TESLA için 2 kat veriyor, kodlar 1 ve 2 ile başlıyor, yani hane tabanı (1 = zemin mi) doğrulanmadı",
+      "room": "ML 108",
+      "locationText": "Mühendislik Fakültesi \"TESLA Laboratuvarları\" sayfasında \"ML 108 ...\" olarak listeli; kod öneki ML, bina sayfa başlığına göre TESLA (CE sayfası da ML-104, ML-105, ML-201 için \"TESLA ...\" diyor).",
+      "source": "https://fecs.ieu.edu.tr/tr/tesla-laboratuvarlari"
+    },
+    {
+      "name": "Genel Bilgisayar Laboratuvarı (TESLA Bilgisayar Laboratuvarı 2)",
+      "building": "TESLA",
+      "floor": null,
+      "floorBasis": "unknown",
+      "floorHint": "kodun ilk hanesi 2; OSM TESLA için 2 kat veriyor, kodlar 1 ve 2 ile başlıyor, yani hane tabanı (1 = zemin mi) doğrulanmadı",
+      "room": "ML 201",
+      "locationText": "Mühendislik Fakültesi \"TESLA Laboratuvarları\" sayfasında \"ML 201 ...\" olarak listeli; kod öneki ML, bina sayfa başlığına göre TESLA (CE sayfası da ML-104, ML-105, ML-201 için \"TESLA ...\" diyor).",
+      "source": "https://fecs.ieu.edu.tr/tr/tesla-laboratuvarlari"
+    },
+    {
+      "name": "Biyomedikal Laboratuvarı",
+      "building": "TESLA",
+      "floor": null,
+      "floorBasis": "unknown",
+      "floorHint": "kodun ilk hanesi 2; OSM TESLA için 2 kat veriyor, kodlar 1 ve 2 ile başlıyor, yani hane tabanı (1 = zemin mi) doğrulanmadı",
+      "room": "ML 202",
+      "locationText": "Mühendislik Fakültesi \"TESLA Laboratuvarları\" sayfasında \"ML 202 ...\" olarak listeli; kod öneki ML, bina sayfa başlığına göre TESLA (CE sayfası da ML-104, ML-105, ML-201 için \"TESLA ...\" diyor).",
+      "source": "https://fecs.ieu.edu.tr/tr/tesla-laboratuvarlari"
+    },
+    {
+      "name": "Elektrik ve Elektronik Laboratuvarı",
+      "building": "TESLA",
+      "floor": null,
+      "floorBasis": "unknown",
+      "floorHint": "kodun ilk hanesi 2; OSM TESLA için 2 kat veriyor, kodlar 1 ve 2 ile başlıyor, yani hane tabanı (1 = zemin mi) doğrulanmadı",
+      "room": "ML 203",
+      "locationText": "Mühendislik Fakültesi \"TESLA Laboratuvarları\" sayfasında \"ML 203 ...\" olarak listeli; kod öneki ML, bina sayfa başlığına göre TESLA (CE sayfası da ML-104, ML-105, ML-201 için \"TESLA ...\" diyor).",
+      "source": "https://fecs.ieu.edu.tr/tr/tesla-laboratuvarlari"
+    },
+    {
+      "name": "Uzay ve Uçak Laboratuvarı",
+      "building": "TESLA",
+      "floor": null,
+      "floorBasis": "unknown",
+      "floorHint": "kodun ilk hanesi 2; OSM TESLA için 2 kat veriyor, kodlar 1 ve 2 ile başlıyor, yani hane tabanı (1 = zemin mi) doğrulanmadı",
+      "room": "ML 205",
+      "locationText": "Mühendislik Fakültesi \"TESLA Laboratuvarları\" sayfasında \"ML 205 ...\" olarak listeli; kod öneki ML, bina sayfa başlığına göre TESLA (CE sayfası da ML-104, ML-105, ML-201 için \"TESLA ...\" diyor).",
+      "source": "https://fecs.ieu.edu.tr/tr/tesla-laboratuvarlari"
+    },
+    {
+      "name": "Elektrik Elektronik Laboratuvarı",
+      "building": "MB Blok (kod öneki MB)",
+      "floor": null,
+      "floorBasis": "unknown",
+      "room": "MB 161",
+      "locationText": "Mühendislik Fakültesi \"MB Blok Laboratuvarları\" sayfası: \"MB 161 ELEKTRİK ELEKTRONİK LABORATUVARI\". ÇELİŞKİ: IT müdürlüğü MB161 için \"MYO GENEL PC LAB.\" diyor (aşağıdaki MYO kaydı).",
+      "source": "https://fecs.ieu.edu.tr/tr/mb-blok-laboratuvarlari",
+      "floorHint": "MB içindeki B harfinin anlamı doğrulanmadı (D Blok'ta DB = -1. Kat)"
+    },
+    {
+      "name": "Makine ve Takım Tezgahları Laboratuvarı (resmi listedeki \"Makine Laboratuvarı\" ile aynı olması muhtemel, bu eşleştirme benim çıkarımım)",
+      "building": "MB Blok (Mühendislik yönetim sayfasında \"M Blok Makina Laboratuvarı Sorumlusu\" unvanı geçiyor)",
+      "floor": null,
+      "floorBasis": "unknown",
+      "room": "MB 171",
+      "locationText": "Mühendislik Fakültesi \"MB Blok Laboratuvarları\" sayfası: \"MB 171 MAKİNE VE TAKIM TEZGAHLARI LABORATUVARI\".",
+      "source": "https://fecs.ieu.edu.tr/tr/mb-blok-laboratuvarlari",
+      "floorHint": "MB içindeki B harfinin anlamı doğrulanmadı",
+      "source2": "https://fecs.ieu.edu.tr/tr/yonetim"
+    },
+    {
+      "name": "MYO MAC LAB",
+      "building": "MB Blok (kod öneki MB)",
+      "floor": null,
+      "floorBasis": "unknown",
+      "room": "MB 160",
+      "locationText": "IT müdürlüğü \"MESLEK YÜKSEK OKULU LABORATUVARLARI\" sayfası: \"MYO MAC LAB (MB160)\".",
+      "source": "https://comp.ieu.edu.tr/tr/meslek-yuksek-okulu-laboratuvarlari",
+      "floorHint": "MB içindeki B harfinin anlamı doğrulanmadı"
+    },
+    {
+      "name": "MYO GENEL PC LAB.",
+      "building": "MB Blok (kod öneki MB)",
+      "floor": null,
+      "floorBasis": "unknown",
+      "room": "MB 161",
+      "locationText": "IT müdürlüğü \"MESLEK YÜKSEK OKULU LABORATUVARLARI\" sayfası: \"MYO GENEL PC LAB. (MB161)\". ÇELİŞKİ: Mühendislik sayfası MB 161 için Elektrik Elektronik Laboratuvarı diyor.",
+      "source": "https://comp.ieu.edu.tr/tr/meslek-yuksek-okulu-laboratuvarlari",
+      "floorHint": "MB içindeki B harfinin anlamı doğrulanmadı"
+    },
+    {
+      "name": "Geoteknik Laboratuvarı",
+      "building": "YB Blok (OSM'deki hangi bina olduğu bulunamadı)",
+      "floor": null,
+      "floorBasis": "unknown",
+      "floorHint": "kodun ilk hanesi 2; YB önekinin anlamı hiçbir kaynakta yok",
+      "room": "YB 201",
+      "locationText": "Mühendislik Fakültesi \"YB Blok İnşaat Laboratuvarları\" sayfası: \"YB 201 ...\".",
+      "source": "https://fecs.ieu.edu.tr/tr/yb-blok-insaat-laboratuvarlari"
+    },
+    {
+      "name": "Hidrolik Laboratuvarı",
+      "building": "YB Blok (OSM'deki hangi bina olduğu bulunamadı)",
+      "floor": null,
+      "floorBasis": "unknown",
+      "floorHint": "kodun ilk hanesi 2; YB önekinin anlamı hiçbir kaynakta yok",
+      "room": "YB 202",
+      "locationText": "Mühendislik Fakültesi \"YB Blok İnşaat Laboratuvarları\" sayfası: \"YB 202 ...\".",
+      "source": "https://fecs.ieu.edu.tr/tr/yb-blok-insaat-laboratuvarlari"
+    },
+    {
+      "name": "Yapı Laboratuvarı",
+      "building": "YB Blok (OSM'deki hangi bina olduğu bulunamadı)",
+      "floor": null,
+      "floorBasis": "unknown",
+      "floorHint": "kodun ilk hanesi 2; YB önekinin anlamı hiçbir kaynakta yok",
+      "room": "YB 204",
+      "locationText": "Mühendislik Fakültesi \"YB Blok İnşaat Laboratuvarları\" sayfası: \"YB 204 ...\".",
+      "source": "https://fecs.ieu.edu.tr/tr/yb-blok-insaat-laboratuvarlari"
+    },
+    {
+      "name": "K-LAB (bilgisayar laboratuvarı)",
+      "building": "K Blok",
+      "floor": 2,
+      "floorBasis": "explicit",
+      "room": null,
+      "locationText": "IT müdürlüğü sayfası: \"Laboratuvar Yeri : K Blok 2. Kat\", \"Laboratuvar Kapasitesi : 50+1\"; donanım listesinde 50 masaüstü PC + 1 hepsi bir arada. Oda numarası yayımlanmamış.",
+      "source": "https://comp.ieu.edu.tr/tr/k-lab",
+      "capacity": "50+1"
+    },
+    {
+      "name": "Fotoğraf Stüdyosu",
+      "building": "D Blok",
+      "floor": 0,
+      "floorBasis": "explicit",
+      "room": "D024",
+      "locationText": "GSTF sayfası: \"Stüdyo Yeri: D Blok Zemin Kat - D024\".",
+      "source": "https://ffad.ieu.edu.tr/tr/studyolar-ve-laboratuarlar"
+    },
+    {
+      "name": "Baskı Stüdyosu",
+      "building": "D Blok",
+      "floor": -1,
+      "floorBasis": "explicit",
+      "room": "DB 030",
+      "locationText": "GSTF sayfası: \"Stüdyo Yeri: D Blok -1.Kat - DB 030\".",
+      "source": "https://ffad.ieu.edu.tr/tr/studyolar-ve-laboratuarlar"
+    },
+    {
+      "name": "CAD Lab (CAD LAB-I)",
+      "building": "D Blok",
+      "floor": 2,
+      "floorBasis": "explicit-range+code",
+      "room": "D201",
+      "locationText": "GSTF sayfası: \"Laboratuvar Yeri: Blok 2.Kat ve 3.Kat - D201-D202-D301-D302\" (sayfada Blok'tan önce D harfi eksik); \"Laboratuvar Kapasitesi: 18\" tüm CAD Lab için bir kez yazılmış. donanım bloğu \"DONANIM (D201)\": 19 PC ve 25 A4 grafik tablet.",
+      "source": "https://ffad.ieu.edu.tr/tr/studyolar-ve-laboratuarlar",
+      "capacity": 18,
+      "capacityNote": "CAD Lab bütünü için bir kez yazılmış, oda başına kapasite belirtilmemiş",
+      "source2": "https://comp.ieu.edu.tr/tr/guzelsanatlar-ve-tasarim-fakultesi-laboratuvarlari"
+    },
+    {
+      "name": "CAD Lab (CAD LAB II)",
+      "building": "D Blok",
+      "floor": 2,
+      "floorBasis": "explicit-range+code",
+      "room": "D202",
+      "locationText": "GSTF sayfası: \"Laboratuvar Yeri: Blok 2.Kat ve 3.Kat - D201-D202-D301-D302\" (sayfada Blok'tan önce D harfi eksik); \"Laboratuvar Kapasitesi: 18\" tüm CAD Lab için bir kez yazılmış.",
+      "source": "https://ffad.ieu.edu.tr/tr/studyolar-ve-laboratuarlar",
+      "capacity": 18,
+      "capacityNote": "CAD Lab bütünü için bir kez yazılmış, oda başına kapasite belirtilmemiş",
+      "source2": "https://comp.ieu.edu.tr/tr/guzelsanatlar-ve-tasarim-fakultesi-laboratuvarlari"
+    },
+    {
+      "name": "CAD Lab (CAD LAB III)",
+      "building": "D Blok",
+      "floor": 3,
+      "floorBasis": "explicit-range+code",
+      "room": "D301",
+      "locationText": "GSTF sayfası: \"Laboratuvar Yeri: Blok 2.Kat ve 3.Kat - D201-D202-D301-D302\" (sayfada Blok'tan önce D harfi eksik); \"Laboratuvar Kapasitesi: 18\" tüm CAD Lab için bir kez yazılmış. donanım bloğu \"D301 - D302\": 19 PC.",
+      "source": "https://ffad.ieu.edu.tr/tr/studyolar-ve-laboratuarlar",
+      "capacity": 18,
+      "capacityNote": "CAD Lab bütünü için bir kez yazılmış, oda başına kapasite belirtilmemiş",
+      "source2": "https://comp.ieu.edu.tr/tr/guzelsanatlar-ve-tasarim-fakultesi-laboratuvarlari"
+    },
+    {
+      "name": "CAD Lab (CAD LAB IV)",
+      "building": "D Blok",
+      "floor": 3,
+      "floorBasis": "explicit-range+code",
+      "room": "D302",
+      "locationText": "GSTF sayfası: \"Laboratuvar Yeri: Blok 2.Kat ve 3.Kat - D201-D202-D301-D302\" (sayfada Blok'tan önce D harfi eksik); \"Laboratuvar Kapasitesi: 18\" tüm CAD Lab için bir kez yazılmış. donanım bloğu \"D301 - D302\": 19 PC.",
+      "source": "https://ffad.ieu.edu.tr/tr/studyolar-ve-laboratuarlar",
+      "capacity": 18,
+      "capacityNote": "CAD Lab bütünü için bir kez yazılmış, oda başına kapasite belirtilmemiş",
+      "source2": "https://comp.ieu.edu.tr/tr/guzelsanatlar-ve-tasarim-fakultesi-laboratuvarlari"
+    },
+    {
+      "name": "MAC Lab (MAC LAB I)",
+      "building": "D Blok",
+      "floor": 2,
+      "floorBasis": "explicit-range+code",
+      "room": "D206",
+      "locationText": "GSTF sayfası: \"Laboratuvar Yeri: D Blok 2. Kat ve 3. Kat - D206-D207-D306-D307\"; \"Laboratuvar Kapasitesi: 20\" tüm MAC Lab için bir kez yazılmış. donanım bloğu \"D206\": 21 iMac.",
+      "source": "https://ffad.ieu.edu.tr/tr/studyolar-ve-laboratuarlar",
+      "capacity": 20,
+      "capacityNote": "MAC Lab bütünü için bir kez yazılmış, oda başına kapasite belirtilmemiş",
+      "source2": "https://comp.ieu.edu.tr/tr/guzelsanatlar-ve-tasarim-fakultesi-laboratuvarlari"
+    },
+    {
+      "name": "MAC Lab (MAC LAB II)",
+      "building": "D Blok",
+      "floor": 2,
+      "floorBasis": "explicit-range+code",
+      "room": "D207",
+      "locationText": "GSTF sayfası: \"Laboratuvar Yeri: D Blok 2. Kat ve 3. Kat - D206-D207-D306-D307\"; \"Laboratuvar Kapasitesi: 20\" tüm MAC Lab için bir kez yazılmış. donanım bloğu \"D207\": 21 iMac.",
+      "source": "https://ffad.ieu.edu.tr/tr/studyolar-ve-laboratuarlar",
+      "capacity": 20,
+      "capacityNote": "MAC Lab bütünü için bir kez yazılmış, oda başına kapasite belirtilmemiş",
+      "source2": "https://comp.ieu.edu.tr/tr/guzelsanatlar-ve-tasarim-fakultesi-laboratuvarlari"
+    },
+    {
+      "name": "MAC Lab (MAC LAB III)",
+      "building": "D Blok",
+      "floor": 3,
+      "floorBasis": "explicit-range+code",
+      "room": "D306",
+      "locationText": "GSTF sayfası: \"Laboratuvar Yeri: D Blok 2. Kat ve 3. Kat - D206-D207-D306-D307\"; \"Laboratuvar Kapasitesi: 20\" tüm MAC Lab için bir kez yazılmış.",
+      "source": "https://ffad.ieu.edu.tr/tr/studyolar-ve-laboratuarlar",
+      "capacity": 20,
+      "capacityNote": "MAC Lab bütünü için bir kez yazılmış, oda başına kapasite belirtilmemiş",
+      "source2": "https://comp.ieu.edu.tr/tr/guzelsanatlar-ve-tasarim-fakultesi-laboratuvarlari"
+    },
+    {
+      "name": "MAC Lab (MAC LAB IV)",
+      "building": "D Blok",
+      "floor": 3,
+      "floorBasis": "explicit-range+code",
+      "room": "D307",
+      "locationText": "GSTF sayfası: \"Laboratuvar Yeri: D Blok 2. Kat ve 3. Kat - D206-D207-D306-D307\"; \"Laboratuvar Kapasitesi: 20\" tüm MAC Lab için bir kez yazılmış.",
+      "source": "https://ffad.ieu.edu.tr/tr/studyolar-ve-laboratuarlar",
+      "capacity": 20,
+      "capacityNote": "MAC Lab bütünü için bir kez yazılmış, oda başına kapasite belirtilmemiş",
+      "source2": "https://comp.ieu.edu.tr/tr/guzelsanatlar-ve-tasarim-fakultesi-laboratuvarlari"
+    },
+    {
+      "name": "OPEN LAB I",
+      "building": "D Blok",
+      "floor": 2,
+      "floorBasis": "inferred-from-code",
+      "room": "D205",
+      "locationText": "IT müdürlüğü (GSTF laboratuvarları) sayfası: \"OPEN LAB I (D205)\".",
+      "source": "https://comp.ieu.edu.tr/tr/guzelsanatlar-ve-tasarim-fakultesi-laboratuvarlari"
+    },
+    {
+      "name": "OPEN LAB II",
+      "building": "D Blok",
+      "floor": 3,
+      "floorBasis": "inferred-from-code",
+      "room": "D305",
+      "locationText": "IT müdürlüğü (GSTF laboratuvarları) sayfası: \"OPEN LAB II (D305)\".",
+      "source": "https://comp.ieu.edu.tr/tr/guzelsanatlar-ve-tasarim-fakultesi-laboratuvarlari"
+    },
+    {
+      "name": "ASSYST Laboratuvarı (ASSIST LAB)",
+      "building": "D Blok",
+      "floor": 2,
+      "floorBasis": "explicit",
+      "room": "D223",
+      "locationText": "GSTF sayfası: \"Laboratuvar Yeri: D Blok 2.Kat - D223 Laboratuvar Kapasitesi: 14\" (15 PC listeli).",
+      "source": "https://ffad.ieu.edu.tr/tr/studyolar-ve-laboratuarlar",
+      "capacity": 14,
+      "source2": "https://comp.ieu.edu.tr/tr/guzelsanatlar-ve-tasarim-fakultesi-laboratuvarlari"
+    },
+    {
+      "name": "Kalıp ve Dikiş Atölyesi",
+      "building": "D Blok",
+      "floor": 1,
+      "floorBasis": "explicit-range+code",
+      "room": "D126",
+      "locationText": "GSTF sayfası: \"Atölye Yeri: D Blok 1.Kat ve 2.Kat - D126-D128-D224-D226\"; sayfada \"KALIP DİKİŞ ATÖLYESİ (D126)\" bloğu var (8 düz dikiş makinesi ve diğerleri).",
+      "source": "https://ffad.ieu.edu.tr/tr/studyolar-ve-laboratuarlar"
+    },
+    {
+      "name": "Kalıp ve Dikiş Atölyesi",
+      "building": "D Blok",
+      "floor": 1,
+      "floorBasis": "explicit-range+code",
+      "room": "D128",
+      "locationText": "GSTF sayfası: \"Atölye Yeri: D Blok 1.Kat ve 2.Kat - D126-D128-D224-D226\"; sayfada \"KALIP DİKİŞ ATÖLYESİ (D128)\" bloğu var (17 düz dikiş makinesi ve diğerleri).",
+      "source": "https://ffad.ieu.edu.tr/tr/studyolar-ve-laboratuarlar"
+    },
+    {
+      "name": "Kalıp ve Dikiş Atölyesi",
+      "building": "D Blok",
+      "floor": 2,
+      "floorBasis": "explicit-range+code",
+      "room": "D224",
+      "locationText": "GSTF sayfası: \"Atölye Yeri: D Blok 1.Kat ve 2.Kat - D126-D128-D224-D226\"; oda listesinde geçiyor, ayrı donanım bloğu yok.",
+      "source": "https://ffad.ieu.edu.tr/tr/studyolar-ve-laboratuarlar"
+    },
+    {
+      "name": "Kalıp ve Dikiş Atölyesi",
+      "building": "D Blok",
+      "floor": 2,
+      "floorBasis": "explicit-range+code",
+      "room": "D226",
+      "locationText": "GSTF sayfası: \"Atölye Yeri: D Blok 1.Kat ve 2.Kat - D126-D128-D224-D226\"; sayfada \"KALIP DİKİŞ ATÖLYESİ (D226)\" bloğu var (10 düz dikiş makinesi ve diğerleri).",
+      "source": "https://ffad.ieu.edu.tr/tr/studyolar-ve-laboratuarlar"
+    },
+    {
+      "name": "D.Makerlab",
+      "building": "D Blok",
+      "floor": -1,
+      "floorBasis": "explicit",
+      "room": "DB21",
+      "locationText": "GSTF sayfası: \"Laboratuvar Yeri: D Blok -1. Kat - DB21-DB22-DB26-DB28\"; makine odası (MAKİNA ODASI: ahşap ve metal tezgahlar).",
+      "source": "https://ffad.ieu.edu.tr/tr/studyolar-ve-laboratuarlar",
+      "roomRole": "makine odası (MAKİNA ODASI: ahşap ve metal tezgahlar)"
+    },
+    {
+      "name": "D.Makerlab",
+      "building": "D Blok",
+      "floor": -1,
+      "floorBasis": "explicit",
+      "room": "DB22",
+      "locationText": "GSTF sayfası: \"Laboratuvar Yeri: D Blok -1. Kat - DB21-DB22-DB26-DB28\"; oda listesinde geçiyor, sayfada açıklaması yok.",
+      "source": "https://ffad.ieu.edu.tr/tr/studyolar-ve-laboratuarlar",
+      "roomRole": "oda listesinde geçiyor, sayfada açıklaması yok"
+    },
+    {
+      "name": "D.Makerlab",
+      "building": "D Blok",
+      "floor": -1,
+      "floorBasis": "explicit",
+      "room": "DB26",
+      "locationText": "GSTF sayfası: \"Laboratuvar Yeri: D Blok -1. Kat - DB21-DB22-DB26-DB28\"; lazer kesim odası (LAZER KESİM ODASI).",
+      "source": "https://ffad.ieu.edu.tr/tr/studyolar-ve-laboratuarlar",
+      "roomRole": "lazer kesim odası (LAZER KESİM ODASI)"
+    },
+    {
+      "name": "D.Makerlab",
+      "building": "D Blok",
+      "floor": -1,
+      "floorBasis": "explicit",
+      "room": "DB28",
+      "locationText": "GSTF sayfası: \"Laboratuvar Yeri: D Blok -1. Kat - DB21-DB22-DB26-DB28\"; 3 boyutlu yazıcı odası (3 BOYUTLU YAZICI ODASI).",
+      "source": "https://ffad.ieu.edu.tr/tr/studyolar-ve-laboratuarlar",
+      "roomRole": "3 boyutlu yazıcı odası (3 BOYUTLU YAZICI ODASI)"
+    },
+    {
+      "name": "Ses Tasarım Stüdyosu",
+      "building": "D Blok",
+      "floor": 2,
+      "floorBasis": "explicit",
+      "room": "D208",
+      "locationText": "GSTF sayfası: \"Laboratuvar Yeri: D Block 2. Kat - D208\".",
+      "source": "https://ffad.ieu.edu.tr/tr/studyolar-ve-laboratuarlar"
+    }
+  ],
+  "deptOffices": [
+    {
+      "department": "Meslek Yüksekokulu, İnşaat Teknolojisi (personel ofisleri)",
+      "kind": "staff offices",
+      "building": "A Blok",
+      "floors": null,
+      "floorHint": "kodun ilk hanesi 1; bu kuralın A Blok için doğrulaması yok (A Blok'ta tek açık kat kanıtı PGDM -1. Kat / kod 1B18)",
+      "rooms": [
+        "A Blok 111",
+        "A Blok 117"
+      ],
+      "source": "https://vs.ieu.edu.tr/insaat/tr/iletisim",
+      "note": "Sayfada \"Ofis: A Blok 111\" ve \"Ofis: A Blok 117\" satırları var (İngilizce sayfa aynı)."
+    },
+    {
+      "department": "Meslek Yüksekokulu, Bilgisayar Programcılığı (personel ofisleri)",
+      "kind": "staff offices",
+      "building": "A Blok",
+      "floors": null,
+      "floorHint": "kodun ilk hanesi 1; bu kuralın A Blok için doğrulaması yok (A Blok'ta tek açık kat kanıtı PGDM -1. Kat / kod 1B18)",
+      "rooms": [
+        "A Blok 105",
+        "A Blok 117"
+      ],
+      "source": "https://vs.ieu.edu.tr/cp/tr/iletisim"
+    },
+    {
+      "department": "Meslek Yüksekokulu, İç Mekân Tasarımı (personel ofisleri)",
+      "kind": "staff offices",
+      "building": "A Blok",
+      "floors": null,
+      "floorHint": "kodun ilk hanesi 1; bu kuralın A Blok için doğrulaması yok (A Blok'ta tek açık kat kanıtı PGDM -1. Kat / kod 1B18)",
+      "rooms": [
+        "A Blok 110",
+        "A Blok 117"
+      ],
+      "source": "https://vs.ieu.edu.tr/interior_design/tr/iletisim",
+      "note": "A Blok 117 üç programın sayfasında da geçiyor, muhtemelen ortak bir ofis (belirtilmemiş)."
+    },
+    {
+      "department": "Meslek Yüksekokulu Sekreterliği",
+      "kind": "staff offices",
+      "building": "A Blok",
+      "floors": null,
+      "floorHint": "kodun ilk hanesi 1; bu kuralın A Blok için doğrulaması yok (A Blok'ta tek açık kat kanıtı PGDM -1. Kat / kod 1B18)",
+      "rooms": [
+        "A Blok 118"
+      ],
+      "source": "https://vs.ieu.edu.tr/tr/iletisim-bilgileri",
+      "note": "Sayfa metni: \"Ofis: A blok 118\" (sekreterlik)."
+    },
+    {
+      "department": "Tıp Fakültesi",
+      "kind": "teaching spaces",
+      "building": "C Blok",
+      "floors": null,
+      "rooms": [],
+      "source": "https://tip.ieu.edu.tr/tr/sss",
+      "note": "SSS metni: \"Tıp Fakültesi, eğitim faaliyetlerini İzmir Ekonomi Üniversitesi kampüsü C blokta yürütmektedir.\" Kat ve oda verilmemiş."
+    },
+    {
+      "department": "Güzel Sanatlar ve Tasarım Fakültesi (stüdyo ve laboratuvarlar)",
+      "kind": "teaching spaces",
+      "building": "D Blok",
+      "floors": [
+        -1,
+        0,
+        1,
+        2,
+        3
+      ],
+      "floorBasis": "explicit",
+      "rooms": [
+        "DB21",
+        "DB22",
+        "DB26",
+        "DB28",
+        "DB 030",
+        "D024",
+        "D126",
+        "D128",
+        "D201",
+        "D202",
+        "D205",
+        "D206",
+        "D207",
+        "D208",
+        "D223",
+        "D224",
+        "D226",
+        "D301",
+        "D302",
+        "D305",
+        "D306",
+        "D307"
+      ],
+      "source": "https://ffad.ieu.edu.tr/tr/studyolar-ve-laboratuarlar",
+      "note": "Yalnız stüdyo/lab odaları; fakültenin personel ofisleri ve dekanlık bulunamadı."
+    },
+    {
+      "department": "Yabancı Diller Yüksekokulu (hazırlık programı)",
+      "kind": "teaching spaces",
+      "building": "E Blok",
+      "floors": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "floorBasis": "inferred-from-code",
+      "rooms": [
+        "E 101",
+        "E 102",
+        "E 103",
+        "E 104",
+        "E 105",
+        "E 109",
+        "E 110",
+        "E 111",
+        "E 112",
+        "E 113",
+        "E 114",
+        "E 201",
+        "E 202",
+        "E 203",
+        "E 204",
+        "E 205",
+        "E 209",
+        "E 210",
+        "E 211",
+        "E 212",
+        "E 213",
+        "E 214",
+        "E 301",
+        "E 302",
+        "E 303",
+        "E 304",
+        "E 305",
+        "E 308",
+        "E 309",
+        "E 311",
+        "E 401",
+        "E 402",
+        "E 403",
+        "E 404",
+        "E 405",
+        "E 406",
+        "E 407",
+        "E 408",
+        "E 409",
+        "E 410",
+        "E 411",
+        "E 501",
+        "E 502",
+        "E 503",
+        "E 504",
+        "E 505",
+        "E 506",
+        "E 507",
+        "E 508",
+        "E 509",
+        "E 510",
+        "E 511",
+        "E 601",
+        "E 602",
+        "E 603",
+        "E 604",
+        "E 605",
+        "E 606",
+        "E 607",
+        "E 608",
+        "E 609"
+      ],
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829",
+      "note": "Derslik kodları E 101 - E 609. Müdürlük: Welcome Day haritasında 1 numaralı nokta E Blok üzerinde; 2018-19 el kitabı \"YDYO Binası 7. Kat Müdürlük Ofisi\" ve \"YDYO 1.kattaki ofisimiz\" diyor (YDYO Binası = E Blok olduğu benim çıkarımım)."
+    },
+    {
+      "department": "Mühendislik Fakültesi, Bilgisayar Mühendisliği (laboratuvarlar)",
+      "kind": "teaching spaces",
+      "building": "C Blok ve TESLA",
+      "floors": null,
+      "rooms": [
+        "C-601",
+        "C-602",
+        "C-606",
+        "ML-104",
+        "ML-105",
+        "ML-201"
+      ],
+      "source": "https://ce.ieu.edu.tr/tr/laboratuvarlarimiz",
+      "note": "CE sayfası \"Laboratuvarlarımız\" (bölüm sayfalarında personel ofisi yayımlanmıyor)."
+    },
+    {
+      "department": "Mühendislik Fakültesi, İnşaat Mühendisliği (laboratuvarlar)",
+      "kind": "teaching spaces",
+      "building": "YB Blok",
+      "floors": null,
+      "rooms": [
+        "YB 201",
+        "YB 202",
+        "YB 204"
+      ],
+      "source": "https://fecs.ieu.edu.tr/tr/yb-blok-insaat-laboratuvarlari",
+      "note": "İnşaat Mühendisliği'ne yalnız laboratuvar adlarından (Geoteknik, Hidrolik, Yapı) atfedildi; sayfa fakülte sayfası."
+    },
+    {
+      "department": "Mühendislik Fakültesi, diğer laboratuvarlar",
+      "kind": "teaching spaces",
+      "building": "C Blok, TESLA, MB Blok, K Blok",
+      "floors": null,
+      "rooms": [
+        "C 302",
+        "C 303",
+        "C 304",
+        "C 306",
+        "C 307",
+        "C 604",
+        "C 605",
+        "C 608",
+        "C 609",
+        "ML 102",
+        "ML 103",
+        "ML 106",
+        "ML 107",
+        "ML 108",
+        "ML 202",
+        "ML 203",
+        "ML 205",
+        "MB 161",
+        "MB 171",
+        "K-LAB (K Blok 2. Kat)"
+      ],
+      "source": "https://fecs.ieu.edu.tr/tr/yonetim",
+      "note": "Oda bazında kaynaklar için labs[] kayıtlarına bakın."
+    },
+    {
+      "department": "Fen-Edebiyat Fakültesi (simultane tercüme laboratuvarı)",
+      "kind": "teaching spaces",
+      "building": "C Blok (kod öneki)",
+      "floors": [
+        3
+      ],
+      "floorBasis": "inferred-from-code",
+      "rooms": [
+        "C 309"
+      ],
+      "source": "https://comp.ieu.edu.tr/tr/fen-edebiyat-fakultesi-laboratuvarlari"
+    }
+  ],
+  "units": [
+    {
+      "unit": "Yabancı Diller Yüksekokulu Müdürlüğü (School of Foreign Languages Directorate)",
+      "building": "E Blok",
+      "floor": null,
+      "floorHint": "7 (2018-19 el kitabında \"YDYO Binası 7. Kat\"; YDYO Binası = E Blok bağlantısı çıkarım, kat eski olabilir)",
+      "locationText": "Bina: Welcome Day 2026 kampüs haritasında 1 numaralı hizmet noktası E Blok üzerinde. Kat: 2018-19 YDYO el kitabı \"YDYO Binası 7. Kat Müdürlük Ofisi\" diyor (el kitabı E Blok demiyor; YDYO Binası = E Blok olduğu benim çıkarımım; kat bilgisi eski olabilir).",
+      "source": "https://phoenix.ieu.edu.tr/betanix/uploads/duyuru/duyuru_1789732287.pdf",
+      "source2": "https://sfl.ieu.edu.tr/docs/2018_2019_Student_Booklet_TR.pdf",
+      "basis": "map marker + old booklet text"
+    },
+    {
+      "unit": "Sağlık, Kültür ve Spor Müdürlüğü (Health, Culture and Sports Directorate)",
+      "building": "E Blok",
+      "floor": null,
+      "locationText": "Kampüs haritasında 2 numaralı hizmet noktası, E Blok üzerinde.",
+      "source": "https://phoenix.ieu.edu.tr/betanix/uploads/duyuru/duyuru_1789732287.pdf",
+      "basis": "map marker"
+    },
+    {
+      "unit": "SFL PREP Student Success Center",
+      "building": "E Blok",
+      "floor": null,
+      "locationText": "Kampüs haritasında 3 numaralı hizmet noktası, E Blok üzerinde.",
+      "source": "https://phoenix.ieu.edu.tr/betanix/uploads/duyuru/duyuru_1789732287.pdf",
+      "basis": "map marker"
+    },
+    {
+      "unit": "IUE Office of Micro-Credentials",
+      "building": "E Blok",
+      "floor": null,
+      "locationText": "Kampüs haritasında 11 numaralı hizmet noktası, E Blok üzerinde.",
+      "source": "https://phoenix.ieu.edu.tr/betanix/uploads/duyuru/duyuru_1789732287.pdf",
+      "basis": "map marker"
+    },
+    {
+      "unit": "Sağlık Ofisi (Health Office)",
+      "building": "A Blok",
+      "floor": null,
+      "locationText": "Kampüs haritasında 4 numaralı hizmet noktası, A Blok'un batı ucunda (K Blok ile birleşim yakını).",
+      "source": "https://phoenix.ieu.edu.tr/betanix/uploads/duyuru/duyuru_1789732287.pdf",
+      "basis": "map marker"
+    },
+    {
+      "unit": "Öğrenci Dekanlığı (Dean of Students)",
+      "building": "A Blok",
+      "floor": null,
+      "locationText": "Kampüs haritasında 5 numaralı hizmet noktası, A Blok üzerinde. Birimin iletişim sayfası yalnız posta adresini veriyor.",
+      "source": "https://phoenix.ieu.edu.tr/betanix/uploads/duyuru/duyuru_1789732287.pdf",
+      "source2": "https://dos.ieu.edu.tr/tr/contact_information",
+      "basis": "map marker"
+    },
+    {
+      "unit": "Öğrenci İşleri Daire Başkanlığı (Student Affairs Directorate)",
+      "building": "A Blok",
+      "floor": null,
+      "locationText": "Kampüs haritasında 7 numaralı hizmet noktası, A Blok'un güneydoğu kanadında. Birimin iletişim sayfası yalnız telefon/e-posta veriyor (konum yok).",
+      "source": "https://phoenix.ieu.edu.tr/betanix/uploads/duyuru/duyuru_1789732287.pdf",
+      "basis": "map marker"
+    },
+    {
+      "unit": "IT Support / Sistem ve Operasyon Müdürlüğü",
+      "building": "A Blok",
+      "floor": null,
+      "floorHint": "0 (Zemin kat; iletişim sayfası blok adı vermiyor, A Blok bağlantısı çıkarım)",
+      "locationText": "Bina: kampüs haritasında 8 numaralı nokta (\"IT Support\"), A Blok üzerinde, Konferans Salonu yakını. Kat: IT müdürlüğü iletişim sayfası \"Sistem ve Operasyon Müdürlüğü Zemin katta İdari Ofisler kısmında hizmet vermektedir\" diyor ama blok adı vermiyor (ikisini birleştirmek benim çıkarımım).",
+      "source": "https://phoenix.ieu.edu.tr/betanix/uploads/duyuru/duyuru_1789732287.pdf",
+      "source2": "https://comp.ieu.edu.tr/tr/iletisim",
+      "basis": "map marker + text"
+    },
+    {
+      "unit": "Kütüphane ve Dokümantasyon Müdürlüğü (Kütüphane)",
+      "building": "K Blok",
+      "floor": null,
+      "locationText": "Kampüs haritasında 9 numaralı nokta, K Blok'un güney yüzünde. Kütüphane sitesi: \"Alt Kat 7/24 açıktır\"; dönem içi hafta içi 08.30-22.00, cumartesi 10.00-17.00, pazar kapalı. Kat numarası yayımlanmamış.",
+      "source": "https://phoenix.ieu.edu.tr/betanix/uploads/duyuru/duyuru_1789732287.pdf",
+      "source2": "https://kutuphane.ieu.edu.tr/tr",
+      "basis": "map marker + site text"
+    },
+    {
+      "unit": "Psikolojik Gelişim ve Danışma Merkezi (PGDM)",
+      "building": "A Blok",
+      "floor": -1,
+      "rooms": [
+        "1B18",
+        "1B19"
+      ],
+      "locationText": "İletişim sayfası: \"A Blok, -1. Kat, Ofis 1B18 ve 1B19\". Kampüs haritasında 10 numaralı nokta A Blok'un doğu ucunda.",
+      "source": "https://pgdm.ieu.edu.tr/tr/iletisim",
+      "source2": "https://phoenix.ieu.edu.tr/betanix/uploads/duyuru/duyuru_1789732287.pdf",
+      "basis": "explicit text"
+    },
+    {
+      "unit": "EKOEĞİTİM (Öğretme ve Öğrenme Merkezi, TLC)",
+      "building": "A Blok",
+      "floor": 0,
+      "locationText": "İletişim sayfası: \"A Blok, Zemin Kat\". NOT: Welcome Day haritası TLC'yi (6 numaralı nokta) M Blok'un güney ucunda gösteriyor; A, K ve M tek bağlantılı yapı olduğundan iki ifade de doğru olabilir, çözülmedi.",
+      "source": "https://www.ieu.edu.tr/tlc/tr/iletisim-bilgileri",
+      "source2": "https://phoenix.ieu.edu.tr/betanix/uploads/duyuru/duyuru_1789732287.pdf",
+      "basis": "explicit text"
+    },
+    {
+      "unit": "Meslek Yüksekokulu Sekreterliği",
+      "building": "A Blok",
+      "floor": null,
+      "floorHint": "kodun ilk hanesi 1, doğrulanmadı",
+      "rooms": [
+        "A Blok 118"
+      ],
+      "locationText": "İletişim sayfası: \"Ofis: A blok 118\".",
+      "source": "https://vs.ieu.edu.tr/tr/iletisim-bilgileri",
+      "basis": "explicit text"
+    },
+    {
+      "unit": "Konferans Salonu (Conference hall)",
+      "building": null,
+      "floor": null,
+      "locationText": "Haritada A Blok'un hemen kuzeyinde, yuvarlak müstakil salon (\"Conference hall\"). Bir Meslek Yüksekokulu haber metni (vs.ieu.edu.tr/cp/tr/iletisim sayfasındaki 5 Aralık 2024 etkinliği) \"A Blok konferans salonu\" diyor; etkinlik sayfaları yalnız \"Yer: Konferans Salonu\" yazıyor.",
+      "source": "https://phoenix.ieu.edu.tr/betanix/uploads/duyuru/duyuru_1789732287.pdf",
+      "source2": "https://www.ieu.edu.tr/tr/events/type/read/id/1757",
+      "basis": "map + text"
+    },
+    {
+      "unit": "Amfi Tiyatro (açık hava amfisi)",
+      "building": null,
+      "floor": null,
+      "locationText": "Welcome Day haritasında kampüsün kuzey-ortasında, Conference hall'un kuzeyinde. Hazırlık programı Welcome Day 21 Eylül 2026 saat 09.30'da orada başlıyor (\"Saat 09.30 itibarıyla Amfi Tiyatro'da buluşarak güne başlayacağız\").",
+      "source": "https://phoenix.ieu.edu.tr/betanix/uploads/duyuru/duyuru_1789732287.pdf",
+      "source2": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829",
+      "basis": "map + text"
+    },
+    {
+      "unit": "Öğrenci Yurtları (Yurt Binası)",
+      "building": "Yurt Binası",
+      "floor": null,
+      "locationText": "Haritada kampüsün doğusunda (\"Dormitory\"). Yurt müdürlüğü posta adresi \"Sakarya Caddesi, No:156/3\" (kampüs No:156). Tıp SSS metni yurtta 1 ve 4 kişilik odalar, çamaşırhane ve mutfak olduğunu söylüyor (kat bilgisi yok).",
+      "source": "https://yurt.ieu.edu.tr/tr/iletisim",
+      "source2": "https://phoenix.ieu.edu.tr/betanix/uploads/duyuru/duyuru_1789732287.pdf",
+      "basis": "text + map"
+    },
+    {
+      "unit": "Tıp Fakültesi (eğitim faaliyetleri)",
+      "building": "C Blok",
+      "floor": null,
+      "locationText": "SSS: \"Tıp Fakültesi, eğitim faaliyetlerini İzmir Ekonomi Üniversitesi kampüsü C blokta yürütmektedir.\" Dekanlık konumu bulunamadı.",
+      "source": "https://tip.ieu.edu.tr/tr/sss",
+      "basis": "explicit text"
+    },
+    {
+      "unit": "Haritadaki yeme-içme ve satış noktaları",
+      "building": null,
+      "floor": null,
+      "locationText": "Gösterge adları: LIBRARY, MILKY CANTEEN, YIGIT BAKERY & CAFE, GOFRETTE CAFE, STATIONERY STORE, SMC DINING HALL, CAMPUS KITCHEN, TUCK COFFEE, STARBUCKS, NIKI THE CAT COFFEE, SOTE CAMPUS DINING, EKOFIT. Konumlar D, E, A, M blokları ve yurt çevresinde renkli nokta/pin olarak çizili; tek tek çözülmedi.",
+      "source": "https://phoenix.ieu.edu.tr/betanix/uploads/duyuru/duyuru_1789732287.pdf",
+      "basis": "map legend"
+    },
+    {
+      "unit": "Kapılar",
+      "building": null,
+      "floor": null,
+      "locationText": "Haritada üç kapı: \"A GATE\" (güney, Sakarya Street), \"C GATE\" (batı, E Blok yanı), \"D GATE\" (kuzey, D Blok yanı).",
+      "source": "https://phoenix.ieu.edu.tr/betanix/uploads/duyuru/duyuru_1789732287.pdf",
+      "basis": "map"
+    }
+  ],
+  "periods": [
+    {
+      "n": 1,
+      "start": "08:30",
+      "end": null,
+      "endEstimateIf45min": "09:15",
+      "startBasis": "observed",
+      "source": "https://phoenix.ieu.edu.tr/betanix/uploads/cms/oim.ieu.edu.tr/4406_1789127088_373.pdf"
+    },
+    {
+      "n": 2,
+      "start": "09:25",
+      "end": null,
+      "endEstimateIf45min": "10:10",
+      "startBasis": "observed",
+      "source": "https://phoenix.ieu.edu.tr/betanix/uploads/cms/oim.ieu.edu.tr/4406_1789127088_373.pdf"
+    },
+    {
+      "n": 3,
+      "start": "10:20",
+      "end": null,
+      "endEstimateIf45min": "11:05",
+      "startBasis": "observed",
+      "source": "https://phoenix.ieu.edu.tr/betanix/uploads/cms/oim.ieu.edu.tr/4406_1789127088_373.pdf"
+    },
+    {
+      "n": 4,
+      "start": "11:15",
+      "end": null,
+      "endEstimateIf45min": "12:00",
+      "startBasis": "observed",
+      "source": "https://phoenix.ieu.edu.tr/betanix/uploads/cms/oim.ieu.edu.tr/4406_1789127088_373.pdf"
+    },
+    {
+      "n": 5,
+      "start": "12:10",
+      "end": null,
+      "endEstimateIf45min": "12:55",
+      "startBasis": "observed",
+      "source": "https://phoenix.ieu.edu.tr/betanix/uploads/cms/oim.ieu.edu.tr/4406_1789127088_373.pdf"
+    },
+    {
+      "n": 6,
+      "start": "13:05",
+      "end": null,
+      "endEstimateIf45min": "13:50",
+      "startBasis": "observed",
+      "source": "https://phoenix.ieu.edu.tr/betanix/uploads/cms/oim.ieu.edu.tr/4406_1789127088_373.pdf"
+    },
+    {
+      "n": 7,
+      "start": "14:00",
+      "end": null,
+      "endEstimateIf45min": "14:45",
+      "startBasis": "observed",
+      "source": "https://phoenix.ieu.edu.tr/betanix/uploads/cms/oim.ieu.edu.tr/4406_1789127088_373.pdf"
+    },
+    {
+      "n": 8,
+      "start": "14:55",
+      "end": null,
+      "endEstimateIf45min": "15:40",
+      "startBasis": "observed",
+      "source": "https://phoenix.ieu.edu.tr/betanix/uploads/cms/oim.ieu.edu.tr/4406_1789127088_373.pdf"
+    },
+    {
+      "n": 9,
+      "start": "15:50",
+      "end": null,
+      "endEstimateIf45min": "16:35",
+      "startBasis": "observed",
+      "source": "https://phoenix.ieu.edu.tr/betanix/uploads/cms/oim.ieu.edu.tr/4406_1789127088_373.pdf"
+    },
+    {
+      "n": 10,
+      "start": "16:45",
+      "end": null,
+      "endEstimateIf45min": "17:30",
+      "startBasis": "inferred: afternoon prep blocks 12.10-17.30 hold 6 lessons on the same 55-minute start grid (not observed for undergraduate courses)",
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    }
+  ],
+  "periodsNotes": {
+    "summary": "Lisans dersi başlangıç saatleri, güncel OBS ders kayıt ekranında (kılavuz 11 Eylül 2026 tarihli, PDF sayfa 10 ekran görüntüsü): 08:30, 09:25, 10:20, 11:15, 12:10, 13:05, 14:00, 14:55, 15:50 (55 dakikalık ızgara). Bir kredi saati = bir dilim, örn. \"CDM 431 [Cum 08:30, Cum 09:25, Cum 10:20]\", \"ECON 203 [Cum 10:20, Cum 11:15, Cum 12:10]\", \"ECON 324 [Pzt 14:00, Pzt 14:55, Pzt 15:50]\". BİTİŞ saatleri ve teneffüs süreleri kaynaklarda yok. Dersler 45 dk ise (hazırlık programı pencereleri bunu ima ediyor) teneffüs 10 dk olur; bu benim aritmetiğim, yazılı bilgi değil.",
+    "prepProgram2026_27": {
+      "source": "https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829",
+      "module1": [
+        {
+          "level": "A (AST grupları)",
+          "days": "Pzt-Çar-Cum",
+          "hours": "12.10-17.30"
+        },
+        {
+          "level": "A (AST grupları)",
+          "days": "Sal-Per",
+          "hours": "08.30-13.50"
+        },
+        {
+          "level": "B (BST grupları)",
+          "days": "Pzt-Çar-Cum",
+          "hours": "08.30-13.50"
+        },
+        {
+          "level": "B (BST grupları)",
+          "days": "Sal-Per",
+          "hours": "12.10-17.30"
+        },
+        {
+          "level": "C (CST grupları)",
+          "days": "Pzt-Çar-Cum",
+          "hours": "08.30-13.50"
+        },
+        {
+          "level": "C (CST grupları)",
+          "days": "Sal-Per",
+          "hours": "12.10-17.30"
+        }
+      ],
+      "inference": "08.30-13.50 penceresi 6 ders: 08:30, 09:25, 10:20, 11:15, 12:10, 13:05 başlar ve 13:50'de biter ancak her ders 45 dk ise (benim aritmetiğim, yazılı değil)."
+    },
+    "legacy_prepProgram_2018_19": {
+      "source": "https://sfl.ieu.edu.tr/docs/2018_2019_Student_Booklet_TR.pdf",
+      "note": "Eski el kitabı, büyük olasılıkla geçersiz: 45 dk dersler; 1. çizelge 08:45-09:30, 09:45-10:30, 10:45-11:30, 11:45-12:30, öğle arası 12:30-13:30, 13:30-14:15, 14:30-15:15; 2. çizelge 09:00-09:45, 10:00-10:45, 11:00-11:45, 12:00-12:45, öğle arası 12:45-13:45, 13:45-14:30, 14:45-15:30."
+    },
+    "legacy_undergrad_OASIS_2010": {
+      "source": "https://oim.ieu.edu.tr/wp-content/DERS%20KAYIT%20A%C3%87IKLAMALARI%20-%20%C3%B6%C4%9Frenciler%20i%C3%A7in2.pdf",
+      "note": "Öğrenci İşleri PDF'inde (Şubat 2010, 2009-2010 bahar dönemi) haftalık ders programı ızgarası satırları: 8:30-9:20, 9:30-10:20, 10:30-11:20, 11:30-12:20, 12:30-13:20, 13:30-14:20, 14:30-15:20, 15:30-16:20, 16:30-17:20, 17:30-18:20, 18:30-19:20, 19:30-20:20 (12 satır, akşam satırları 20:20'ye kadar). Büyük olasılıkla yukarıdaki 55 dakikalık ızgara ile değişmiş. Aynı ekran görüntüsünde örnek ders satırı: \"HIST 201 ... Derslik CB 101 ... Pazartesi 12:30 - 14:20\"."
+    },
+    "evening": "Akşam dersleri için güncel (2026) kaynak bulunamadı; yalnız 2010 ızgarası 20:20'ye uzanıyor."
+  },
+  "floorPlanDocs": [
+    {
+      "title": "Yabancı Diller Yüksekokulu Welcome Day 2026-27 broşürü, 2. sayfa resmi \"Campus Map\" (2 sayfa, 27 Ağustos 2026)",
+      "url": "https://phoenix.ieu.edu.tr/betanix/uploads/duyuru/duyuru_1789732287.pdf",
+      "notes": "Ölçeksiz şematik kampüs planı; tüm ana bloklar etiketli: D Block, E Block, C Block, K Block, A Block, M Block, T.E.S.L.A, Conference hall, Amphitheater, Ceremonial Ground, Grove, Dormitory ve anlamı belirtilmemiş yeşil \"GY\" kutusu. Kapılar: A (güney, Sakarya Street), C (batı), D (kuzey). 1-11 numaralı hizmet noktaları (units[] içinde). Üç yeşil \"emergency assemble area\" (acil toplanma alanı) simgesi: biri C kapısının batısında Balçova Belediyesi Adalet ve Demokrasi Parkı bölgesinde (çizimde kampüs dışında), biri Grove'da (kuzeydoğu), biri Ceremonial Ground'da (doğu). Yeşil şeritler K-A ve C/E-A arasını bağlıyor. Yeme-içme göstergesi units[] içinde. Kat planı YOK. 1. sayfa etkinlik programı ve mekanlar (Amphitheater, Ceremonial Ground, D Block önü açık alan, Grove, E Block önü açık alan, E Block sınıfları). SFL duyurusundan bağlantılı: https://sfl.ieu.edu.tr/tr/announcements/type/read/id/13829"
+    },
+    {
+      "title": "OBS Ders Kayıt Kılavuzu (Öğrenci İşleri, 18 slayt, 11 Eylül 2026)",
+      "url": "https://phoenix.ieu.edu.tr/betanix/uploads/cms/oim.ieu.edu.tr/4406_1789127088_373.pdf",
+      "notes": "Kat planı değil. 10. slayttaki ekran görüntüsü gerçek ders dilimi başlangıç saatlerini gösteriyor (periods bölümüne bakın). Bu ekranda derslik sütunu yok."
+    },
+    {
+      "title": "Öğrenci İşleri PDF'i \"Ders Kayıt Açıklamaları\" (Şubat 2010)",
+      "url": "https://oim.ieu.edu.tr/wp-content/DERS%20KAYIT%20A%C3%87IKLAMALARI%20-%20%C3%B6%C4%9Frenciler%20i%C3%A7in2.pdf",
+      "notes": "Kat planı değil. PDF sayfa 9'daki ekran görüntüsü eski 12 satırlık haftalık program ızgarasını ve örnek derslik kodunu (CB 101) gösteriyor. Derslik ve saat bilgisinin yalnız OBS/OASIS içinde olduğunu doğruluyor."
+    },
+    {
+      "title": "Tıp Fakültesi SSS fiziksel altyapı listesi",
+      "url": "https://tip.ieu.edu.tr/tr/sss",
+      "notes": "Kampüsteki yaklaşık 70 adlandırılmış lab/stüdyo/salon için metin listesi (plan değil): \"Kampüs alanındaki 4 ayrı blokta yer alan binalarda ...\" Anatomi, Baskı Stüdyosu, CDM Loft, Film Platosu, Haber Merkezi, Radyo Stüdyoları, TV Stüdyosu, Sinema Salonu, Silent Study, PACTS, Smart Class, Sümerbank Desen Arşivi, Moda Tasarım Stüdyosu, Resim Atölyesi vb.; ayrıca spor alanları, dans salonları, basketbol sahaları, Sofra Catering yemekhane ve kafeteryaları, Starbucks, Subway, okuma salonu, kütüphane, mutfak, revir, kantinler, konferans salonları, yurt. Konum verilmemiş."
+    }
+  ],
+  "campusMap": {
+    "source": "https://phoenix.ieu.edu.tr/betanix/uploads/duyuru/duyuru_1789732287.pdf",
+    "observedLayout": "D Block kuzeybatıda (D kapısı kuzeybatı köşesinde); E Block batıda (C kapısı batı yanında); C Block E Block'un hemen güneyinde; K Block ortada; A Block ortadan doğu-güneydoğuya uzanıyor ve K ile (yeşil bağlantı) ve C/E ile (yeşil bağlantı) birleşiyor; M Block A Block'un batı kısmının güneyinde; T.E.S.L.A güneybatıda, M'nin batısında ve C'nin güneyinde; Conference hall (yuvarlak) A Block'un kuzeyinde; Amphitheater kuzey-ortada; Grove kuzeydoğuda; Ceremonial Ground doğuda; Dormitory doğuda; A kapısı güneyde ortada Sakarya Street üzerinde; \"GY\" güneydoğu köşesinde.",
+    "serviceMarkers": {
+      "1": "SFL Directorate (E Block)",
+      "2": "Health, Culture and Sports Directorate (E Block)",
+      "3": "SFL PREP Student Success Center (E Block)",
+      "4": "Health Office (A Block batı ucu)",
+      "5": "Dean of Students (A Block)",
+      "6": "TLC (M Block güney ucu)",
+      "7": "Student Affairs Directorate (A Block güneydoğu kanat)",
+      "8": "IT Support (A Block, Conference hall yakını)",
+      "9": "Library (K Block güney yüzü)",
+      "10": "Psychological Development and Counselling Center (A Block doğu ucu)",
+      "11": "IUE Office of Micro-Credentials (E Block)"
+    },
+    "caveat": "Nokta-blok eşleşmesi çizimden gözle okundu; noktalar blok taban alanları üzerinde ama kat gösterilmiyor. Resmi haritada \"Medya İletişim\" ve \"Reklamcılık\" binaları etiketli değil."
+  },
+  "codingScheme": "Oda kodu = blok öneki + 3 haneli sayı: ilk hane zeminden itibaren kat numarası (0 = Zemin), son iki hane o kattaki oda numarası. Aynı oda sayfalara göre farklı yazılıyor (\"E 101\", \"C-601\", \"C601\", \"D201\", \"ML-105\", \"MB161\", \"YB 201\"), eşleştirmeden önce normalleştirin. İlk hane = kat kanıtı: (1) SFL duyurusu 13829: kitaplar \"3. kat E 311 numaralı derslikte\" satılıyor; (2) GSTF sayfası kat ve odaları birlikte veriyor: \"D Blok Zemin Kat - D024\", \"D Blok 1.Kat ve 2.Kat - D126-D128-D224-D226\", \"D Blok 2.Kat ve 3.Kat - D201-D202-D301-D302\", \"D Blok 2.Kat - D223\", \"D Block 2. Kat - D208\"; (3) K-LAB \"K Blok 2. Kat\". Bodrum: D Blok -1. Kat odaları DB önekli (\"DB 030\", \"DB21, DB22, DB26, DB28\"); A Blok -1. Kat ofisleri \"1B18\" ve \"1B19\" (PGDM sayfası). Yani koddaki B bodrum anlamına geliyor gibi (çıkarım; MB ve YB önekinin anlamı hiçbir kaynakta YOK). Bulunan önekler: A (yalnız ofisler), C, D, DB, E, K (yalnız \"K-LAB\"), ML (TESLA laboratuvarları), MB (M Blok laboratuvarları), YB (inşaat laboratuvarları). Aralıklar: E blokta 1-6. katlarda 61 derslik kodu (E 101-E 609; E 106-108, E 206-208 gibi boşluklar yalnız anılmamış demektir); C blokta C 302-C 309 (3. kat) ve C 601-C 609 (6. kat; OSM C için 7 kat + çatı katı veriyor); D blokta D024, D126, D128, D201-D208, D223-D226, D301-D307 ve DB21-DB30; A blokta ofisler A 105, 110, 111, 117, 118 (ilk hane kuralı A Blok için doğrulanmadı: PGDM A Blok -1. Kat'ta ama kodu 1B18, bu yüzden A Blok ofis katları belirsiz bırakıldı); TESLA'da ML 102-108 ve ML 201-205 (OSM TESLA için 2 kat veriyor, yani hane tabanı 1 olabilir, doğrulanmadı). Eski örnek: 2010 OASIS ekran görüntüsünde \"CB 101\" (CB anlamı bilinmiyor). A, C, K, M bloklarındaki lisans dersliği (amfi dahil) kodları hiçbir açık sayfada bulunamadı.",
+  "gaps": [
+    "Lisans haftalık ders programı ve derslikleri: yalnız giriş gerektiren OBS/OASIS içinde (https://analytics.ieu.edu.tr/students_course_program bir OBS giriş formu gösteriyor; /sinav_programi aynı türden). Erişilmedi, kimlik doğrulama denenmedi. Öğrenci İşleri PDF'leri programın \"ders saatleri ve sınıf bilgilerini\" giriş sonrası gösterdiğini doğruluyor.",
+    "Lisans sınav programı (derslik kodlu) açık sayfası: bulunamadı. Eski duyurular siteden kaldırılıyor (örn. duyuru id 9449 \"Hazırlık sınıfları 1. modül sınıf listesi\" \"Duyuru Bulunamadı\" veriyor; arama sonucunda çıkan id 9212 \"Türk Dili ara sınav yeri listesi\" çekilmedi, aynı sona uğraması beklenir). Yayında olan tek oda listeleri üç SFL duyurusu (13829, 13831, 13839) ve hepsi E Blok.",
+    "A, C, K, M bloklarındaki derslik kodları ve \"Amfi 1\" gibi amfi kodları: bulunamadı; bu bloklarda yalnız laboratuvar ve ofis oda kodları var. Derslik kapasiteleri hiçbir yerde bulunamadı.",
+    "Kat planı / tahliye planı: açık olan bulunamadı. 3 web araması (tahliye planı, acil durum planı, kat planı; sonuçlar başka üniversiteler), Öğrenci İşleri, kütüphane, SFL, birim ve bölüm siteleri tarandı. pim.ieu.edu.tr (Yapı İşleri) düz curl isteğine \"Error Header Attack\" döndü, tekrar denenmedi. Tek kampüs planı şematik Welcome Day haritası (floorPlanDocs[0]).",
+    "Resmi lab listesi (ieu.edu.tr/aday/tr/laboratuvarlar) yalnız isim veriyor. Konumu hâlâ bilinmeyenler: Anatomi, Klinik Beceri, Mikroskopi, Kuru Multidisipliner (D MDL), Islak Multidisipliner (W MDL), Simüle Hasta, Alterlab, Genç Yaratıcı İletişim Ajansı, Medya Fabrikası, Radyo Stüdyoları, Sinema ve Dijital Medya Loft, Mutfak Sanatları, Fizik, Psikoloji, Sağlıklı Yaşam, Terapötik Egzersiz ve Manuel Terapi laboratuvarları. İletişim Fakültesi stüdyo sayfası (fc.ieu.edu.tr/tr/studyolar) ve Tıp SSS bunları blok/kat vermeden listeliyor. Adıyla konumlananlar: TESLA, Fotoğraf/Baskı/Ses stüdyoları, CAD, MAC, ASSYST, Kalıp ve Dikiş, D.Makerlab (D Blok) ve Makine Laboratuvarı (muhtemelen MB 171).",
+    "OSM'deki \"Medya İletişim\", \"Reklamcılık\" ve \"YB Blok\" binalarının hangisi olduğu bulunamadı. Resmi harita \"Medya İletişim\" ve \"Reklamcılık\"ı etiketlemiyor; haritadaki \"GY\" etiketinin anlamı belirtilmemiş.",
+    "Rektörlük, fakülte dekanlıkları ve çoğu idari ofis (öğrenci işleri, insan kaynakları, mali işler ...): blok/kat metni bulunamadı. Fakülte ve bölüm iletişim sayfaları yalnız posta adresi veriyor; bölüm akademik kadro sayfaları yalnız e-posta görseli gösteriyor (ofis alanı yok). Yalnız MYO sayfalarında \"Ofis: A Blok NNN\" satırları var ve yaklaşık 14 MYO program sayfasından yalnız 4 sayfa çekildi (okul sayfası + İnşaat Teknolojisi, Bilgisayar Programcılığı, İç Mekân Tasarımı).",
+    "Fakülte-blok eşlemesi kısmi: Tıp = C Blok (metin); GSTF = D Blok (stüdyolar, metin); SFL = E Blok (derslikler, metin + harita); MYO ofisleri = A Blok; Mühendislik laboratuvarları = C, TESLA, MB, YB, K. Bulunamayanlar: Hukuk, İletişim, İşletme, Fen-Edebiyat (tek C 309 lab dışında), Sağlık Bilimleri, Uygulamalı Yönetim Bilimleri, Adalet ve Sağlık Hizmetleri MYO.",
+    "Lisans derslerinin güncel bitiş saatleri, teneffüs süreleri ve akşam dilimleri: hiçbir kaynakta yok (OBS ekran görüntüsünde yalnız başlangıç saatleri görünüyor). 2010 ızgarası (50 dk satırlar, 20:20'ye kadar) ve 2018-19 hazırlık ızgarası eski.",
+    "Arama motoru özetlerindeki, çekilen sayfalardan DOĞRULAYAMADIĞIM ve bu yüzden kullanmadığım iddialar: İnşaat Teknolojisi için \"A Blok 520\" ofisi (sayfada A Blok 111 ve A Blok 117 var), Web Teknolojileri müdürlüğü için \"Zemin kat, HelpDESK karşısı\" (ybs.ieu.edu.tr/tr/iletisim hata sayfası döndü).",
+    "Hata sayfası dönen adresler: sfl.ieu.edu.tr/tr/iletisim, oim.ieu.edu.tr/tr/contact_information, ybs.ieu.edu.tr/tr/iletisim. DuckDuckGo html araması bir kez çalıştı, sonra bot doğrulaması döndü; aşmaya çalışmadım, WebSearch aracını kullandım.",
+    "Çelişkiler olduğu gibi bırakıldı: MB 161 (Mühendislik sayfasında Elektrik Elektronik Lab, IT sayfasında \"MYO Genel PC Lab\"); Mikroişlemci lab C 608 (Mühendislik sayfası) ve C-606 (CE sayfası); TLC \"A Blok Zemin Kat\" (metin) ve harita noktası M Blok'ta."
+  ],
+  "meta": {
+    "requestsUsed": "59 HTTP isteği (curl; 1 bot doğrulaması dönen arama sayfası ve 3 hata sayfası dahil) + 18 WebSearch çağrısı = 77",
+    "privacy": "İsim, e-posta, telefon veya fotoğraf saklanmadı. Sayfalarda görülen laboratuvar teknisyeni, başkan ve sekreter isimleri atıldı; ofis konumları bölüm/birim bazında toplandı.",
+    "floorBasisValues": {
+      "explicit": "kaynak metin o oda için katı açıkça yazıyor",
+      "explicit-range+code": "kaynak katları ve odaları birlikte listeliyor; oda başına kat kodun ilk hanesinden, listelenen katlarla tutarlı",
+      "inferred-from-code": "oda kodunun ilk hanesi (kural D ve E bloklarında doğrulandı, codingScheme'e bakın)",
+      "unknown": "güvenilir kat yok"
+    },
+    "quoteNote": "Alıntılarda kaynak sayfadaki uzun tire (en dash) düz tireye çevrildi; Türkçe karakterler korundu."
+  }
+}

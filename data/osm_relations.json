@@ -1,0 +1,98 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-09-29T19:26:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "relation",
+  "id": 8843560,
+  "bounds": {
+    "minlat": 38.3880416,
+    "minlon": 27.0435157,
+    "maxlat": 38.3884020,
+    "maxlon": 27.0438585
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 286894949,
+      "role": "outer",
+      "geometry": [
+         { "lat": 38.3884020, "lon": 27.0437915 },
+         { "lat": 38.3883963, "lon": 27.0435496 },
+         { "lat": 38.3883209, "lon": 27.0435157 },
+         { "lat": 38.3880416, "lon": 27.0435306 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 637305657,
+      "role": "outer",
+      "geometry": [
+         { "lat": 38.3880416, "lon": 27.0435306 },
+         { "lat": 38.3880491, "lon": 27.0438585 },
+         { "lat": 38.3883237, "lon": 27.0438478 },
+         { "lat": 38.3883243, "lon": 27.0438047 },
+         { "lat": 38.3884020, "lon": 27.0437915 }
+      ]
+    }
+  ],
+  "tags": {
+    "building": "university",
+    "building:levels": "7",
+    "name": "C Blok",
+    "roof:levels": "1",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 8843561,
+  "bounds": {
+    "minlat": 38.3883998,
+    "minlon": 27.0435057,
+    "maxlat": 38.3887951,
+    "maxlon": 27.0438785
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 637305656,
+      "role": "outer",
+      "geometry": [
+         { "lat": 38.3884020, "lon": 27.0437915 },
+         { "lat": 38.3884167, "lon": 27.0437095 },
+         { "lat": 38.3884209, "lon": 27.0436237 },
+         { "lat": 38.3884019, "lon": 27.0435191 },
+         { "lat": 38.3884608, "lon": 27.0435244 },
+         { "lat": 38.3887383, "lon": 27.0435057 },
+         { "lat": 38.3887951, "lon": 27.0438570 },
+         { "lat": 38.3886710, "lon": 27.0438785 },
+         { "lat": 38.3885659, "lon": 27.0438651 },
+         { "lat": 38.3884734, "lon": 27.0438651 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 637305658,
+      "role": "outer",
+      "geometry": [
+         { "lat": 38.3884734, "lon": 27.0438651 },
+         { "lat": 38.3883998, "lon": 27.0438651 },
+         { "lat": 38.3884020, "lon": 27.0437915 }
+      ]
+    }
+  ],
+  "tags": {
+    "building": "university",
+    "name": "E blok",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

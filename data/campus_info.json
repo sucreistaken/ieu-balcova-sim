@@ -1,0 +1,199 @@
+{
+  "university": {
+    "name": "İzmir Ekonomi Üniversitesi",
+    "shortName": "İEÜ",
+    "campus": "Balçova Kampüsü",
+    "address": "Sakarya Caddesi No:156, 35330 Balçova, İzmir",
+    "foundation": "İzmir Ticaret Odası Eğitim ve Sağlık Vakfı",
+    "scopeNote": "Bu simülasyon Balçova Kampüsü'nü kapsar. Güzelbahçe'de inşa edilen yeni kampüs ayrı bir yerleşkedir ve dahil değildir."
+  },
+  "sources": [
+    { "id": "osm", "label": "OpenStreetMap katkıcıları (ODbL), Overpass API", "retrieved": "2026-09-29", "url": "https://www.openstreetmap.org/copyright" },
+    { "id": "dem", "label": "EU-DEM 25 m yükseklik verisi (OpenTopoData API)", "retrieved": "2026-09-29", "url": "https://www.opentopodata.org/datasets/eudem/" },
+    { "id": "ieu", "label": "ieu.edu.tr (Kampüste Yaşam, İEÜ'de Hayat, Stüdyo ve Laboratuvarlar, Anasayfa menüsü)", "retrieved": "2026-09-29", "url": "https://www.ieu.edu.tr/tr/kampus" },
+    { "id": "lib", "label": "kutuphane.ieu.edu.tr", "retrieved": "2026-09-29", "url": "https://kutuphane.ieu.edu.tr/tr" },
+    { "id": "dorm", "label": "yurt.ieu.edu.tr", "retrieved": "2026-09-29", "url": "https://yurt.ieu.edu.tr/tr" },
+    { "id": "wiki", "label": "Vikipedi: İzmir Ekonomi Üniversitesi (arama özeti)", "retrieved": "2026-09-29", "url": "https://tr.wikipedia.org/wiki/İzmir_Ekonomi_Üniversitesi" }
+  ],
+  "notes": [
+    "Bina taban alanları OpenStreetMap'ten alındı. Yükseklikler OSM kat bilgisi varsa oradan, yoksa taban alanına göre tahmin edildi (veri setinde hsrc alanı: osm / est).",
+    "Bina iç mekânları gerçek kat planı değildir; simülasyon için üretilmiş genel yerleşimdir.",
+    "Hangi fakültenin/bölümün hangi blokta olduğu doğrulanabilir bir kaynaktan alınamadı; eşleme yapılmadı. Fakülte ve bölüm listesi tüm üniversiteye aittir.",
+    "Arazi eğimi 25 m çözünürlüklü yükseklik verisinden yumuşatılarak üretildi; küçük ölçekli teraslar gerçekte farklı olabilir.",
+    "Yayalar, arabalar ve kediler simülasyon canlılığı için eklenmiş kurgusal öğelerdir."
+  ],
+  "places": {
+    "154001110": {
+      "title": "A, K ve M Blokları",
+      "blurb": "Kampüsün en büyük yapısı. OpenStreetMap'te tek bina olarak, 6 katlı işlenmiş.",
+      "facts": [
+        { "k": "Kat sayısı", "v": "6", "src": "osm" }
+      ]
+    },
+    "88435600": {
+      "title": "C Blok",
+      "blurb": "OpenStreetMap'te 7 kat ve bir çatı katı olarak işlenmiş akademik bina.",
+      "facts": [
+        { "k": "Kat sayısı", "v": "7 + çatı katı", "src": "osm" }
+      ]
+    },
+    "88435610": {
+      "title": "E Blok",
+      "blurb": "Akademik bina (OpenStreetMap adı: E blok). Kat sayısı kayıtlı değil, tahmin edildi.",
+      "facts": []
+    },
+    "637305654": {
+      "title": "D Blok",
+      "blurb": "Akademik bina (OpenStreetMap adı: D blok). Kat sayısı kayıtlı değil, tahmin edildi.",
+      "facts": []
+    },
+    "637305659": {
+      "title": "TESLA",
+      "blurb": "Technology Engineering and Science Laboratory. Resmi sitedeki laboratuvar listesinde yer alır.",
+      "facts": [
+        { "k": "Kat sayısı", "v": "2", "src": "osm" },
+        { "k": "Açılımı", "v": "Technology Engineering and Science Laboratory", "src": "ieu" }
+      ]
+    },
+    "154001120": {
+      "title": "Medya İletişim",
+      "blurb": "OpenStreetMap adı 'Medya İletişim'. Resmi sitede Medya Fabrikası, Radyo Stüdyoları ve Sinema ve Dijital Medya Loft gibi birimler listeleniyor; bu binada oldukları doğrulanmadı.",
+      "facts": [
+        { "k": "Not", "v": "Bina içeriği çıkarım, doğrulanmadı", "src": "tahmin" }
+      ]
+    },
+    "637305652": {
+      "title": "Reklamcılık",
+      "blurb": "Küçük bina (OpenStreetMap adı: Reklamcılık). OSM'deki height=2 kaydı 2 kat olarak yorumlandı.",
+      "facts": [
+        { "k": "Kat sayısı", "v": "2 (yorumlanmış)", "src": "tahmin" }
+      ]
+    },
+    "637305653": {
+      "title": "Amfiteatr",
+      "blurb": "Kampüsteki açık hava gösteri alanı. Vikipedi, kampüste açık hava gösteri merkezi, konferans salonu ve sergi alanları bulunduğunu belirtiyor.",
+      "facts": [
+        { "k": "İşleten", "v": "İEÜ", "src": "osm" }
+      ]
+    },
+    "637305655": {
+      "title": "Starbucks",
+      "blurb": "Kampüs içindeki kahve dükkânı.",
+      "facts": [
+        { "k": "Mutfak", "v": "Kahve", "src": "osm" }
+      ]
+    },
+    "9180382117": {
+      "title": "Subway",
+      "blurb": "Kampüsün kuzeydoğu köşesindeki sandviççi (OSM konumuna göre).",
+      "facts": [
+        { "k": "Mutfak", "v": "Sandviç", "src": "osm" }
+      ]
+    },
+    "286894950": {
+      "title": "Yurt Binası",
+      "blurb": "Kampüs içindeki öğrenci yurdu. Resmi siteye göre yurtlar 2006 yılında hizmete girdi.",
+      "facts": [
+        { "k": "Hizmete giriş", "v": "2006", "src": "dorm" },
+        { "k": "Konum", "v": "Kampüsün içinde", "src": "dorm" }
+      ]
+    },
+    "9176312717": {
+      "title": "Kütüphane",
+      "blurb": "İEÜ Kütüphane ve Dokümantasyon Müdürlüğü. Alt kat 7/24 açıktır.",
+      "facts": [
+        { "k": "Akademik yıl, hafta içi", "v": "08:30 - 22:00", "src": "lib" },
+        { "k": "Akademik yıl, cumartesi", "v": "10:00 - 17:00 (pazar kapalı)", "src": "lib" },
+        { "k": "Yaz ve yarıyıl tatili", "v": "Hafta içi 08:30 - 17:45, hafta sonu kapalı", "src": "lib" },
+        { "k": "Koleksiyon", "v": "Yaklaşık 59 bin basılı, 1 milyon 112 bin elektronik kitap; 22 masaüstü bilgisayar", "src": "ieu" }
+      ]
+    },
+    "4358685990": {
+      "title": "Balçova Teleferik",
+      "blurb": "Kampüsün hemen yukarısındaki teleferik hattının alt istasyonu (Balçova Aşağı). Hat yaklaşık 770 m uzunluğunda ve 4 direkli (OSM verisinden ölçüldü).",
+      "facts": [
+        { "k": "Çalışma saatleri", "v": "Her gün 10:00 - 17:00", "src": "osm" },
+        { "k": "Web", "v": "izmirteleferik.com.tr", "src": "osm" }
+      ]
+    },
+    "637305672": {
+      "title": "Teleferik Kafe",
+      "blurb": "Teleferik istasyonu yakınındaki kafe.",
+      "facts": [
+        { "k": "Mutfak", "v": "Krep", "src": "osm" },
+        { "k": "Saatler", "v": "Gündoğumu - günbatımı", "src": "osm" }
+      ]
+    },
+    "637305673": {
+      "title": "Mint",
+      "blurb": "Kampüs çevresindeki kafe.",
+      "facts": [
+        { "k": "Menü", "v": "Kahvaltı, makarna, burger, pizza", "src": "osm" }
+      ]
+    },
+    "637305674": {
+      "title": "Teleferik Kır Bahçesi",
+      "blurb": "Teleferik yakınında hızlı yemek noktası.",
+      "facts": [
+        { "k": "Menü", "v": "Burger, sandviç", "src": "osm" }
+      ]
+    },
+    "637305671": {
+      "title": "Balçova Otoparkı",
+      "blurb": "Balçova Belediyesi'nin işlettiği ücretli otopark.",
+      "facts": [
+        { "k": "Kapasite", "v": "200 araç", "src": "osm" },
+        { "k": "Zemin", "v": "Çakıl", "src": "osm" }
+      ]
+    },
+    "637305663": {
+      "title": "İEÜ Kedili Park",
+      "blurb": "Kampüsün kuzeydoğusundaki park. Adına gönderme olarak simülasyona birkaç kedi eklendi (kurgu).",
+      "facts": []
+    },
+    "637305664": {
+      "title": "İEÜ Arka Bahçe",
+      "blurb": "A, K ve M Blokları'nın doğusundaki bahçe (OSM konumuna göre).",
+      "facts": []
+    },
+    "637305660": {
+      "title": "İEÜ Çiçeklik",
+      "blurb": "Kampüsün güneyindeki çiçeklik ve portakal ağaçlı bahçeler (OSM: Çiçeklik 1-4).",
+      "facts": []
+    },
+    "304963698": {
+      "title": "Uğur Cami",
+      "blurb": "Kampüsün kuzeyindeki mahalle camisi.",
+      "facts": []
+    },
+    "1251195613": {
+      "title": "Salih Dede Anadolu Lisesi",
+      "blurb": "Kampüsün doğusunda, ayrı bir kurum.",
+      "facts": []
+    },
+    "9176130717": {
+      "title": "Özel Deniz Yıldızı Kız Öğrenci Apartı",
+      "blurb": "Kampüs dışında, kuzeyde özel yükseköğrenim kız yurdu.",
+      "facts": []
+    },
+    "655561732": {
+      "title": "Teleferik Parkı",
+      "blurb": "Kampüsün kuzeydoğusunda, Salih Dede Anadolu Lisesi yakınındaki park.",
+      "facts": []
+    }
+  },
+  "facilities": [
+    { "title": "Öğrenci kulüpleri", "text": "Kampüste Yaşam sayfası 80'den fazla, İEÜ'de Hayat sayfası 50'den fazla kulüp diyor (iki sayfa birbirinden farklı).", "src": "ieu" },
+    { "title": "Spor", "text": "Basketbol, yelken, futbol, Amerikan futbolu, tenis, voleybol, yüzme, satranç, dağcılık, taekwondo ve wushu takımları. Balçova Spor Kompleksi kampüse 5 dakikalık yürüme mesafesinde.", "src": "ieu" },
+    { "title": "Sağlık", "text": "Kampüste görevli hekim ve hemşire, Psikolojik Gelişim ve Danışma Merkezi (PGDM).", "src": "ieu" },
+    { "title": "Erişilebilirlik", "text": "Kampüs ortopedik engelli bireylerin ulaşımını kolaylaştıracak şekilde inşa edildi; Engelsiz İEÜ Birimi.", "src": "ieu" },
+    { "title": "Akıllı Kampüs", "text": "Derslere dijital ortamda canlı bağlanma ve ders kayıtlarını yeniden izleme.", "src": "ieu" },
+    { "title": "Doğa", "text": "Kampüs ormanlık alanın eteğinde; Balçova Terapi Ormanı yürüyüş için yakın. Resmi site 'sırtını ormana yaslayıp denizi seyredebilirsin' diyor.", "src": "ieu" }
+  ],
+  "transport": [
+    { "title": "Otobüs 969", "text": "Fahrettin Altay - Balçova hattı, üniversitenin önünden geçer.", "src": "ieu" },
+    { "title": "Otobüs 480", "text": "İnciraltı - Üçkuyular hattı; Bostanlı İskelesi'nden Üçkuyular İskelesi'ne gelenler için.", "src": "ieu" },
+    { "title": "Alsancak / Konak", "text": "Resmi siteye göre yaklaşık 25 dakika.", "src": "ieu" },
+    { "title": "Teleferik", "text": "Kampüsün hemen yanında Balçova Teleferik alt istasyonu.", "src": "osm" }
+  ]
+}

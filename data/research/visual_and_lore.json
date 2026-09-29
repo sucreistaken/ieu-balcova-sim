@@ -1,0 +1,548 @@
+{
+  "retrieved": "2026-09-30",
+  "buildingRefs": [
+    {
+      "building": "CAMPUS OVERVIEW (aerial photo, panoramas, virtual tour, maps)",
+      "appearance": "Compact cluster of mid-rise buildings on a spur at the foot of a steep pine-forested hillside. Inference: the project's own DEM rises to the south, so the 2020 aerial photo appears to look roughly south toward the hill. 2020 aerial (CC BY-SA 4.0, 960 px thumbnail inspected): a long brick-red and cream slab crosses the middle with white roof lettering (partly legible as 'EKONOMİ', presumably the full university name); in the courtyard in front of it stands a low round drum hall with red-brown walls and a near-flat light-grey roof; beside the drum is a long low gabled hall with a low-pitch grey metal roof; a tall cream block with red vertical stripes and a stair tower (about 8-9 storeys, counted from a thumbnail) stands at one end of the slab; modern white-and-glass blocks with roof terraces stand at the other end; a small pavilion with a light-grey oval roof and brick base stands near the road at the lower right; stepped stairways and terraces descend through dense pine trees in the foreground; a hillside quarter of small white houses sits in the forest above the campus; apartment blocks with terracotta tile roofs border the campus. The official 'Kampüs Haritası' on ieu.edu.tr/aday/tr/kampuste-yasam is only an embedded Google Map (iframe title 'İzmir Ekonomi Üniversitesi Kampüs Haritası'); no custom campus plan and no official virtual tour were found. The third-party mekan360 tour is a single 360 panorama (scene 'pano47', Panotour Pro project generated 2019-03-23) of the main entrance forecourt; the same page embeds a Google Street View pano (id j2mQQg1rgKYz90UahoM2EA, near 38.387786, 27.044743). Official hero photo of the 'Kampüste Yaşam' page: students sitting on a low green-painted concrete wall with ribbed white spherical globe lamps on square posts, under an old thick-trunked pine and drooping feathery foliage (looks like pepper tree; species not verified); the exact spot on campus is not stated. WARNING: https://ieu.edu.tr/images/kampus35.jpg (Home page 'Kampüs' section) is an architectural render of a terraced cream campus with green roofs and a football pitch; in the page HTML it sits in the 'yeni-kampus-alani' block next to the heading 'İZMİR EKONOMİ ÜNİVERSİTESİ GÜZELBAHÇE KAMPÜSÜ', so it shows the NEW Güzelbahçe campus, not Balçova. Do not use it as a Balçova reference.",
+      "imageUrls": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8c/Izmirekonomiuni.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Izmirekonomiuni.jpg/960px-Izmirekonomiuni.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/89/%C4%B0zmir_Ekonomi_%C3%9Cniversitesi.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%C4%B0zmir_Ekonomi_%C3%9Cniversitesi.jpg/960px-%C4%B0zmir_Ekonomi_%C3%9Cniversitesi.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/65/Izmir_University_of_Economics_at_night.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f1/IzmirUniversityofEconomics_Balcova_Izmir_Turkey.jpg",
+        "https://cdn.mekan360.com/static/images/sanaltur/50/panoclip.jpg",
+        "https://cdn.mekan360.com/sanaltur/turkey/izmir/balcova/balcova_izmir_izmir_ekonomi_universitesi/balcova_izmir_izmir_ekonomi_universitesi.html",
+        "https://mekan360.com/360fx_izmirekonomiuni-anasayfa.html",
+        "https://www.ieu.edu.tr/aday/tr/UI/big/kampuste-yasam.jpg",
+        "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12509.203391319392!2d27.0450757!3d38.3882924!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xad9a73e98469f89f!2s%C4%B0zmir+Ekonomi+%C3%9Cniversitesi!5e0!3m2!1sen!2str!4v1562218710890!5m2!1sen!2str",
+        "https://www.google.com/maps/embed?pb=!4v1573200480364!6m8!1m7!1sj2mQQg1rgKYz90UahoM2EA!2m2!1d38.38778562047712!2d27.04474291252498!3f3.211592531853853!4f4.517536198440368!5f0.7820865974627469"
+      ],
+      "unitsHoused": [
+        "Wikipedia (tr/en) says the Balçova campus holds the rectorate, all faculties, administrative management and staff, an open-air performance center, a conference hall, exhibition areas and the student dormitory; block-level mapping for most units was not found (see gaps)."
+      ],
+      "source": "https://commons.wikimedia.org/wiki/Category:%C4%B0zmir_University_of_Economics_Bal%C3%A7ova_Campus ; https://mekan360.com/360fx_izmirekonomiuni-anasayfa.html ; https://www.ieu.edu.tr/aday/tr/kampuste-yasam ; https://www.ieu.edu.tr/tr/kampus",
+      "confidence": "high"
+    },
+    {
+      "building": "A Blok (main entrance block; part of OSM 'A, K ve M Bloklar'; reportedly the former Grand Plaza hotel)",
+      "appearance": "Observed in 5 photos (2007, 2019 360 pano, 2020 aerial, 2021 night, 2024 panorama). Long hotel-like slab: ribbons of small square punched windows, continuous white/cream string-course bands between floors, brick/terracotta-red wall panels. OSM gives 6 levels for the whole A+K+M complex; official room codes show A Blok has a -1 basement and floors up to at least 5 (PGDM at -1, MYO office A118, RTV office A520). One end section is cream/off-white with slightly larger square windows. A tall cream/white lift-and-stair tower rises above the roof at the centre and carries the orange IEU logo, with a flagpole on top. White lettering on the slab roof is partly legible as 'EKONOMİ' (presumably the full university name) in the 2020 and 2024 photos. A curved (convex) red-brick wing stands to the left of the entrance in the 2019 panorama next to a row of about 6-7 flagpoles; a large Turkish flag hangs on the facade at the entrance. Entrance: low white porte-cochere canopy (flat slab with a wavy/curved edge on a cluster of white columns, orange logo on the fascia) over a recessed glazed entrance; ground floor in darker brick with large glazing (cafe front with orange patio umbrellas, small trees in planters). Forecourt in 2019: circular lawn island with yellow/orange and white striped kerb, palms, a red-brick gate portal (two square brick pillars with a cream lintel) and a brick guard booth on the left, wide asphalt. 2021-2024: paved plaza with yellow tactile guide strips, planters with low uplighters, boom barrier with red-white bar and a 'DUR' stop sign plus a no-parking sign at the vehicle entry. A white sign with a letter 'A' and small 'BLOK' text stands beside the ground-floor glass pavilion on the left (2021 night photo, low resolution, my reading). At night (2021-12-21) the facade is flood-lit orange. 2007 photo (taken from higher ground): darker maroon panels with white bands and a diamond-shaped white lattice element on the roof of the left block. Approximate colours estimated by hue-filtered median pixel value from low-res thumbnails (uncalibrated, lighting dependent, use only as starting values): brick #AF6651 (2019), #CB9486 (2024, strong sun), #8E5F57 (2020, hazy); maroon #9E7476 (2007); cream #E9E8DD to #FAF2E4. Official brand orange: Pantone 1505, CMYK 0/64/100/0, RGB 255,105,0, #FF6900 (corporate identity guide).",
+      "imageUrls": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/89/%C4%B0zmir_Ekonomi_%C3%9Cniversitesi.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%C4%B0zmir_Ekonomi_%C3%9Cniversitesi.jpg/960px-%C4%B0zmir_Ekonomi_%C3%9Cniversitesi.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/65/Izmir_University_of_Economics_at_night.jpg",
+        "https://cdn.mekan360.com/static/images/sanaltur/50/panoclip.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f1/IzmirUniversityofEconomics_Balcova_Izmir_Turkey.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Izmirekonomiuni.jpg/960px-Izmirekonomiuni.jpg"
+      ],
+      "unitsHoused": [
+        "Psikolojik Gelişim ve Danışma Merkezi (PGDM): 'A Blok, -1. Kat, Ofis 1B18 ve 1B19'",
+        "EKOEĞİTİM / TLC (Öğretme ve Öğrenme Merkezi): 'A Blok, Zemin Kat'",
+        "Meslek Yüksekokulu (MYO) contact office: 'A blok 118' (1st floor)",
+        "Radyo ve Televizyon Programcılığı program office: 'A Blok 520' (5th floor)",
+        "Sistem ve Operasyon Müdürlüğü: 'Zemin katta İdari Ofisler kısmında'; IT Support office: 'ana bina -1. katta' (the page says main building; the block letter is not stated)",
+        "A Blok Konferans Salonu (conference hall; Career Days 2025), A Blok Fuaye Alanı (foyer; Career Days 2026), A Blok Kantin Alanı (canteen; graduation overflow viewing area)",
+        "Classrooms in the 'A1-A2' sections (2020 institutional report: all classrooms in the first four floors of A1-A2 and M Blok are used as night/weekend study space)"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:%C4%B0zmir_Ekonomi_%C3%9Cniversitesi.jpg ; https://commons.wikimedia.org/wiki/File:Izmir_University_of_Economics_at_night.jpg ; https://mekan360.com/360fx_izmirekonomiuni-anasayfa.html ; https://pgdm.ieu.edu.tr/tr/iletisim ; https://www.ieu.edu.tr/tlc/tr/iletisim-bilgileri ; https://vs.ieu.edu.tr/tr/iletisim-bilgileri ; https://rtv.ieu.edu.tr/tr/iletisim ; https://comp.ieu.edu.tr/tr/iletisim ; https://kariyer.ieu.edu.tr/tr/2025-kariyer-gunleri ; https://kariyer.ieu.edu.tr/tr/2026-kariyer-gunleri ; https://kim.ieu.edu.tr/tr/mezuniyet-toreni ; https://kalite.izmirekonomi.edu.tr/uploads/docs/2020_kurumicdegerlendirmeraporu.pdf ; https://phoenix.ieu.edu.tr/betanix/uploads/cms/kim.ieu.edu.tr/9153_1597928273.pdf",
+      "confidence": "high"
+    },
+    {
+      "building": "Round drum-like hall in the courtyard of the A, K ve M complex (function and block letter NOT verified)",
+      "appearance": "Seen only in the 2020 aerial photo (960 px thumbnail): low cylindrical hall, roughly 1-2 storeys high, red-brown/terracotta walls and a near-flat, slightly crowned light-grey metal roof, standing on a paved plaza in front of the main slab. Diameter looks like about two slab-widths (very rough by eye, not measured). No text source names this hall (see gaps for a hypothesis to test).",
+      "imageUrls": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8c/Izmirekonomiuni.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Izmirekonomiuni.jpg/960px-Izmirekonomiuni.jpg"
+      ],
+      "unitsHoused": [],
+      "source": "https://commons.wikimedia.org/wiki/Category:%C4%B0zmir_University_of_Economics_Bal%C3%A7ova_Campus",
+      "confidence": "medium"
+    },
+    {
+      "building": "Gabled hall beside the round hall (function NOT verified)",
+      "appearance": "Seen only in the 2020 aerial photo: long, low hall with a low-pitch gable roof clad in grey metal sheeting, ridge roughly parallel to the main slab, on the side of the drum that faces the white-and-glass blocks. No text source names it (candidates in gaps).",
+      "imageUrls": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8c/Izmirekonomiuni.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Izmirekonomiuni.jpg/960px-Izmirekonomiuni.jpg"
+      ],
+      "unitsHoused": [],
+      "source": "https://commons.wikimedia.org/wiki/Category:%C4%B0zmir_University_of_Economics_Bal%C3%A7ova_Campus",
+      "confidence": "medium"
+    },
+    {
+      "building": "K Blok (Library)",
+      "appearance": "No source describes the exterior of K Blok. Interior facts (2020 report): two reading halls (upper and lower floor), each stated as 612 m2, total stated as 1,225 m2, seats 154 (upper) + 216 (lower) = 370. The ECTS page says the ground floor of the library is study space. The project dataset (from the library site) says the lower floor is open 24/7 (not re-verified by me).",
+      "imageUrls": [],
+      "unitsHoused": [
+        "Kütüphane ve Dokümantasyon Müdürlüğü (library): 'K Blok içerisindeki Kütüphanemiz 1460 m2 okuyucu kullanım alanına sahiptir' (2019-20)",
+        "'K LAB.(K-LAB)' is listed among Faculty of Engineering labs (block K implied by the code)"
+      ],
+      "source": "https://kalite.izmirekonomi.edu.tr/uploads/docs/2020_kurumicdegerlendirmeraporu.pdf ; https://ects.ieu.edu.tr/new/idari.php?id=44&lang=en ; https://comp.ieu.edu.tr/tr/mf-lab",
+      "confidence": "high"
+    },
+    {
+      "building": "M Blok (part of A, K ve M complex)",
+      "appearance": "Exterior not documented. Official pages show M Blok has a main entrance ('M blok ana giriş', used for club recruitment stands) and a canteen area ('M Blok kantin'). A staff testimonial lists M Blok among the buildings that rose in the university's early years (no dates).",
+      "imageUrls": [],
+      "unitsHoused": [
+        "Classrooms: 'A1-A2 ve M Bloğun ilk dört katındaki tüm derslikler' (2020 report)",
+        "M Blok kantin (canteen) and M blok ana giriş (main entrance) used as club stand locations (Sept 2026)"
+      ],
+      "source": "https://kalite.izmirekonomi.edu.tr/uploads/docs/2020_kurumicdegerlendirmeraporu.pdf ; https://club.ieu.edu.tr/etkinlikler ; https://25yil.ieu.edu.tr/",
+      "confidence": "medium"
+    },
+    {
+      "building": "C Blok (OSM: 7 floors + roof level)",
+      "appearance": "No source describes the exterior. Room codes: the first digit is the floor (C601 = C Blok 6th floor). OSM models it as a multipolygon (inner courtyard/hole).",
+      "imageUrls": [],
+      "unitsHoused": [
+        "Faculty of Engineering computer/simulation labs on the 6th floor: SİMÜLASYON LAB. I (C601, 'C Blok, 6. kat', capacity 30+1), SİMÜLASYON LAB. II (C602), NETWORK-İLTŞM. & YZLM GELŞ. LAB. (C605-C606), WEB VE OYUN MÜH. LAB. (C609)",
+        "Faculty of Arts and Science (FEF) SİMULTANE LAB. (C309, 3rd floor; simultaneous interpretation lab)"
+      ],
+      "source": "https://comp.ieu.edu.tr/tr/c601 ; https://comp.ieu.edu.tr/tr/mf-lab ; https://comp.ieu.edu.tr/tr/fen-edebiyat-fakultesi-laboratuvarlari",
+      "confidence": "high"
+    },
+    {
+      "building": "D Blok = Faculty of Fine Arts and Design (GSTF) building (block identification is my INFERENCE, medium)",
+      "appearance": "FACTS: GSTF labs are coded D201, D202, D205, D206, D207, D223 (2nd floor) and D301, D302, D305, D306, D307 (3rd floor); events are held in 'D Blok - Çok Amaçlı Salon' and 'D blok konferans salonu'; the purpose-built GSTF building opened in 2010 per the official 25th-year timeline ('completed in only about 6 months') or was completed in 2011 per Arkiv; its ground-floor plan legend includes 'Ç.A.SALON' (multipurpose hall). INFERENCE (medium): D Blok is that building. LOOK (Arkiv 300x225 thumbnails, inspected): contemporary glazed grid facade with horizontal bands, two adjoining masses of different height, coloured lighting at night; interior of exposed raw concrete piers, beams and open galleries with steel and glass balustrades around an interior courtyard ('iç avlu'), external steel stairs; the 'açık anfi' is a small terraced open-air seating area with timber slat benches on concrete steps and a city view (not a large amphitheatre). Ground-floor plan legend: 1 Giriş, 2 Çok Amaçlı Salon, 3 Cafe-Mutfak, 4 Teras, 5 WC, 6 Açık Anfi, 7 Anfi Derslik, 8 Açık Derslik, 9 Foto. Stüdyo, 10 Satış, 11 Vitrin, 12 İç Avlu. Arkiv also lists a first-floor plan and two sections (URLs taken from the gallery list, not opened by me). Design office listed by Arkiv: Maer & Partners; landscape: DS Mimarlık. The project dataset's height for D blok is an estimate (5 levels; OSM has no level tag for it).",
+      "imageUrls": [
+        "http://galeri3.arkitera.com/var/thumbs/Proje/%C4%B0zmir-Ekonomi-%C3%9Cniversitesi-G%C3%BCzel-Sanatlar-ve-Tasar%C4%B1m-Fak%C3%BCltesi/cephe.jpg",
+        "http://galeri3.arkitera.com/var/thumbs/Proje/%C4%B0zmir-Ekonomi-%C3%9Cniversitesi-G%C3%BCzel-Sanatlar-ve-Tasar%C4%B1m-Fak%C3%BCltesi/IC%20AVLU2.jpg.jpeg",
+        "http://galeri3.arkitera.com/var/thumbs/Proje/%C4%B0zmir-Ekonomi-%C3%9Cniversitesi-G%C3%BCzel-Sanatlar-ve-Tasar%C4%B1m-Fak%C3%BCltesi/ACIK%20ANFI.jpg.jpeg",
+        "http://galeri3.arkitera.com/var/thumbs/Proje/%C4%B0zmir-Ekonomi-%C3%9Cniversitesi-G%C3%BCzel-Sanatlar-ve-Tasar%C4%B1m-Fak%C3%BCltesi/zemin%20kat%20plani%20copy.jpg.jpeg",
+        "http://galeri3.arkitera.com/var/thumbs/Proje/%C4%B0zmir-Ekonomi-%C3%9Cniversitesi-G%C3%BCzel-Sanatlar-ve-Tasar%C4%B1m-Fak%C3%BCltesi/kat1%20copy.jpg.jpeg",
+        "http://galeri3.arkitera.com/var/thumbs/Proje/%C4%B0zmir-Ekonomi-%C3%9Cniversitesi-G%C3%BCzel-Sanatlar-ve-Tasar%C4%B1m-Fak%C3%BCltesi/K01-kesit.jpg.jpeg",
+        "http://galeri3.arkitera.com/var/thumbs/Proje/%C4%B0zmir-Ekonomi-%C3%9Cniversitesi-G%C3%BCzel-Sanatlar-ve-Tasar%C4%B1m-Fak%C3%BCltesi/K03-kesit.jpg.jpeg"
+      ],
+      "unitsHoused": [
+        "Faculty of Fine Arts and Design (GSTF) CAD Lab I-IV, MAC Lab I-IV, Open Lab I-II, ASSIST Lab (room codes D2xx and D3xx)",
+        "Photography studio (ground floor per the 2011 plan legend; current use not verified)",
+        "Multipurpose hall ('D Blok - Çok Amaçlı Salon') and conference hall ('D blok konferans salonu'); graduation overflow viewing area"
+      ],
+      "source": "https://www.arkiv.com.tr/proje/izmir-ekonomi-universitesi-guzel-sanatlar-ve-tasarim-fakultesi/541 ; https://comp.ieu.edu.tr/tr/guzelsanatlar-ve-tasarim-fakultesi-laboratuvarlari ; https://25yil.ieu.edu.tr/ ; https://club.ieu.edu.tr/etkinlikler ; https://kim.ieu.edu.tr/tr/mezuniyet-toreni",
+      "confidence": "medium"
+    },
+    {
+      "building": "TESLA (Technology, Engineering and Science Laboratory)",
+      "appearance": "OSM: 2 floors. Opened May 2018 for the Faculty of Engineering; 1,260 m2 total; 13 research units: Industry 4.0 lab, space and aircraft lab, electrical-electronics lab, biomedical lab, design lab, clean room, computer game design lab, molecular research lab, cell and tissue culture lab, biotechnology lab, general computer lab, robotics and mechanics lab, cloud and advanced simulation room. A bust of Nikola Tesla (donated by the Consulate General of Serbia in Istanbul and the Tesla Science Foundation, USA) was brought to the new building. INFERENCE (medium): the engineering lab rooms ML102, ML104, ML105, ML106 (floor 1) and ML201, ML203 (floor 2) carry the same names as TESLA units, so the 'ML' room codes are probably TESLA rooms (2 floors, matches OSM). Exterior appearance: not found in any source.",
+      "imageUrls": [],
+      "unitsHoused": [
+        "Faculty of Engineering research labs (13 units, see appearance)"
+      ],
+      "source": "https://kalite.izmirekonomi.edu.tr/uploads/docs/2020_kurumicdegerlendirmeraporu.pdf ; https://25yil.ieu.edu.tr/ ; https://comp.ieu.edu.tr/tr/mf-lab",
+      "confidence": "high"
+    },
+    {
+      "building": "Yabancı Diller Yüksekokulu (School of Foreign Languages) building (block letter NOT found)",
+      "appearance": "Opened for the 2015-16 academic year (design 2010-2012, construction 2014-2015), plot 1,345 m2, total construction area 9,646 m2; concept by lecturers of the university's architecture department, implementation by the university's Project and Construction Directorate. LOOK (2 Arkiv 300x225 thumbnails, inspected): angular modern block of roughly 6-8 visible storeys clad in dark grey textured panels with white/cream diagonal bands and narrow vertical slot windows; reads as two masses that merge inside, the gap between them narrowing toward the upper floors (architects' concept text). Interior: white walls with purple/lavender accent walls, purple floor and linear LED strip lighting, coloured lounge seating.",
+      "imageUrls": [
+        "http://galeri3.arkitera.com/var/thumbs/Arkiv.com.tr/Proje/izmir-ekonomi/izmir-ekonomi-universitesi-yabanci-diller-yuksekokulu/a%20(1).jpg.jpeg",
+        "http://galeri3.arkitera.com/var/thumbs/Arkiv.com.tr/Proje/izmir-ekonomi/izmir-ekonomi-universitesi-yabanci-diller-yuksekokulu/c%20(1).jpg.jpeg"
+      ],
+      "unitsHoused": [
+        "School of Foreign Languages (English preparatory programme; exact rooms not found)"
+      ],
+      "source": "https://www.arkiv.com.tr/proje/izmir-ekonomi-universitesi-yabanci-diller-yuksekokulu1/5490 ; https://25yil.ieu.edu.tr/",
+      "confidence": "high"
+    },
+    {
+      "building": "Amfiteatr = Açık Hava Gösteri Merkezi (Open Air Performance Center)",
+      "appearance": "Official 2007 news and technical specs: stage 11 x 24 m (230 m2), stage covered by a steel-structure roof, stage height 8 m, orchestra pit 53 m2, audience 1,600, 2 dressing rooms of 19 m2 plus 4 single dressing rooms, make-up room 24 m2, 2 offices of 20 m2, accessible toilets. The ECTS page says 'Amphi-Theatre with 1500 seats' (conflict). Graduation ceremonies are held in the 'Amfitiyatro'. In the 2020 aerial a small pavilion with a light-grey oval roof and brick base stands near the road at the lower right; it MAY be the stage roof (unverified). The Ağaçaltı cafe site sketch shows large fan-shaped concentric arcs north-west of the cafe that MAY be seating tiers (interpretation).",
+      "imageUrls": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Izmirekonomiuni.jpg/960px-Izmirekonomiuni.jpg"
+      ],
+      "unitsHoused": [],
+      "source": "https://www.ieu.edu.tr/tr/news/type/read/id/152 ; https://ects.ieu.edu.tr/new/idari.php?id=44&lang=en ; https://kim.ieu.edu.tr/tr/mezuniyet-toreni",
+      "confidence": "high"
+    },
+    {
+      "building": "Yurt Binası (dormitories)",
+      "appearance": "Two dorm buildings (girls and boys) inside the campus, capacity 474 (282 girls, 192 boys), opened 2006 with a ceremony; rooms for 2-4 people with bath, bed, wardrobe, desk, fridge, phone and internet; accessible rooms; central air conditioning; heating and hot water from geothermal energy; each building has kitchen, study room, lounge, laundry and prayer room; breakfast served, lunch and dinner from campus restaurants; doors by personal key and student card. Exterior: no confirmed photo. A tall cream block with red vertical stripes and open external stair towers is visible in the 2007 and 2020 photos and MAY be a dorm building (unverified; it is on the left of the main slab in the 2020 aerial, i.e. east if the camera looks south, which matches OSM's Yurt Binası position).",
+      "imageUrls": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/f1/IzmirUniversityofEconomics_Balcova_Izmir_Turkey.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Izmirekonomiuni.jpg/960px-Izmirekonomiuni.jpg"
+      ],
+      "unitsHoused": [
+        "Student dormitories"
+      ],
+      "source": "https://yurt.ieu.edu.tr/tr ; https://yurt.ieu.edu.tr/tr/hakkimizda ; https://25yil.ieu.edu.tr/",
+      "confidence": "high"
+    },
+    {
+      "building": "Ağaçaltı Kafe (garden cafe)",
+      "appearance": "Official name 'Ağaçaltı Kafe' (tender 29.2026-2027-01, bids 2026-10-09). Site sketch EK-1 from the Facilities directorate: one rectangular cafe building of 72.35 m2 inside a 185.86 m2 allocated outdoor/terrace area, a 51.35 m2 open storage area on the south side of the drawing, a 105.20 m2 green university common area on the north side with concentric stepped outlines, fan-shaped arcs to the north-west that may be amphitheatre tiers, stairways down on several sides, many trees. Location is only described as 'bahçe alanı' (garden area) of the Balçova campus. Exterior look not documented.",
+      "imageUrls": [],
+      "unitsHoused": [
+        "Cafeteria (leased operator)"
+      ],
+      "source": "https://www.ieu.edu.tr/tr/announcements/type/read/id/13830 ; https://ieucloud.izmirekonomi.edu.tr/index.php/s/RUaKaHQEogomvIa",
+      "confidence": "high"
+    },
+    {
+      "building": "Main gate and forecourt on Sakarya Cad. (visual details)",
+      "appearance": "2019 pano: gate portal of two tall square red-brick pillars joined by a cream lintel beam, small brick guard booth beside it, steel posts marking lanes, wide asphalt forecourt with a circular lawn island (yellow/orange and white striped kerb), flagpole row, palms and pines, forested hill directly behind. 2024: white/red boom barrier across the vehicle lane with a red 'DUR' stop sign and a no-parking sign on the barrier fence. 2021: yellow tactile paving line from the plaza to the entrance canopy.",
+      "imageUrls": [
+        "https://cdn.mekan360.com/static/images/sanaltur/50/panoclip.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%C4%B0zmir_Ekonomi_%C3%9Cniversitesi.jpg/960px-%C4%B0zmir_Ekonomi_%C3%9Cniversitesi.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/65/Izmir_University_of_Economics_at_night.jpg"
+      ],
+      "unitsHoused": [],
+      "source": "https://mekan360.com/360fx_izmirekonomiuni-anasayfa.html ; https://commons.wikimedia.org/wiki/Category:%C4%B0zmir_University_of_Economics_Bal%C3%A7ova_Campus",
+      "confidence": "high"
+    }
+  ],
+  "history": [
+    {
+      "fact": "İEÜ was established on 14 April 2001 (Law 4633, Official Gazette 24373) by the İzmir Chamber of Commerce Education and Health Foundation with 2 faculties, 5 schools and 2 institutes; first foundation university of the Aegean region.",
+      "source": "https://www.ieu.edu.tr/tr/tarihce",
+      "confidence": "high"
+    },
+    {
+      "fact": "On 1 July 2001, with the support of the then İzmir Metropolitan Mayor, the university moved to the present Balçova campus and started with 288 students.",
+      "source": "https://www.ieu.edu.tr/tr/tarihce",
+      "confidence": "high"
+    },
+    {
+      "fact": "The Balçova campus building was formerly the Grand Plaza hotel, unused for nine years before the 1 July 2001 decision; it was strengthened and renovated for the university. Only Wikipedia (tr/en) and a 2024-07-03 Hürriyet column repeat this; the official history page does not mention the hotel. Construction year, architect and owner of the hotel were NOT found.",
+      "source": "https://tr.wikipedia.org/wiki/%C4%B0zmir_Ekonomi_%C3%9Cniversitesi ; https://en.wikipedia.org/wiki/%C4%B0zmir_University_of_Economics ; https://www.hurriyet.com.tr/yazarlar/sefer-levent/izmire-sira-disi-kampus-42484417",
+      "confidence": "medium"
+    },
+    {
+      "fact": "A purchase price of about USD 18 million for the former hotel building appears only in Wikipedia (no citation checked).",
+      "source": "https://en.wikipedia.org/wiki/%C4%B0zmir_University_of_Economics",
+      "confidence": "low"
+    },
+    {
+      "fact": "Classes started 22 October 2001; the official opening ceremony was on 26 October 2001 with the 9th President of Turkey attending (Wikipedia; the Hürriyet column repeats the dates).",
+      "source": "https://tr.wikipedia.org/wiki/%C4%B0zmir_Ekonomi_%C3%9Cniversitesi ; https://www.hurriyet.com.tr/yazarlar/sefer-levent/izmire-sira-disi-kampus-42484417",
+      "confidence": "medium"
+    },
+    {
+      "fact": "The library was founded in 2002 and merged with the British Council Library in 2004 to offer English-language library services.",
+      "source": "https://kutuphane.ieu.edu.tr/tr/tarihce",
+      "confidence": "high"
+    },
+    {
+      "fact": "Staff testimonial on the official 25th-year page: in 2005 lectures in A Blok shared rooms with construction workers (hammer noise); the writer says they also witnessed the rise of the dorm building, the School of Foreign Languages, M Blok and the Fine Arts and Design faculty in the first years.",
+      "source": "https://25yil.ieu.edu.tr/",
+      "confidence": "medium"
+    },
+    {
+      "fact": "The dormitory building opened in 2006 with a ceremony attended by the then Governor of İzmir; capacity 474 (282 girls, 192 boys) in two buildings; geothermal heating and hot water.",
+      "source": "https://yurt.ieu.edu.tr/tr ; https://yurt.ieu.edu.tr/tr/hakkimizda ; https://25yil.ieu.edu.tr/",
+      "confidence": "high"
+    },
+    {
+      "fact": "The Open Air Performance Center (Amfiteatr) opened with a ceremony on 28 May 2007: 1,600 seats, 11 x 24 m stage under a steel roof, orchestra pit; plaques were presented for its construction to a representative of the company Kuryap Ltd., the university's project and construction coordinator and the mayor of Balçova; student club presidents cut the ribbon and the dance group Anadolu Ateşi performed.",
+      "source": "https://www.ieu.edu.tr/tr/news/type/read/id/152",
+      "confidence": "high"
+    },
+    {
+      "fact": "Prince Charles (then Prince of Wales) visited the campus in 2007 as the university's guest, toured labs, attended classes and signed the university guest book (official timeline).",
+      "source": "https://25yil.ieu.edu.tr/",
+      "confidence": "high"
+    },
+    {
+      "fact": "The new Fine Arts and Design (GSTF) building opened in 2010 per the official timeline ('completed in only about 6 months', noted for its unusual architecture); Arkiv lists completion year 2011, design office Maer & Partners, an 'integrated design' concept uniting 5 departments under one roof in the university's 10th academic year, and 'universal design' accessibility.",
+      "source": "https://25yil.ieu.edu.tr/ ; https://www.arkiv.com.tr/proje/izmir-ekonomi-universitesi-guzel-sanatlar-ve-tasarim-fakultesi/541",
+      "confidence": "medium"
+    },
+    {
+      "fact": "The School of Foreign Languages (YDYO) building opened in the 2015-16 academic year: design 2010-2012, construction 2014-2015, plot 1,345 m2, total area 9,646 m2, concept by architecture-department lecturers, implementation by the university Project and Construction Directorate.",
+      "source": "https://www.arkiv.com.tr/proje/izmir-ekonomi-universitesi-yabanci-diller-yuksekokulu1/5490 ; https://25yil.ieu.edu.tr/",
+      "confidence": "high"
+    },
+    {
+      "fact": "The TESLA research building opened in May 2018 (1,260 m2, 13 research units) for the Faculty of Engineering; a bust of Nikola Tesla donated by the Consulate General of Serbia in Istanbul and the Tesla Science Foundation (USA) was placed in the new building.",
+      "source": "https://kalite.izmirekonomi.edu.tr/uploads/docs/2020_kurumicdegerlendirmeraporu.pdf ; https://25yil.ieu.edu.tr/",
+      "confidence": "high"
+    },
+    {
+      "fact": "A recently completed 'Rekreasyon Alanı' building (507 m2 closed area, 1,400 m2 qualified open area, 215 m2 for the Psychology Application and Research Center, 292 m2 commercial area) was reported in the 2020 report; the Psychology center entered service in 2021 per the timeline. Its location on campus was not found.",
+      "source": "https://kalite.izmirekonomi.edu.tr/uploads/docs/2020_kurumicdegerlendirmeraporu.pdf ; https://25yil.ieu.edu.tr/",
+      "confidence": "medium"
+    },
+    {
+      "fact": "2019-20 official area figures: total closed area 84,759.04 m2; qualified open area 29,566 m2; 176 classrooms and amphitheatres totalling 9,110 m2; 251 academic offices (5,785 m2); 103 administrative offices (3,178 m2); library reader area 1,460 m2 in K Blok.",
+      "source": "https://kalite.izmirekonomi.edu.tr/uploads/docs/2020_kurumicdegerlendirmeraporu.pdf",
+      "confidence": "high"
+    },
+    {
+      "fact": "Wikidata Q117472124 = 'Balçova Campus, İzmir University of Economics': instance of campus (Q209465), country Turkey, part of İzmir University of Economics (Q4822444), located in Balçova district (Q2636596) / Fevzi Çakmak quarter (Q100488190), coordinates 38.388333, 27.044722, image 'Izmirekonomiuni.jpg', OSM way 181081996, Commons category 'İzmir University of Economics Balçova Campus'.",
+      "source": "https://www.wikidata.org/wiki/Q117472124",
+      "confidence": "high"
+    },
+    {
+      "fact": "Wikimedia Commons category for the Balçova campus holds 9 files: 2020 aerial (Izmirekonomiuni.jpg), 2024 panorama (İzmir Ekonomi Üniversitesi.jpg, 11840x5328), 2021 night view, a 2007 general view, and 5 photos of a named individual at a 2023-05-10 political meeting on campus (name omitted for privacy; not useful as building references). A separate Commons category exists for the Güzelbahçe campus.",
+      "source": "https://commons.wikimedia.org/wiki/Category:%C4%B0zmir_University_of_Economics_Bal%C3%A7ova_Campus",
+      "confidence": "high"
+    },
+    {
+      "fact": "Wikipedia (tr) says the Balçova campus sits at the lower part of the Teleferik next to a wooded area and holds the rectorate, all faculties, administration, an open-air performance center, conference hall, exhibition areas and a student dormitory; the en text says it is 'right across from the Teleferik'.",
+      "source": "https://tr.wikipedia.org/wiki/%C4%B0zmir_Ekonomi_%C3%9Cniversitesi ; https://en.wikipedia.org/wiki/%C4%B0zmir_University_of_Economics",
+      "confidence": "medium"
+    },
+    {
+      "fact": "Balçova Teleferik: opened 24 March 1974, closed in 2008 after a safety report, rebuilt and reopened 31 July 2015; inclined length 810.71 m, height difference 351.66 m, 20 cabins of 8 people, 1,200 passengers per hour, trip 2 min 42 s (conflicts with the ~770 m the project measured from OSM and with OSM opening hours).",
+      "source": "https://tr.wikipedia.org/wiki/Bal%C3%A7ova_Teleferi%C4%9Fi ; https://www.wikidata.org/wiki/Q6051960",
+      "confidence": "medium"
+    },
+    {
+      "fact": "Out of scope but easy to confuse: the second campus at Güzelbahçe (architecture competition result 2022, foundation laid 2024, a 47 m flagpole raised in 2025).",
+      "source": "https://25yil.ieu.edu.tr/",
+      "confidence": "high"
+    }
+  ],
+  "lore": [
+    {
+      "fact": "The open-air amphitheatre is used for concerts, dance shows and graduation ceremonies (rules: no balloons, confetti, torches or pets; overflow viewing areas at the A Blok canteen and the D Blok multipurpose hall; ceremonies streamed on YouTube).",
+      "kind": "tradition",
+      "source": "https://kim.ieu.edu.tr/tr/mezuniyet-toreni ; https://www.izmir.art/tr/izmir-ekonomi-universitesi",
+      "confidence": "high"
+    },
+    {
+      "fact": "Capacity conflict: 1,600 (2007 official news, İzmir Art) versus 'Amphi-Theatre with 1500 seats' (ECTS learning-facilities page); the same ECTS page lists a Conference Hall with 550 seats, football, basketball and volleyball fields and tennis courts, and says all buildings were built with disabled access in mind.",
+      "kind": "landmark",
+      "source": "https://www.ieu.edu.tr/tr/news/type/read/id/152 ; https://ects.ieu.edu.tr/new/idari.php?id=44&lang=en",
+      "confidence": "high"
+    },
+    {
+      "fact": "A bust of Nikola Tesla, donated by the Consulate General of Serbia in Istanbul and the Tesla Science Foundation (USA), was brought to the TESLA building when it opened in 2018.",
+      "kind": "art",
+      "source": "https://25yil.ieu.edu.tr/",
+      "confidence": "high"
+    },
+    {
+      "fact": "Prince Charles visited the campus in 2007, toured labs, sat in on classes and signed the guest book.",
+      "kind": "other",
+      "source": "https://25yil.ieu.edu.tr/",
+      "confidence": "high"
+    },
+    {
+      "fact": "The 'stained-glass workshop' is a one-off 'Anlam Pencereleri' workshop (news dated 20 Sept 2026) for interior architecture and design studies students; it visited external glass studios and a church with stained glass; no permanent stained-glass studio on campus was found.",
+      "kind": "art",
+      "source": "https://www.ieu.edu.tr/tr/news/type/read/id/10542",
+      "confidence": "high"
+    },
+    {
+      "fact": "Balçova Terapi Ormanı (municipal tourism page): 6 km of trails with two routes, one to a historic monastery ruin and one to a natural waterfall, medium difficulty, signposted.",
+      "kind": "nature",
+      "source": "https://www.visitizmir.org/tr/destinasyon/24514",
+      "confidence": "high"
+    },
+    {
+      "fact": "Campus cats exist: a 2018-02-19 news report (citing a local newspaper and an animal-rights federation) says cats born on campus had been fed and cared for by students and teachers and alleges they were moved to university land in Güzelbahçe; it also mentions a similar 2011 incident and an animal-rights student club set up afterwards. Allegations, single news source, sensitive: do not present as fact in-game.",
+      "kind": "nature",
+      "source": "https://yesilgazete.org/haytaptan-universiteye-suc-duyurusu-kampusteki-kedileri-daglik-araziye-biraktilar/",
+      "confidence": "medium"
+    },
+    {
+      "fact": "'Ağaçaltı' (under the trees) is a real garden cafeteria of the Balçova campus, leased out by tender (bids 2026-10-09).",
+      "kind": "landmark",
+      "source": "https://www.ieu.edu.tr/tr/announcements/type/read/id/13830",
+      "confidence": "high"
+    },
+    {
+      "fact": "OSM tags 'IEU Çiçeklik 2' and 'IEU Çiçeklik 3' as orchards with trees=orange_trees; 'IEU Çiçeklik' and 'IEU Çiçeklik 4' are meadows; 'IEU Kedili Park' (leisure=park) and 'IEU Arka Bahçe' (garden) exist only as OSM names, no independent source.",
+      "kind": "nature",
+      "source": "https://www.openstreetmap.org/way/637305661 ; https://www.openstreetmap.org/way/637305663",
+      "confidence": "medium"
+    },
+    {
+      "fact": "Welcome Day / orientation on 14 September 2026; club recruitment stands are set up at the M Blok main entrance and the M Blok canteen; a World Translation Day stand on 30 Sept 2026; a yearly Spring Festival (Bahar Şenlikleri), a dance festival, a music festival and a sports awards gala are announced by the Health, Culture and Sports directorate.",
+      "kind": "tradition",
+      "source": "https://sks.ieu.edu.tr/tr/welcome-day ; https://club.ieu.edu.tr/etkinlikler",
+      "confidence": "medium"
+    },
+    {
+      "fact": "Career Days: 19-21 March 2025 in the A Blok conference hall; 9-13 March 2026 with 119 firms from 65 sectors in the conference hall and the A Blok foyer.",
+      "kind": "tradition",
+      "source": "https://kariyer.ieu.edu.tr/tr/2025-kariyer-gunleri ; https://kariyer.ieu.edu.tr/tr/2026-kariyer-gunleri",
+      "confidence": "high"
+    },
+    {
+      "fact": "Healthy Campus (news 21 Sept 2026): the campus sports hall is free for students and staff, information visuals about healthy eating are placed around the campus, food businesses are audited, and a 'Kupanı Al Gel' reusable-cup scheme gives discounts at campus businesses.",
+      "kind": "other",
+      "source": "https://www.ieu.edu.tr/tr/news/type/read/id/10548",
+      "confidence": "high"
+    },
+    {
+      "fact": "Dorm heating and hot water use geothermal energy; dorm entrances use student cards.",
+      "kind": "other",
+      "source": "https://yurt.ieu.edu.tr/tr/hakkimizda",
+      "confidence": "high"
+    },
+    {
+      "fact": "Corporate colours: primary orange Pantone 1505 (RGB 255,105,0, #FF6900) and black; complementary Cool Gray 10 (RGB 99,102,106) and Pantone 2768 (RGB 7,29,73), plus metallic gold and silver.",
+      "kind": "other",
+      "source": "https://phoenix.ieu.edu.tr/betanix/uploads/cms/kim.ieu.edu.tr/9153_1597928273.pdf",
+      "confidence": "high"
+    },
+    {
+      "fact": "Room numbering encodes the floor with the first digit (C601 = C Blok 6th floor, D201 = D Blok 2nd floor, A Blok 118 = 1st floor, A Blok 520 = 5th floor); PGDM offices 1B18 and 1B19 are on A Blok floor -1.",
+      "kind": "other",
+      "source": "https://comp.ieu.edu.tr/tr/c601 ; https://comp.ieu.edu.tr/tr/guzelsanatlar-ve-tasarim-fakultesi-laboratuvarlari ; https://pgdm.ieu.edu.tr/tr/iletisim ; https://vs.ieu.edu.tr/tr/iletisim-bilgileri ; https://rtv.ieu.edu.tr/tr/iletisim",
+      "confidence": "high"
+    }
+  ],
+  "indoorOSM": {
+    "found": false,
+    "details": "Overpass API (POST https://overpass-api.de/api/interpreter, header Accept: */*, descriptive User-Agent), OSM base timestamp 2026-09-29T21:41:02Z. Query 1: nwr with key indoor, level, room, door or entrance inside bbox 38.386,27.042,38.392,27.047 returned 0 elements (out tags center). Query 2 (union of building:part, level:ref, min_level, max_level, repeat_on, addr:floor, highway=elevator, building:colour, building:material, roof:shape, roof:colour, roof:material, start_date, architect, image, wikimedia_commons, wikidata, artwork_type, tourism=artwork|attraction|viewpoint|information, historic, memorial) returned only 6 elements: the Teleferik node (tourism=attraction), the gondola way (wikidata Q6051960, commons category Balçova Gondola), the campus outline way 181081996 (wikidata Q117472124, commons category), and 3 administrative boundaries. So there is NO indoor mapping, no building:part, no building:colour/material, no roof:* tags, no start_date/architect, no artwork or memorial nodes. Tags found earlier in the project's local OSM dump: building:levels only on A K M (6), C Blok relation (7, roof:levels 1) and TESLA (2); height=2 on Reklamcılık. Attempt log: the first request got HTTP 406 with a Mozilla-style User-Agent, a large union got HTTP 504, smaller queries with a plain descriptive User-Agent worked."
+  },
+  "easterEggsTrue": [
+    {
+      "idea": "Tesla bust in the TESLA building lobby: interacting makes blue sparks arc and shows a card about the 2018 donation. (The lobby placement is a design choice; the bust itself is real.)",
+      "basedOn": "Official 25th-year timeline: the Nikola Tesla bust donated by the Serbian Consulate General in Istanbul and the Tesla Science Foundation was brought to the new TESLA building.",
+      "source": "https://25yil.ieu.edu.tr/"
+    },
+    {
+      "idea": "Hotel past: a hidden reception bell on the A Blok lobby desk that plays a chime and shows 'This building used to be the Grand Plaza hotel'. (The bell is an invented prop; the fact is source-backed, medium confidence.)",
+      "basedOn": "Wikipedia tr/en and a 2024 Hürriyet column: hotel building unused for nine years, reused by the university from 2001.",
+      "source": "https://tr.wikipedia.org/wiki/%C4%B0zmir_Ekonomi_%C3%9Cniversitesi ; https://www.hurriyet.com.tr/yazarlar/sefer-levent/izmire-sira-disi-kampus-42484417"
+    },
+    {
+      "idea": "Early-years mode in A Blok: a distant hammering and drilling loop with the tooltip 'In 2005 lectures shared rooms with construction workers'.",
+      "basedOn": "Staff testimonial on the official 25th-year page.",
+      "source": "https://25yil.ieu.edu.tr/"
+    },
+    {
+      "idea": "Guest book on a stand in the rectorate lobby: reading it shows 'In 2007 the Prince of Wales toured the labs, joined a class and signed this book'. (The stand is invented; the visit is real.)",
+      "basedOn": "Official timeline entry for 2007.",
+      "source": "https://25yil.ieu.edu.tr/"
+    },
+    {
+      "idea": "Stand on the amphitheatre stage at night: spotlights, Turkish flags and an 'Atam İzindeyiz' banner replay the 28 May 2007 opening; the card lists 1,600 seats, 11 x 24 m stage, 53 m2 orchestra pit.",
+      "basedOn": "Official 2007 news and technical specification of the Open Air Performance Center.",
+      "source": "https://www.ieu.edu.tr/tr/news/type/read/id/152"
+    },
+    {
+      "idea": "Fine Arts and Design building 'six-month build' toggle: a scaffold time-lapse when interacting with the entrance.",
+      "basedOn": "Official timeline says the GSTF building was completed in only about 6 months (opened 2010).",
+      "source": "https://25yil.ieu.edu.tr/"
+    },
+    {
+      "idea": "Library nod to the British Council: a small red telephone box or British Council poster near the reading room, with the card 'merged with the British Council Library in 2004'. (Prop invented.)",
+      "basedOn": "Official library history page.",
+      "source": "https://kutuphane.ieu.edu.tr/tr/tarihce"
+    },
+    {
+      "idea": "Geothermal steam wisps from a vent next to the dorm with the card 'heating and hot water come from geothermal energy'.",
+      "basedOn": "Official dorm page.",
+      "source": "https://yurt.ieu.edu.tr/tr/hakkimizda"
+    },
+    {
+      "idea": "Ride the Balçova gondola: the trip lasts 2 min 42 s, 20 cabins of 8; the card mentions the 1974 opening, the 2008 closure and the 2015 reopening.",
+      "basedOn": "Turkish Wikipedia technical data (medium confidence, hours conflict with OSM).",
+      "source": "https://tr.wikipedia.org/wiki/Bal%C3%A7ova_Teleferi%C4%9Fi"
+    },
+    {
+      "idea": "Unlockable trail signs at the forest edge: '6 km, two routes: monastery ruin and waterfall'.",
+      "basedOn": "Municipal tourism page for Balçova Terapi Ormanı.",
+      "source": "https://www.visitizmir.org/tr/destinasyon/24514"
+    },
+    {
+      "idea": "Ağaçaltı Kafe as a shaded study nook with a big terrace; a reusable-cup mini-scheme ('Kupanı Al Gel') gives a small buff when you bring your own cup.",
+      "basedOn": "Official tender and site sketch for the cafe; 2026 Healthy Campus news on the reusable-cup scheme.",
+      "source": "https://www.ieu.edu.tr/tr/announcements/type/read/id/13830 ; https://www.ieu.edu.tr/tr/news/type/read/id/10548"
+    },
+    {
+      "idea": "Room-number decoder puzzle: the first digit is the floor (C601 = Simulation Lab I on C Blok floor 6, D201 = CAD Lab I on D Blok floor 2, PGDM offices 1B18/1B19 on A Blok floor -1).",
+      "basedOn": "Official IT lab pages and unit contact pages.",
+      "source": "https://comp.ieu.edu.tr/tr/c601 ; https://comp.ieu.edu.tr/tr/guzelsanatlar-ve-tasarim-fakultesi-laboratuvarlari ; https://pgdm.ieu.edu.tr/tr/iletisim"
+    },
+    {
+      "idea": "Graduation-day event mode at the amphitheatre with a rules sign (no balloons, confetti, torches or pets) and overflow screens at the A Blok canteen and D Blok multipurpose hall.",
+      "basedOn": "Official graduation ceremony instructions.",
+      "source": "https://kim.ieu.edu.tr/tr/mezuniyet-toreni"
+    },
+    {
+      "idea": "Welcome Day club stands at the M Blok main entrance and canteen (folk dance club, translation club) with flyers as collectibles.",
+      "basedOn": "Official club events listing for September 2026.",
+      "source": "https://club.ieu.edu.tr/etkinlikler"
+    },
+    {
+      "idea": "Career Days fair in the conference hall and A Blok foyer (March 2026: 119 firms, 65 sectors).",
+      "basedOn": "Official career centre pages.",
+      "source": "https://kariyer.ieu.edu.tr/tr/2025-kariyer-gunleri ; https://kariyer.ieu.edu.tr/tr/2026-kariyer-gunleri"
+    },
+    {
+      "idea": "Boom barrier at the vehicle gate with a red 'DUR' (stop) sign that lifts when the player approaches the guard booth.",
+      "basedOn": "2024 Commons photograph of the entrance.",
+      "source": "https://commons.wikimedia.org/wiki/File:%C4%B0zmir_Ekonomi_%C3%9Cniversitesi.jpg"
+    },
+    {
+      "idea": "Orange orchard mini-game in 'Çiçeklik 2' and 'Çiçeklik 3'. (The OSM tag trees=orange_trees is community-mapped, medium confidence.)",
+      "basedOn": "OpenStreetMap tags on the orchard ways.",
+      "source": "https://www.openstreetmap.org/way/637305661"
+    },
+    {
+      "idea": "Friendly campus cats near the gardens with water bowls. Keep it light: the only news source is a 2018 relocation controversy, so do not reference it in-game.",
+      "basedOn": "News report saying campus cats are fed by students and teachers.",
+      "source": "https://yesilgazete.org/haytaptan-universiteye-suc-duyurusu-kampusteki-kedileri-daglik-araziye-biraktilar/"
+    }
+  ],
+  "easterEggsFictional": [
+    {
+      "idea": "FICTIONAL: campus cats hold 'office hours' on the steps and sign attendance sheets in exchange for snacks.",
+      "note": "Humour only, not a fact; the project already uses fictional cats."
+    },
+    {
+      "idea": "FICTIONAL: midterm-week mode: the library glows at 2 a.m., queues at coffee stands double, printers jam, everyone whispers.",
+      "note": "Student-life joke; no source."
+    },
+    {
+      "idea": "FICTIONAL: a lost homework page blows around the plazas; returning it gives a random 'thanks' line.",
+      "note": "Pure gameplay idea."
+    },
+    {
+      "idea": "FICTIONAL: a ghost bellhop pushes a luggage cart through A Blok corridors at night as a wink to the hotel past.",
+      "note": "Invented character; the hotel history itself is only medium confidence."
+    },
+    {
+      "idea": "FICTIONAL: an 'escape finals' gondola cabin that plays an 'Exam? What exam?' jingle at the top.",
+      "note": "Joke; the gondola is real, the feature is not."
+    },
+    {
+      "idea": "FICTIONAL: a vending machine that dispenses motivational quotes together with tea.",
+      "note": "Invented."
+    },
+    {
+      "idea": "FICTIONAL: club-stand gauntlet: walking past stands stacks flyers in your inventory until you slow down.",
+      "note": "Exaggeration of Welcome Day."
+    },
+    {
+      "idea": "FICTIONAL: an Erasmus student asks for directions in four languages and thanks you with a postcard.",
+      "note": "Invented NPC."
+    },
+    {
+      "idea": "FICTIONAL: an elevator with a secret 'floor 4.5' button that opens onto a rooftop with the best view of the hill.",
+      "note": "Invented."
+    },
+    {
+      "idea": "FICTIONAL: a pine-cone toss mini-game under the old pines.",
+      "note": "Invented."
+    },
+    {
+      "idea": "FICTIONAL: attendance-sheet relay: pass the sheet along a row of lecture seats before the professor turns around.",
+      "note": "Student-life humour."
+    }
+  ],
+  "gaps": [
+    "No OSM indoor mapping exists in the bbox (indoor, level, room, door, entrance all absent).",
+    "No official virtual tour and no custom campus plan were found; the official 'Kampüs Haritası' is only a Google Maps embed; the only tour is one third-party 360 panorama from 2019 (mekan360). DuckDuckGo html returned a CAPTCHA, so search used the WebSearch tool instead.",
+    "Exterior descriptions are missing for C Blok, E blok, K Blok, M Blok, TESLA, Yurt Binası, Medya İletişim, Reklamcılık, Starbucks, Subway and the Recreation Area building; only aerial photos exist.",
+    "No source found for B Blok, E Blok or F Blok contents; no source tells which block houses the Rectorate, Faculty of Business, Communication, Law, Medicine, Health Sciences or the Student Affairs office. The known mapping is only what is listed in buildingRefs (A, C, D, K, M, TESLA).",
+    "Block letter of the School of Foreign Languages building, the Recreation Area building and the Psychology center is unknown.",
+    "Grand Plaza hotel: construction year, architect and hotel-era look were not found; the hotel story rests on Wikipedia and a Hürriyet column, not on an official İEÜ page.",
+    "Hypothesis to test (NOT verified): the round drum hall could be the K Blok library, because the library has two reading halls stated as 612 m2 each and a circle of 612 m2 has a diameter of about 27.9 m. Candidates for the gabled hall: the conference hall (550 seats), a cafeteria hall or the campus sports hall; none verified.",
+    "Hypothesis to test (NOT verified): the tall cream/red-striped block visible in the 2007 and 2020 photos may be a dorm building; the oval-roofed pavilion in the 2020 aerial may be the amphitheatre stage roof.",
+    "Colour values are rough: hue-filtered medians from low-resolution thumbnails, not colour-calibrated; the facade colour looks darker (maroon) in 2007 than in later photos, so it may have been repainted.",
+    "'Kedili Park' and 'Arka Bahçe' names exist only in OSM; the Çiçeklik orange trees only in OSM tags; no independent sources.",
+    "No Atatürk corner or bust, sculpture, mural or plaque could be verified on campus (the only verified monument-like object is the Tesla bust; the 2007 opening finale showed an 'Atam İzindeyiz' banner); an academic PDF about monuments in İzmir public spaces (academia.edu) appeared in search but was not read.",
+    "The stained-glass item is a one-off 2026 workshop with off-campus visits, not a permanent campus workshop.",
+    "Conflicts left unresolved: amphitheatre 1,500 vs 1,600 seats; GSTF building 2010 (timeline) vs 2011 (Arkiv); Teleferik hours (OSM 10:00-17:00 daily vs Wikipedia 12:00-20:00 except Monday) and length (about 770 m measured by the project vs 810.71 m inclined length).",
+    "pim.ieu.edu.tr (Facilities directorate 'Projelerimiz') returned 'Error Header Attack' to programmatic requests, so its project list (a search snippet suggests it names M Blok, dormitory, C Blok and an open amphitheatre) is unverified; eksisozluk.com returned a Cloudflare challenge and was not accessed.",
+    "Some official pages (history, dorm, 25th-year timeline, club events, tender and site sketch, brand guide, graduation and career pages) were read from local copies fetched earlier in this session by other processes, not re-requested by me; their contents were checked in those copies. The original URL of the EK-1 site sketch file was not logged (it belongs to the tender documents).",
+    "Personal names of staff and students, e-mails and phone numbers were deliberately left out; 5 Commons files show a named individual and were excluded from image lists."
+  ]
+}

@@ -1,0 +1,3606 @@
+{
+ "retrieved": "2026-09-30",
+ "services": [
+  {
+   "name": "Kütüphane ve Dokümantasyon Müdürlüğü (library), upper floor (Üst Kat)",
+   "kind": "library",
+   "locationHint": "Balçova campus. The official pages name two floors, 'Alt Kat' (lower) and 'Üst Kat' (upper); which building/block houses the library is not stated.",
+   "hours": {
+    "weekday": "Academic year: 08:30-22:00. Summer and semester break: 08:30-17:45.",
+    "saturday": "Academic year: 10:00-17:00. Summer and semester break: closed.",
+    "sunday": "Closed (academic year and summer/semester break). Exam periods: the reservation page lists upper-floor slots on Saturday and Sunday 10:00-22:00.",
+    "notes": "The page does not define which dates count as 'akademik yil' vs 'yaz ve yariyil tatili'. Rules: phones off, silence, only water may be brought in (no food or drink), ID card needed for borrowing, magnetic security gate at the exit. Table reservations via the MyIEU app: 2-hour slots, max 2 active reservations, cancel up to 30 min before, no-show/overstay sanctions (10 min to clear the table). Upper-floor reservation slots: weekdays 08:30-10:30 ... 20:30-22:00; Saturday 10:00-12:00, 12:00-14:00, 14:00-16:00; Sunday closed; exam periods add Saturday and Sunday 10:00-22:00 in 2-hour slots (the first exam-period weekday slot is printed '08:30 - 12:30', probably a typo). Collection per ieu.edu.tr: about 59 thousand printed and 1.112 million electronic books, 22 desktop computers."
+   },
+   "source": "https://kutuphane.ieu.edu.tr/tr",
+   "moreSources": [
+    "https://kutuphane.ieu.edu.tr/tr/rezervasyon-sistemi",
+    "https://kutuphane.ieu.edu.tr/tr/kutuphane-kurallari",
+    "https://www.ieu.edu.tr/aday/tr/kampuste-yasam"
+   ]
+  },
+  {
+   "name": "Kütüphane, lower floor (Alt Kat), 24/7 study floor",
+   "kind": "library",
+   "locationHint": "Same library; lower floor. Block/building not stated.",
+   "hours": {
+    "weekday": "Open 24 hours ('Alt Kat 7/24 açıktır').",
+    "saturday": "Open 24 hours.",
+    "sunday": "Open 24 hours.",
+    "notes": "The reservation page says the lower floor is closed for cleaning 07:30-09:00 and no reservations are taken then; reservations start at 09:00. Lower-floor reservation slots (2 h each): 09:00-11:00, 11:00-13:00, 13:00-15:00, 15:00-17:00, 17:00-19:00, 19:00-21:00, 21:00-23:00, 23:00-01:00, 01:00-03:00, 03:00-05:00, 05:00-07:00. Reservations cover a 24-hour period."
+   },
+   "source": "https://kutuphane.ieu.edu.tr/tr",
+   "moreSources": [
+    "https://kutuphane.ieu.edu.tr/tr/rezervasyon-sistemi"
+   ]
+  },
+  {
+   "name": "Ağaçaltı Kafeterya (Agacalti cafeteria, kafeterya işletmesi)",
+   "kind": "food",
+   "locationHint": "Garden terrace above the amphitheatre ('Amfi Tiyatro Üstü Bahçe Alanı'); tender address: Balçova, Fevzi Çakmak Mah., Sakarya Cad. Dış Kapı No: 156/9. Site sketch (KROKİ.pdf, no north arrow, so directions are page positions): large amphitheatre seating arcs at the top-left, a smaller stepped semicircle inside the green common-use area at the top-centre, the cafe building in the middle of a tree-planted garden, stairs on several sides, storage area at the bottom; leased building 72.35 m2, allocated extra outdoor area 185.86 m2, university common-use area 105.20 m2, open-air storage 51.35 m2.",
+   "hours": {
+    "weekday": "Tender minimum for the next operator: open at least 08:00-19:00 on weekdays. The current operator's actual hours are not published.",
+    "saturday": "Not specified (the specification only defines the weekday minimum and on-request special days).",
+    "sunday": "Not specified.",
+    "notes": "The operation is being re-tendered (Acik Teklif, tender no 29.2026-2027-01, announced 2026-09-18): bids due Fri 2026-10-09 13:30, tender session 2026-10-09 14:00. The technical specification says the space is handed to the new tenant on 2027-01-06 and the new business must open no later than 2027-02-08; this implies a handover/refit gap between those dates (my inference; the documents do not say the cafeteria closes). Tender requirements for the new operator (not proof of current practice): kitchen not suitable for on-site cooking, hot meals only as transported food service; menu groups: salads/bowls, sandwiches/wraps, pasta, pizza/lahmacun/pide/gozleme, healthy snacks, desserts, breakfast (tost, simit, pogaca), cold drinks (water, ayran, fresh juice), hot drinks (Turkish coffee, espresso-based, filter, tea), vegetarian/vegan and gluten-free items; accepts the university card payment system; at least 5 student meal scholarships; price list updated at most twice a year (September and March); must open on request for graduation, spring festival, 'tercih gunleri' and registration days; closes if the campus is closed by the authorities; tobacco and e-cigarettes banned in the leased area; waste is accepted at the waste collection point 09:00-10:00 and 16:00-17:00."
+   },
+   "source": "https://ieucloud.izmirekonomi.edu.tr/remote.php/dav/public-files/RUaKaHQEogomvIa/TEKN%c4%b0K%20%c5%9eARTNAME.pdf",
+   "moreSources": [
+    "https://www.ieu.edu.tr/tr/announcements/type/read/id/13830",
+    "https://phoenix.ieu.edu.tr/betanix/uploads/duyuru/duyuru_1789734936.pdf",
+    "https://ieucloud.izmirekonomi.edu.tr/remote.php/dav/public-files/RUaKaHQEogomvIa/KROK%c4%b0.pdf"
+   ]
+  },
+  {
+   "name": "Starbucks",
+   "kind": "food",
+   "locationHint": "Location on campus is not stated in the source (campus address: Sakarya Cad. No:156, Balcova).",
+   "hours": {
+    "weekday": "07:30-18:00",
+    "saturday": "08:00-17:00",
+    "sunday": "08:00-17:00",
+    "notes": "Hours from the Idari Isler Mudurlugu 'Is Ortaklari' (business partners) page, read 2026-09-30; the page is undated. The source gives one 'Hafta sonu' (weekend) value, not split by day."
+   },
+   "source": "https://tim.ieu.edu.tr/tr/is-ortaklari"
+  },
+  {
+   "name": "Yiğit Fırın & Cafe",
+   "kind": "food",
+   "locationHint": "Location on campus is not stated in the source (campus address: Sakarya Cad. No:156, Balcova).",
+   "hours": {
+    "weekday": "06:30-19:00",
+    "saturday": "07:00-17:00",
+    "sunday": "",
+    "notes": "Hours from the Idari Isler Mudurlugu 'Is Ortaklari' (business partners) page, read 2026-09-30; the page is undated. Sunday is not listed. Earliest opening of all listed venues."
+   },
+   "source": "https://tim.ieu.edu.tr/tr/is-ortaklari"
+  },
+  {
+   "name": "Gofrette",
+   "kind": "food",
+   "locationHint": "Location on campus is not stated in the source (campus address: Sakarya Cad. No:156, Balcova).",
+   "hours": {
+    "weekday": "07:30-18:00",
+    "saturday": "08:00-14:00",
+    "sunday": "08:00-14:00",
+    "notes": "Hours from the Idari Isler Mudurlugu 'Is Ortaklari' (business partners) page, read 2026-09-30; the page is undated. One 'Hafta sonu' value, not split by day."
+   },
+   "source": "https://tim.ieu.edu.tr/tr/is-ortaklari"
+  },
+  {
+   "name": "Milky Coffee & Canteen",
+   "kind": "food",
+   "locationHint": "Location on campus is not stated in the source (campus address: Sakarya Cad. No:156, Balcova).",
+   "hours": {
+    "weekday": "07:00-17:00",
+    "saturday": "08:00-14:00",
+    "sunday": "08:00-14:00",
+    "notes": "Hours from the Idari Isler Mudurlugu 'Is Ortaklari' (business partners) page, read 2026-09-30; the page is undated. One 'Hafta sonu' value, not split by day."
+   },
+   "source": "https://tim.ieu.edu.tr/tr/is-ortaklari"
+  },
+  {
+   "name": "Niki The Cat Coffee",
+   "kind": "food",
+   "locationHint": "Location on campus is not stated in the source (campus address: Sakarya Cad. No:156, Balcova).",
+   "hours": {
+    "weekday": "07:30-17:30",
+    "saturday": "09:00-13:00",
+    "sunday": "09:00-13:00",
+    "notes": "Hours from the Idari Isler Mudurlugu 'Is Ortaklari' (business partners) page, read 2026-09-30; the page is undated. One 'Hafta sonu' value, not split by day."
+   },
+   "source": "https://tim.ieu.edu.tr/tr/is-ortaklari"
+  },
+  {
+   "name": "Tuck Coffee",
+   "kind": "food",
+   "locationHint": "Location on campus is not stated in the source (campus address: Sakarya Cad. No:156, Balcova).",
+   "hours": {
+    "weekday": "07:00-19:00",
+    "saturday": "08:00-15:30",
+    "sunday": "",
+    "notes": "Hours from the Idari Isler Mudurlugu 'Is Ortaklari' (business partners) page, read 2026-09-30; the page is undated. Sunday is not listed."
+   },
+   "source": "https://tim.ieu.edu.tr/tr/is-ortaklari"
+  },
+  {
+   "name": "Sote Restoran Cafe",
+   "kind": "food",
+   "locationHint": "Location on campus is not stated in the source (campus address: Sakarya Cad. No:156, Balcova).",
+   "hours": {
+    "weekday": "07:30-18:00",
+    "saturday": "08:00-14:00",
+    "sunday": "08:00-14:00",
+    "notes": "Hours from the Idari Isler Mudurlugu 'Is Ortaklari' (business partners) page, read 2026-09-30; the page is undated. One 'Hafta sonu' value, not split by day."
+   },
+   "source": "https://tim.ieu.edu.tr/tr/is-ortaklari"
+  },
+  {
+   "name": "Campus Mutfak",
+   "kind": "food",
+   "locationHint": "Location on campus is not stated in the source (campus address: Sakarya Cad. No:156, Balcova).",
+   "hours": {
+    "weekday": "08:00-19:00",
+    "saturday": "",
+    "sunday": "",
+    "notes": "Hours from the Idari Isler Mudurlugu 'Is Ortaklari' (business partners) page, read 2026-09-30; the page is undated. Only weekday hours are listed (printed '08.00 - 19.00')."
+   },
+   "source": "https://tim.ieu.edu.tr/tr/is-ortaklari"
+  },
+  {
+   "name": "SMC Yemekhane (dining hall)",
+   "kind": "food",
+   "locationHint": "Location on campus is not stated in the source (campus address: Sakarya Cad. No:156, Balcova).",
+   "hours": {
+    "weekday": "08:00-19:00",
+    "saturday": "08:00-14:00",
+    "sunday": "",
+    "notes": "Hours from the Idari Isler Mudurlugu 'Is Ortaklari' (business partners) page, read 2026-09-30; the page is undated. Sunday is not listed. The ECTS info package says the campus has a restaurant and a main cafeteria where students need a voucher (fis) and that food ranges from traditional Turkish dishes to fast food; the partner list does not say which operators these are, so SMC is not proven to be that restaurant."
+   },
+   "source": "https://tim.ieu.edu.tr/tr/is-ortaklari",
+   "moreSources": [
+    "https://ects.ieu.edu.tr/new/idari.php?id=38&lang=tr"
+   ]
+  },
+  {
+   "name": "SMC Kafeterya",
+   "kind": "food",
+   "locationHint": "Location on campus is not stated in the source (campus address: Sakarya Cad. No:156, Balcova).",
+   "hours": {
+    "weekday": "08:00-19:00",
+    "saturday": "",
+    "sunday": "",
+    "notes": "Hours from the Idari Isler Mudurlugu 'Is Ortaklari' (business partners) page, read 2026-09-30; the page is undated. Only weekday hours are listed."
+   },
+   "source": "https://tim.ieu.edu.tr/tr/is-ortaklari"
+  },
+  {
+   "name": "Canteen areas named in event texts: 'M Blok kantin' and 'A Blok Kantin Alanı'",
+   "kind": "food",
+   "locationHint": "M Block canteen (club stand held there on 2026-09-30) and the A Block canteen area (used as an overflow viewing area during graduation).",
+   "hours": {
+    "weekday": "",
+    "saturday": "",
+    "sunday": "",
+    "notes": "Hours and operators are not stated; the partner list does not say which venues these are. Named only as event locations."
+   },
+   "source": "https://club.ieu.edu.tr/etkinlikler",
+   "moreSources": [
+    "https://kim.ieu.edu.tr/tr/mezuniyet-toreni"
+   ]
+  },
+  {
+   "name": "Dorm building cafeteria (yurt binasındaki kafeterya)",
+   "kind": "food",
+   "locationHint": "Inside the dormitory building (per the dorm FAQ).",
+   "hours": {
+    "weekday": "",
+    "saturday": "",
+    "sunday": "",
+    "notes": "Hours not stated. Breakfast is included with dorm accommodation; lunch and dinner are eaten in campus restaurants (paid, tabldot or a la carte). Both dorm buildings have a resident kitchen with mini oven, microwave, hob and toaster."
+   },
+   "source": "https://yurt.ieu.edu.tr/tr/sss",
+   "moreSources": [
+    "https://yurt.ieu.edu.tr/tr/hakkimizda"
+   ]
+  },
+  {
+   "name": "İ.E.U Kırtasiye (stationery and copy shop)",
+   "kind": "other",
+   "locationHint": "Location on campus is not stated in the source (campus address: Sakarya Cad. No:156, Balcova).",
+   "hours": {
+    "weekday": "08:30-17:00",
+    "saturday": "",
+    "sunday": "",
+    "notes": "Hours from the Idari Isler Mudurlugu 'Is Ortaklari' (business partners) page, read 2026-09-30; the page is undated. Only weekday hours are listed. Photocopying can be paid with the student ID card balance ('fotokopi' is named among on-campus spending); where copy machines are located is not stated."
+   },
+   "source": "https://tim.ieu.edu.tr/tr/is-ortaklari",
+   "moreSources": [
+    "https://oim.ieu.edu.tr/tr/ogrenci-kimlik-karti",
+    "https://comp.ieu.edu.tr/tr/kartli-gecis-projesi"
+   ]
+  },
+  {
+   "name": "YapıKredi ATM",
+   "kind": "other",
+   "locationHint": "Location on campus is not stated in the source (campus address: Sakarya Cad. No:156, Balcova).",
+   "hours": {
+    "weekday": "08:30-17:45",
+    "saturday": "08:00-17:45",
+    "sunday": "08:00-17:45",
+    "notes": "Hours from the Idari Isler Mudurlugu 'Is Ortaklari' (business partners) page, read 2026-09-30; the page is undated. One 'Hafta sonu' value, not split by day. Only ATMs are listed; no bank branch was found."
+   },
+   "source": "https://tim.ieu.edu.tr/tr/is-ortaklari"
+  },
+  {
+   "name": "Ziraat Bankası ATM",
+   "kind": "other",
+   "locationHint": "Location on campus is not stated in the source (campus address: Sakarya Cad. No:156, Balcova).",
+   "hours": {
+    "weekday": "08:30-17:45",
+    "saturday": "08:00-17:45",
+    "sunday": "08:00-17:45",
+    "notes": "Hours from the Idari Isler Mudurlugu 'Is Ortaklari' (business partners) page, read 2026-09-30; the page is undated. One 'Hafta sonu' value, not split by day. Only ATMs are listed; no bank branch was found."
+   },
+   "source": "https://tim.ieu.edu.tr/tr/is-ortaklari"
+  },
+  {
+   "name": "Öğrenci İşleri Daire Başkanlığı (OIM, student affairs)",
+   "kind": "admin",
+   "locationHint": "Location on campus is not stated in the source (campus address: Sakarya Cad. No:156, Balcova).",
+   "hours": {
+    "weekday": "",
+    "saturday": "",
+    "sunday": "",
+    "notes": "Counter hours are not published on oim.ieu.edu.tr (contact page lists only unit phone lines and an e-mail box). Handles registration, add/drop rules, forms, student ID card issue and replacement, documents. New-registration days are announced on oim.ieu.edu.tr/tr/yeni-kayit-islemleri."
+   },
+   "source": "https://oim.ieu.edu.tr/tr",
+   "moreSources": [
+    "https://oim.ieu.edu.tr/tr/ogrenci-kimlik-karti"
+   ]
+  },
+  {
+   "name": "Kariyer Yönlendirme ve Mezunlarla İlişkiler Müdürlüğü (career center)",
+   "kind": "admin",
+   "locationHint": "Location on campus is not stated in the source (campus address: Sakarya Cad. No:156, Balcova).",
+   "hours": {
+    "weekday": "",
+    "saturday": "",
+    "sunday": "",
+    "notes": "Office hours are not published. Services: CV check-up and individual career counselling, CV and interview seminars (next: Wed 2026-10-21 18:00-20:00, D Blok Çok Amaçlı Salon), Career Days each March, Interview Simulation days, micro-credential program, guaranteed-internship project, internship guides, alumni office."
+   },
+   "source": "https://kariyer.ieu.edu.tr/tr",
+   "moreSources": [
+    "https://www.ieu.edu.tr/tr/events/type/read/id/1923"
+   ]
+  },
+  {
+   "name": "Sağlık, Kültür ve Spor Müdürlüğü (SKS)",
+   "kind": "admin",
+   "locationHint": "Location on campus is not stated in the source (campus address: Sakarya Cad. No:156, Balcova).",
+   "hours": {
+    "weekday": "",
+    "saturday": "",
+    "sunday": "",
+    "notes": "Office hours are not published. Umbrella unit for the sports coordination, student clubs, student council, PGDM, disabled-student support unit and the music studio; runs Welcome Day/orientation."
+   },
+   "source": "https://sks.ieu.edu.tr/tr",
+   "moreSources": [
+    "https://sks.ieu.edu.tr/tr/bagli-birimler"
+   ]
+  },
+  {
+   "name": "Psikolojik Gelişim ve Danışma Merkezi (PGDM, psychology and counselling)",
+   "kind": "health",
+   "locationHint": "A Blok, floor -1 (basement), offices 1B18 and 1B19.",
+   "hours": {
+    "weekday": "08:30-17:45",
+    "saturday": "Not listed (source gives weekday hours only)",
+    "sunday": "Not listed (source gives weekday hours only)",
+    "notes": "By appointment only: application form via the ecohub.izmirekonomi.edu.tr/psikolojik-gelisim page; in busy periods getting an appointment takes about 2-6 weeks. Free for all enrolled students. For emergencies and outside office hours the source advises the nearest health facility."
+   },
+   "source": "https://pgdm.ieu.edu.tr/tr/basvuru",
+   "moreSources": [
+    "https://pgdm.ieu.edu.tr/tr/iletisim",
+    "https://ects.ieu.edu.tr/new/idari.php?id=39&lang=tr"
+   ]
+  },
+  {
+   "name": "Sağlık Ofisi (health office; one physician and one nurse)",
+   "kind": "health",
+   "locationHint": "Location on campus is not stated in the source (campus address: Sakarya Cad. No:156, Balcova).",
+   "hours": {
+    "weekday": "Working hours ('mesai saatleri'); exact times are not published.",
+    "saturday": "Not stated. The dorm page says nearby full-service polyclinics are used on holidays and every night.",
+    "sunday": "Not stated (see Saturday).",
+    "notes": "The health team is on campus on weekdays. Dokuz Eylul University Hospital is about 5 minutes by car from the campus (ECTS page)."
+   },
+   "source": "https://www.ieu.edu.tr/tr/saglik-ve-psikolojik-danisma",
+   "moreSources": [
+    "https://yurt.ieu.edu.tr/tr/hakkimizda",
+    "https://ects.ieu.edu.tr/new/idari.php?id=39&lang=tr"
+   ]
+  },
+  {
+   "name": "EkoFit fitness center (Ekofit Fitness Salonu)",
+   "kind": "sport",
+   "locationHint": "Campus fitness hall of 720 m2 (gym floor, 3 group-class rooms, 1 dance studio, changing rooms). Building/block not stated.",
+   "hours": {
+    "weekday": "08:30-19:00",
+    "saturday": "08:30-15:00",
+    "sunday": "Closed",
+    "notes": "Free for students and staff; registration on ekofit.ieu.edu.tr and an appointment are required before entry. Free group classes on weekdays 12:30-13:30 (yoga, pilates, zumba). Equipment: 2 treadmills, 4 cardio machines, 13 weight stations, free weights."
+   },
+   "source": "https://ekofit.ieu.edu.tr/",
+   "moreSources": [
+    "https://sks.ieu.edu.tr/tr/spor-koordinatorlugu"
+   ]
+  },
+  {
+   "name": "On-campus sports courts (football, volleyball, basketball, tennis)",
+   "kind": "sport",
+   "locationHint": "On campus; exact positions not stated.",
+   "hours": {
+    "weekday": "",
+    "saturday": "",
+    "sunday": "",
+    "notes": "The ECTS page says football, volleyball, basketball and tennis courts exist on campus and are open to students; usage hours are not published."
+   },
+   "source": "https://ects.ieu.edu.tr/new/idari.php?id=49&lang=tr"
+  },
+  {
+   "name": "Balçova Belediyesi Spor Kompleksi (Balçova sports complex)",
+   "kind": "sport",
+   "locationHint": "A 5-minute walk from the campus (municipal facility).",
+   "hours": {
+    "weekday": "",
+    "saturday": "",
+    "sunday": "",
+    "notes": "Opening hours not captured (the municipality page returned 'Sayfa Bulunamadi' on 2026-09-30). IEU sports team tryouts are held there every year (2025: Mon 29 Sep to Thu 2 Oct); students may use the complex."
+   },
+   "source": "https://www.ieu.edu.tr/aday/tr/kampuste-yasam",
+   "moreSources": [
+    "https://sks.ieu.edu.tr/tr/news/type/read/id/10065"
+   ]
+  },
+  {
+   "name": "Öğrenci Yurtları (Yurt Müdürlüğü): on-campus girls' and boys' dormitories",
+   "kind": "dorm",
+   "locationHint": "Inside the campus; two buildings (girls and boys), capacity 474 (282 girls, 192 boys); each building has ground-floor 4-person disabled room, kitchen, laundry and ironing room, study room, rest/multi-purpose room, prayer room.",
+   "hours": {
+    "weekday": "Residents: 24 hours. Staff and security on duty 24 hours.",
+    "saturday": "Same as weekdays.",
+    "sunday": "Same as weekdays.",
+    "notes": "Doors open with a personal key; building entry with the student card. No guests are accepted; no pets; no separate guest house; only IEU students may stay. Staying away needs a leave form or an e-mail to the dorm office. Rooms cleaned every second day, bin emptied daily including weekends, linen changed weekly (Wednesday per FAQ). Breakfast is included; lunch and dinner are paid in campus restaurants. No entry/exit curfew is stated in the bylaw or FAQ. Opening/closing dates are set by the Yurt Yonetim Kurulu in line with the academic calendar. The latest published dorm calendar is 2025-2026 (undergraduate: move-in 20-21 Sep 2025, classes 22 Sep; vacate 14 Jan-14 Feb 2026; move-in again 14-15 Feb 2026; vacate 15-16 Jun 2026; holidays may be spent in the dorm). The 2026-2027 dorm calendar is not yet published there. Summer school/internship stays are possible within quota."
+   },
+   "source": "https://yurt.ieu.edu.tr/tr/hakkimizda",
+   "moreSources": [
+    "https://yurt.ieu.edu.tr/tr/sss",
+    "https://yurt.ieu.edu.tr/tr/yurt-takvimi",
+    "https://yurt.ieu.edu.tr/tr/bylaws/type/read/id/29"
+   ]
+  },
+  {
+   "name": "Public transport to the campus (municipal bus, ferry, metro)",
+   "kind": "transport",
+   "locationHint": "Municipal bus stops in front of the university (the campus is in Balçova at the 'Teleferik mevkii').",
+   "hours": {
+    "weekday": "",
+    "saturday": "",
+    "sunday": "",
+    "notes": "Lines named by IEU: 969 Balçova-Fahrettin Altay (connects with the Halkapınar-Fahrettin Altay tram), 480 Balçova-Üçkuyular ferry pier (Bostanlı ferry; Bostanlı-İnciraltı crossing about 30 min), 253 Halkapınar Metro 2-Konak. Alsancak or Konak is about 25 minutes away. From the airport: HAVAŞ to Alsancak or bus 202 to the city centre, then 969, or taxi about 30 min. No timetables are published by IEU; no IEU-run campus shuttle is described (the Idari Isler unit lists 'Ulaştırma Hizmetleri' without details)."
+   },
+   "source": "https://ects.ieu.edu.tr/new/idari.php?id=46&lang=tr",
+   "moreSources": [
+    "https://www.ieu.edu.tr/aday/tr/kampuste-yasam",
+    "https://www.ieu.edu.tr/tr/ieude-hayat",
+    "https://tim.ieu.edu.tr/tr/hizmetlerimiz"
+   ]
+  },
+  {
+   "name": "GUTS Özel Güvenlik (private security company on campus)",
+   "kind": "security",
+   "locationHint": "Location on campus is not stated in the source (campus address: Sakarya Cad. No:156, Balcova).",
+   "hours": {
+    "weekday": "24 hours: shifts 07:00-19:00 and 19:00-07:00 (7/24).",
+    "saturday": "24 hours (7/24).",
+    "sunday": "24 hours (7/24).",
+    "notes": "Hours from the Idari Isler Mudurlugu 'Is Ortaklari' (business partners) page, read 2026-09-30; the page is undated. Lost cards or belongings: report to the university security unit and OIM."
+   },
+   "source": "https://tim.ieu.edu.tr/tr/is-ortaklari",
+   "moreSources": [
+    "https://oim.ieu.edu.tr/tr/ogrenci-kimlik-karti"
+   ]
+  },
+  {
+   "name": "Campus entrances: card-controlled turnstile gates and vehicle barriers",
+   "kind": "security",
+   "locationHint": "3 main entrance points with 13 turnstiles in total (13 terminals); 3 vehicle barrier points, 2 of them integrated with the card system; the Faculty of Fine Arts and Design (GSTF) building has 15 card-controlled doors (labs, classrooms, studios).",
+   "hours": {
+    "weekday": "",
+    "saturday": "",
+    "sunday": "",
+    "notes": "Gate opening hours are not stated. Entry is with the IEU ID card (EkoKart, Mifare smart card, about 7000 users); students without the card cannot enter, and the card must carry the current academic-year sticker. Lending the card is a disciplinary offence. Visitors: for ceremonies guests must show ID matching their registration and receive a one-use wristband (graduation notice)."
+   },
+   "source": "https://comp.ieu.edu.tr/tr/kartli-gecis-projesi",
+   "moreSources": [
+    "https://oim.ieu.edu.tr/tr/ogrenci-kimlik-karti",
+    "https://kim.ieu.edu.tr/tr/mezuniyet-toreni"
+   ]
+  },
+  {
+   "name": "Vehicle access and parking rules",
+   "kind": "security",
+   "locationHint": "Vehicle barriers at 3 points (see gates).",
+   "hours": {
+    "weekday": "",
+    "saturday": "",
+    "sunday": "",
+    "notes": "No official parking hours, fees or rules were found. The ID card page lists 'otopark' (parking) among on-campus payments made with the card. The student portal link 'Acil Durum ve Güvenlik' (tim.ieu.edu.tr/tr/guvenlik-hizmetleri) returned 404 on 2026-09-30."
+   },
+   "source": "https://oim.ieu.edu.tr/tr/ogrenci-kimlik-karti",
+   "moreSources": [
+    "https://comp.ieu.edu.tr/tr/kartli-gecis-projesi"
+   ]
+  },
+  {
+   "name": "ISS cleaning services (Temizlik Hizmetleri)",
+   "kind": "other",
+   "locationHint": "Location on campus is not stated in the source (campus address: Sakarya Cad. No:156, Balcova).",
+   "hours": {
+    "weekday": "07:30-17:00",
+    "saturday": "07:30-14:00",
+    "sunday": "07:30-14:00",
+    "notes": "Hours from the Idari Isler Mudurlugu 'Is Ortaklari' (business partners) page, read 2026-09-30; the page is undated. One 'Hafta sonu' value, not split by day."
+   },
+   "source": "https://tim.ieu.edu.tr/tr/is-ortaklari"
+  },
+  {
+   "name": "Amfitiyatro (open-air amphitheatre) and ceremony area",
+   "kind": "other",
+   "locationHint": "On campus; the tender calls the Ağaçaltı cafeteria site 'Amfi Tiyatro Üstü Bahçe Alanı' (garden area above the amphitheatre). Other named event areas (positions not stated): 'Tören Alanı' (ceremony area, club stands and games during the spring festival) and 'Koru Alanı' (grove, sports and rest).",
+   "hours": {
+    "weekday": "",
+    "saturday": "",
+    "sunday": "",
+    "notes": "Event-driven, no standing hours. Graduation 2026: rehearsals 10:30, ceremonies 20:00 (6-10 July 2026). Spring festival 2025: Music Festival 16:00 on day 1, concert 21:00 on day 2. Ceremony rules: no smoking, balloons, confetti, flares, pets, or loud devices."
+   },
+   "source": "https://kim.ieu.edu.tr/tr/mezuniyet-toreni",
+   "moreSources": [
+    "https://www.ieu.edu.tr/tr/events/type/read/id/1742"
+   ]
+  }
+ ],
+ "calendar": [
+  {
+   "start": "2026-08-30",
+   "end": "2026-08-30",
+   "label": "30 Ağustos Zafer Bayramı (Resmî Tatil)",
+   "track": "hazirlik",
+   "term": "guz",
+   "raw": "30 Ağustos 2026 Pazar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-03",
+   "end": "2026-09-04",
+   "label": "İNGİLİZCE DÜZEY BELİRLEME VE İNGİLİZCE YETERLİLİK SINAVLARI (Yeni kayıtlanacak yüksek lisans öğrencileri için)",
+   "track": "hazirlik",
+   "term": "guz",
+   "raw": "03-04 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-01",
+   "end": "2026-09-03",
+   "label": "İNGİLİZCE DÜZEY BELİRLEME VE İNGİLİZCE YETERLİLİK SINAVLARI (Yeni kayıtlanan ön lisans ve lisans öğrencileri için)",
+   "track": "hazirlik",
+   "term": "guz",
+   "raw": "01-02-03 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-11",
+   "end": "2026-09-11",
+   "label": "Devam Eden Öğrencilerin Mali Kayıtlarının Tamamlanması için SON GÜN",
+   "track": "hazirlik",
+   "term": "guz",
+   "raw": "11 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-21",
+   "end": "2026-09-21",
+   "label": "Yabancı Diller Yüksekokulu Hazırlık öğrencileri için oryantasyon",
+   "track": "hazirlik",
+   "term": "guz",
+   "raw": "21 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-21",
+   "end": "2026-09-21",
+   "label": "Tüm öğrenciler için Welcome Day",
+   "track": "hazirlik",
+   "term": "guz",
+   "raw": "21 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-21",
+   "end": "2026-09-21",
+   "label": "İngilizce Hazırlık 1. MODÜL Dersleri Öğrencileri için DERSLERİN BAŞLAMASI",
+   "track": "hazirlik",
+   "term": "guz",
+   "raw": "21 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-10-09",
+   "end": "2026-10-09",
+   "label": "Kayıt Dondurma Başvurusu SON GÜN",
+   "track": "hazirlik",
+   "term": "guz",
+   "raw": "09 Ekim 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-10-28",
+   "end": "2026-10-29",
+   "label": "29 Ekim Cumhuriyet Bayramı (Resmî Tatil)",
+   "track": "hazirlik",
+   "term": "guz",
+   "raw": "28 Ekim 2026 Çarşamba yarım gün ve 29 Ekim 2026 Perşembe tüm gün",
+   "note": "half-day / time-of-day detail is in raw",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-11-13",
+   "end": "2026-11-13",
+   "label": "1. MODÜL DERSLERİNİN SONA ERMESİ",
+   "track": "hazirlik",
+   "term": "guz",
+   "raw": "13 Kasım 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-11-16",
+   "end": "2026-11-17",
+   "label": "1. MODÜL SONU SINAVI",
+   "track": "hazirlik",
+   "term": "guz",
+   "raw": "16-17 Kasım 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-11-23",
+   "end": "2026-11-23",
+   "label": "2. MODÜL DERSLERİNİN BAŞLAMASI",
+   "track": "hazirlik",
+   "term": "guz",
+   "raw": "23 Kasım 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-01",
+   "end": "2027-01-01",
+   "label": "Yılbaşı (Resmî Tatil)",
+   "track": "hazirlik",
+   "term": "guz",
+   "raw": "01 Ocak 2027 Cuma",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-15",
+   "end": "2027-01-15",
+   "label": "2. MODÜL DERSLERİN SONA ERMESİ",
+   "track": "hazirlik",
+   "term": "guz",
+   "raw": "15 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-18",
+   "end": "2027-01-19",
+   "label": "2. MODÜL SONU SINAVI",
+   "track": "hazirlik",
+   "term": "guz",
+   "raw": "18-19 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-21",
+   "end": "2027-01-22",
+   "label": "Devam Eden Öğrenciler için İNGİLİZCE YETERLİLİK SINAVI",
+   "track": "hazirlik",
+   "term": "guz",
+   "raw": "21-22 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-05",
+   "end": "2027-02-05",
+   "label": "Devam Eden Öğrencilerin Mali Kayıtlarının Tamamlanması için SON GÜN",
+   "track": "hazirlik",
+   "term": "bahar",
+   "raw": "05 Şubat 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-10",
+   "end": "2027-02-10",
+   "label": "3. MODÜL DERSLERİN BAŞLAMASI",
+   "track": "hazirlik",
+   "term": "bahar",
+   "raw": "10 Şubat 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-03-05",
+   "end": "2027-03-05",
+   "label": "Kayıt Dondurma Başvurusu SON GÜN",
+   "track": "hazirlik",
+   "term": "bahar",
+   "raw": "05 Mart 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-03-08",
+   "end": "2027-03-11",
+   "label": "Ramazan Bayramı (Resmî Tatil)",
+   "track": "hazirlik",
+   "term": "bahar",
+   "startTime": "12:00",
+   "raw": "08 Mart 2027 Pazartesi saat 12:00'den sonra, 09 Mart 2027 Salı tam gün, 10 Mart 2027 Çarşamba tam gün, 11 Mart 2027 Perşembe tam gün",
+   "note": "half-day / time-of-day detail is in raw",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-04-09",
+   "end": "2027-04-09",
+   "label": "3. MODÜL DERSLERİNİN SONA ERMESİ",
+   "track": "hazirlik",
+   "term": "bahar",
+   "raw": "09 Nisan 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-04-12",
+   "end": "2027-04-13",
+   "label": "3. MODÜL SONU SINAVI",
+   "track": "hazirlik",
+   "term": "bahar",
+   "raw": "12-13 Nisan 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-04-12",
+   "end": "2027-04-13",
+   "label": "3. MODÜL SONU İNGİLİZCE YETERLİK SINAVI",
+   "track": "hazirlik",
+   "term": "bahar",
+   "raw": "12-13 Nisan 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-04-19",
+   "end": "2027-04-19",
+   "label": "4. MODÜL DERSLERİNİN BAŞLAMASI",
+   "track": "hazirlik",
+   "term": "bahar",
+   "raw": "19 Nisan 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "label": "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı (Resmî Tatil)",
+   "track": "hazirlik",
+   "term": "bahar",
+   "raw": "23 Nisan 2027 Cuma",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-05-01",
+   "end": "2027-05-01",
+   "label": "01 Mayıs Emek ve Dayanışma Günü (Resmî Tatil)",
+   "track": "hazirlik",
+   "term": "bahar",
+   "raw": "01 Mayıs 2027 Cumartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-05-04",
+   "end": "2027-05-06",
+   "label": "Bahar Şenlikleri",
+   "track": "hazirlik",
+   "term": "bahar",
+   "raw": "04-05-06 Mayıs 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-05-15",
+   "end": "2027-05-19",
+   "label": "Kurban Bayramı (Resmî Tatil)",
+   "track": "hazirlik",
+   "term": "bahar",
+   "startTime": "12:00",
+   "raw": "15 Mayıs 2027 Cumartesi saat 12:00'den sonra, 16 Mayıs 2027 Pazar tam gün, 17 Mayıs 2027 Pazartesi tam gün, 18 Mayıs 2027 Salı tam gün, 19 Mayıs 2027 Çarşamba tam gün",
+   "note": "half-day / time-of-day detail is in raw",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-05-19",
+   "end": "2027-05-19",
+   "label": "19 Mayıs Atatürk'ü Anma Gençlik ve Spor Bayramı (Resmî Tatil)",
+   "track": "hazirlik",
+   "term": "bahar",
+   "raw": "19 Mayıs 2027 Çarşamba",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-11",
+   "end": "2027-06-11",
+   "label": "4. MODÜL DERSLERİNİN SONA ERMESİ",
+   "track": "hazirlik",
+   "term": "bahar",
+   "raw": "11 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-14",
+   "end": "2027-06-15",
+   "label": "4. MODÜL SONU SINAVI",
+   "track": "hazirlik",
+   "term": "bahar",
+   "raw": "14-15 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-17",
+   "end": "2027-06-18",
+   "label": "Devam Eden Öğrenciler için İNGİLİZCE YETERLİLİK SINAVI",
+   "track": "hazirlik",
+   "term": "bahar",
+   "raw": "17-18 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-23",
+   "end": "2027-06-24",
+   "label": "DERS KAYITLARI ve Mali Kayıtların Tamamlanması",
+   "track": "hazirlik",
+   "term": "yaz",
+   "raw": "23-24 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-28",
+   "end": "2027-07-23",
+   "label": "Yaz Destek Programı (BAŞLANGIÇ-BİTİŞ)",
+   "track": "hazirlik",
+   "term": "yaz",
+   "raw": "28 Haziran- 23 Temmuz 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-07-15",
+   "end": "2027-07-15",
+   "label": "15 Temmuz Demokrasi ve Milli Birlik Günü (Resmî Tatil)",
+   "track": "hazirlik",
+   "term": "yaz",
+   "raw": "15 Temmuz 2027 Perşembe",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-07-26",
+   "end": "2027-07-27",
+   "label": "YAZ DESTEK PROGRAMI SINAVI",
+   "track": "hazirlik",
+   "term": "yaz",
+   "raw": "26-27 Temmuz 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-08-02",
+   "end": "2027-08-03",
+   "label": "Akademik Yılsonu İNGİLİZCE YETERLİK SINAVI",
+   "track": "hazirlik",
+   "term": "yaz",
+   "raw": "02-03 Ağustos 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-08-14",
+   "end": "2027-08-14",
+   "label": "15 Temmuz 2027 Perşembe Günü yapılamayan derslerin telafisi",
+   "track": "hazirlik",
+   "term": "yaz",
+   "raw": "14 Ağustos 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-08-30",
+   "end": "2027-08-30",
+   "label": "30 Ağustos Zafer Bayramı (Resmî Tatil)",
+   "track": "hazirlik",
+   "term": "yaz",
+   "raw": "30 Ağustos 2027 Pazartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-09-20",
+   "end": "2027-09-20",
+   "label": "2027-2028 öğretim yılı için Tüm Ön lisans-lisans Öğrencileri için ve İngilizce Hazırlık 1. Modül derslerinin başlangıcı",
+   "track": "hazirlik",
+   "term": "plan-2027-2028",
+   "raw": "2027-2028 öğretim yılı için Tüm Ön lisans-lisans Öğrencileri için ve İngilizce Hazırlık 1. Modül derslerinin başlangıcının 20 Eylül 2027 olması planlanmaktadır.",
+   "note": "planned (planlanmaktadır) for the 2027-2028 academic year, as stated on the page",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-08-30",
+   "end": "2026-08-30",
+   "label": "30 Ağustos Zafer Bayramı (Resmî Tatil)",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "30 Ağustos 2026 Pazar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-07",
+   "end": "2026-09-08",
+   "label": "ENG 101-ING 101- ING 105 Dersleri Muafiyet Başvuruları",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "07-08 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-09",
+   "end": "2026-09-09",
+   "label": "İkinci Yabancı Dil Dersleri Muafiyet Başvuruları",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "09 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-10",
+   "end": "2026-09-10",
+   "label": "ENG 101-ING 101- ING 105 Dersleri MUAFİYET SINAVLARI",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "10 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-11",
+   "end": "2026-09-11",
+   "label": "İkinci Yabancı Dil Dersleri MUAFİYET SINAVLARI",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "11 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-11",
+   "end": "2026-09-11",
+   "label": "Devam Eden Öğrencilerin Mali Kayıtlarının Tamamlanması için SON GÜN",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "11 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-14",
+   "end": "2026-09-14",
+   "label": "Lisans ve Ön lisans 1.sınıf öğrencileri için oryantasyon",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "14 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-15",
+   "end": "2026-09-17",
+   "label": "DERS KAYITLARI",
+   "track": "lisans",
+   "term": "guz",
+   "startTime": "10:00",
+   "endTime": "09:00",
+   "raw": "15 Eylül 2026 saat 10.00'dan 17 Eylül 2026 saat 09.00'a kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-17",
+   "end": "2026-09-18",
+   "label": "DANIŞMAN ONAYLARI",
+   "track": "lisans",
+   "term": "guz",
+   "startTime": "10:00",
+   "endTime": "16:00",
+   "raw": "17 Eylül 2026 saat 10.00'dan 18 Eylül 2026 saat 16.00'ya kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-19",
+   "end": "2026-09-19",
+   "label": "Ders Muafiyeti Başvurusu için SON GÜN",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "19 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-21",
+   "end": "2026-09-21",
+   "label": "Tüm öğrenciler için Welcome Day",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "21 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-21",
+   "end": "2026-09-21",
+   "label": "DERSLERİN BAŞLAMASI",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "21 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-28",
+   "end": "2026-09-30",
+   "label": "DERS EKLEME-BIRAKMA",
+   "track": "lisans",
+   "term": "guz",
+   "startTime": "10:00",
+   "endTime": "10:00",
+   "raw": "28 Eylül 2026 saat 10.00'dan 30 Eylül 2026 saat 10.00'a kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-30",
+   "end": "2026-10-02",
+   "label": "DERS EKLEME-BIRAKMA DANIŞMAN ONAYLARI",
+   "track": "lisans",
+   "term": "guz",
+   "startTime": "10:00",
+   "endTime": "16:00",
+   "raw": "30 Eylül 2026 saat 10.00'dan 02 Ekim 2026 saat 16.00'ya kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-10-09",
+   "end": "2026-10-09",
+   "label": "Kayıt Dondurma Başvurusu SON GÜN",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "09 Ekim 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "label": "28 Ekim 2026 Çarşamba Günü öğleden sonra Yapılamayan Derslerin Telafisi",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "24 Ekim 2026 Cumartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-10-28",
+   "end": "2026-10-29",
+   "label": "29 Ekim Cumhuriyet Bayramı (Resmî Tatil)",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "28 Ekim 2026 Çarşamba yarım gün ve 29 Ekim 2026 Perşembe tüm gün",
+   "note": "half-day / time-of-day detail is in raw",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "label": "29 Ekim 2026 Perşembe Günü Yapılamayan Derslerin Telafisi",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "31 Ekim 2026 Cumartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-11-07",
+   "end": "2026-11-15",
+   "label": "ARA SINAVLAR",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "07-15 Kasım 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-11-23",
+   "end": "2026-12-11",
+   "label": "DERSTEN ÇEKİLME",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "23 Kasım-11 Aralık 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-12-07",
+   "end": "2026-12-07",
+   "label": "Ara Sınav Notlarının Açıklanması",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "07 Aralık 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-12-26",
+   "end": "2026-12-26",
+   "label": "01 Ocak 2027 Cuma günü Yapılamayan Derslerin Telafisi",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "26 Aralık 2026 Cumartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-12-31",
+   "end": "2026-12-31",
+   "label": "DERSLERİN SONA ERMESİ",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "31 Aralık 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-01",
+   "end": "2027-01-01",
+   "label": "Yılbaşı (Resmî Tatil)",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "01 Ocak 2027 Cuma",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-04",
+   "end": "2027-01-13",
+   "label": "FİNAL SINAVLARI",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "04-13 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-18",
+   "end": "2027-01-18",
+   "label": "Dönem Sonu Notlarının Açıklanması",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "18 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-20",
+   "end": "2027-01-20",
+   "label": "Son Dönem SINAV BAŞVURULARI",
+   "track": "lisans",
+   "term": "guz",
+   "endTime": "16:00",
+   "raw": "20 Ocak 2027 saat 16:00'ya kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-25",
+   "end": "2027-01-25",
+   "label": "Son Dönem SINAVLARI",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "25 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-27",
+   "end": "2027-01-27",
+   "label": "\"I\" (Eksik) Notlarının Açıklanması",
+   "track": "lisans",
+   "term": "guz",
+   "raw": "27 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-01",
+   "end": "2027-02-02",
+   "label": "ENG 102-ING 102- ING 106 Dersleri MUAFİYET BAŞVURULARI",
+   "track": "lisans",
+   "term": "bahar",
+   "raw": "01-02 Şubat 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-03",
+   "end": "2027-02-03",
+   "label": "İkinci Yabancı Dil Dersleri MUAFİYET BAŞVURULARI",
+   "track": "lisans",
+   "term": "bahar",
+   "raw": "03 Şubat 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-04",
+   "end": "2027-02-04",
+   "label": "ENG 102-ING 102- ING 106 Dersleri MUAFİYET SINAVLARI",
+   "track": "lisans",
+   "term": "bahar",
+   "raw": "04 Şubat 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-05",
+   "end": "2027-02-05",
+   "label": "İkinci Yabancı Dil Dersleri MUAFİYET SINAVLARI",
+   "track": "lisans",
+   "term": "bahar",
+   "raw": "05 Şubat 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-05",
+   "end": "2027-02-05",
+   "label": "Devam Eden Öğrencilerin Mali Kayıtlarının Tamamlanması için SON GÜN",
+   "track": "lisans",
+   "term": "bahar",
+   "raw": "05 Şubat 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-09",
+   "end": "2027-02-11",
+   "label": "DERS KAYITLARI",
+   "track": "lisans",
+   "term": "bahar",
+   "startTime": "10:00",
+   "endTime": "09:00",
+   "raw": "09 Şubat 2027 saat 10.00'dan 11 Şubat 2027 saat 09.00'a kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-11",
+   "end": "2027-02-12",
+   "label": "DANIŞMAN ONAYLARI",
+   "track": "lisans",
+   "term": "bahar",
+   "startTime": "10:00",
+   "endTime": "16:00",
+   "raw": "11 Şubat 2027 saat 10.00'dan 12 Şubat 2027 saat 16.00'ya kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-12",
+   "end": "2027-02-12",
+   "label": "Ders Muafiyeti Başvurusu için SON GÜN",
+   "track": "lisans",
+   "term": "bahar",
+   "raw": "12 Şubat 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-15",
+   "end": "2027-02-15",
+   "label": "DERSLERİN BAŞLAMASI",
+   "track": "lisans",
+   "term": "bahar",
+   "raw": "15 Şubat 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-22",
+   "end": "2027-02-24",
+   "label": "DERS EKLEME-BIRAKMA",
+   "track": "lisans",
+   "term": "bahar",
+   "startTime": "10:00",
+   "endTime": "10:00",
+   "raw": "22 Şubat 2027 saat 10.00'dan 24 Şubat 2027 saat 10.00'a kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-24",
+   "end": "2027-02-26",
+   "label": "DERS EKLEME-BIRAKMA DANIŞMAN ONAYLARI",
+   "track": "lisans",
+   "term": "bahar",
+   "startTime": "10:00",
+   "endTime": "16:00",
+   "raw": "24 Şubat 2027 saat 10.00'dan 26 Şubat 2027 saat 16.00'ya kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-03-05",
+   "end": "2027-03-05",
+   "label": "Kayıt Dondurma Başvurusu SON GÜN",
+   "track": "lisans",
+   "term": "bahar",
+   "raw": "05 Mart 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-03-08",
+   "end": "2027-03-11",
+   "label": "Ramazan Bayramı (Resmî Tatil)",
+   "track": "lisans",
+   "term": "bahar",
+   "startTime": "12:00",
+   "raw": "08 Mart 2027 Pazartesi saat 12:00'den sonra, 09 Mart 2027 Salı tam gün, 10 Mart 2027 Çarşamba tam gün, 11 Mart 2027 Perşembe tam gün",
+   "note": "half-day / time-of-day detail is in raw",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-03-13",
+   "end": "2027-03-13",
+   "label": "08 Mart 2027 Pazartesi saat 12:00'den sonra yapılamayan derslerin telafisi",
+   "track": "lisans",
+   "term": "bahar",
+   "raw": "13 Mart 2027 Cumartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-03-20",
+   "end": "2027-03-20",
+   "label": "09 Mart 2027 Salı tam gün yapılamayan derslerin telafisi",
+   "track": "lisans",
+   "term": "bahar",
+   "raw": "20 Mart 2027 Cumartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-03-27",
+   "end": "2027-03-27",
+   "label": "10 Mart 2027 Çarşamba tam gün yapılamayan derslerin telafisi",
+   "track": "lisans",
+   "term": "bahar",
+   "raw": "27 Mart 2027 Cumartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-04-10",
+   "end": "2027-04-18",
+   "label": "ARA SINAVLAR",
+   "track": "lisans",
+   "term": "bahar",
+   "raw": "10-18 Nisan 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-04-19",
+   "end": "2027-05-07",
+   "label": "DERSTEN ÇEKİLME",
+   "track": "lisans",
+   "term": "bahar",
+   "raw": "19 Nisan- 07 Mayıs 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "label": "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı (Resmî Tatil)",
+   "track": "lisans",
+   "term": "bahar",
+   "raw": "23 Nisan 2027 Cuma",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-05-01",
+   "end": "2027-05-01",
+   "label": "01 Mayıs Emek ve Dayanışma Günü (Resmî Tatil)",
+   "track": "lisans",
+   "term": "bahar",
+   "raw": "01 Mayıs 2027 Cumartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-05-03",
+   "end": "2027-05-03",
+   "label": "Ara Sınav Notlarının Açıklanması",
+   "track": "lisans",
+   "term": "bahar",
+   "raw": "03 Mayıs 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-05-04",
+   "end": "2027-05-06",
+   "label": "Bahar Şenlikleri",
+   "track": "lisans",
+   "term": "bahar",
+   "raw": "04-05-06 Mayıs 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-05-15",
+   "end": "2027-05-19",
+   "label": "Kurban Bayramı (Resmî Tatil)",
+   "track": "lisans",
+   "term": "bahar",
+   "startTime": "12:00",
+   "raw": "15 Mayıs 2027 Cumartesi saat 12:00'den sonra, 16 Mayıs 2027 Pazar tam gün, 17 Mayıs 2027 Pazartesi tam gün, 18 Mayıs 2027 Salı tam gün, 19 Mayıs 2027 Çarşamba tam gün",
+   "note": "half-day / time-of-day detail is in raw",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-05-19",
+   "end": "2027-05-19",
+   "label": "19 Mayıs Atatürk'ü Anma Gençlik ve Spor Bayramı (Resmî Tatil)",
+   "track": "lisans",
+   "term": "bahar",
+   "raw": "19 Mayıs 2027 Çarşamba",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-04",
+   "end": "2027-06-04",
+   "label": "DERSLERİN SONA ERMESİ",
+   "track": "lisans",
+   "term": "bahar",
+   "raw": "04 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-05",
+   "end": "2027-06-14",
+   "label": "FİNAL SINAVLARI",
+   "track": "lisans",
+   "term": "bahar",
+   "raw": "05-14 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-17",
+   "end": "2027-06-17",
+   "label": "Dönem Sonu Notlarının Açıklanması",
+   "track": "lisans",
+   "term": "bahar",
+   "raw": "17 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-18",
+   "end": "2027-06-18",
+   "label": "Son Dönem SINAV BAŞVURULARI",
+   "track": "lisans",
+   "term": "bahar",
+   "endTime": "16:00",
+   "raw": "18 Haziran 2027 saat 16.00'ya kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-22",
+   "end": "2027-06-22",
+   "label": "Son Dönem SINAVLARI",
+   "track": "lisans",
+   "term": "bahar",
+   "raw": "22 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-24",
+   "end": "2027-06-24",
+   "label": "\"I\" (Eksik) Notların Açıklanması",
+   "track": "lisans",
+   "term": "bahar",
+   "raw": "24 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-23",
+   "end": "2027-06-28",
+   "label": "Yaz Okulu DERS KAYITLARI ve Mali Kayıtların Tamamlanması",
+   "track": "lisans",
+   "term": "yaz",
+   "endTime": "10:00",
+   "raw": "23 Haziran 2027-28 Haziran 2027 saat 10:00'a kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-07-05",
+   "end": "2027-08-14",
+   "label": "Yaz Okulu Dönemi BAŞLANGIÇ-BİTİŞ TARİHİ",
+   "track": "lisans",
+   "term": "yaz",
+   "raw": "05 Temmuz-14 Ağustos 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-07-15",
+   "end": "2027-07-15",
+   "label": "15 Temmuz Demokrasi ve Milli Birlik Günü (Resmî Tatil)",
+   "track": "lisans",
+   "term": "yaz",
+   "raw": "15 Temmuz 2027 Perşembe",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-08-14",
+   "end": "2027-08-14",
+   "label": "15 Temmuz 2027 Perşembe günü yapılamayan derslerin telafisi",
+   "track": "lisans",
+   "term": "yaz",
+   "raw": "14 Ağustos 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-08-18",
+   "end": "2027-08-18",
+   "label": "Yaz Okulu Notlarının Açıklanması",
+   "track": "lisans",
+   "term": "yaz",
+   "raw": "18 Ağustos 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-08-20",
+   "end": "2027-08-20",
+   "label": "Son Dönem SINAV BAŞVURULARI",
+   "track": "lisans",
+   "term": "yaz",
+   "endTime": "16:00",
+   "raw": "20 Ağustos 2027 saat 16.00'ya kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-08-24",
+   "end": "2027-08-24",
+   "label": "Son Dönem SINAVLARI",
+   "track": "lisans",
+   "term": "yaz",
+   "raw": "24 Ağustos 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-08-25",
+   "end": "2027-08-25",
+   "label": "Yaz okulu \"I\" (Eksik) Notların Açıklanması",
+   "track": "lisans",
+   "term": "yaz",
+   "raw": "25 Ağustos 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-08-30",
+   "end": "2027-08-30",
+   "label": "30 Ağustos Zafer Bayramı (Resmî Tatil)",
+   "track": "lisans",
+   "term": "yaz",
+   "raw": "30 Ağustos 2027 Pazartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-09-20",
+   "end": "2027-09-20",
+   "label": "2027-2028 öğretim yılı için Tüm Ön Lisans-Lisans Öğrencilerinin ve İngilizce Hazırlık 1. Modül derslerinin başlangıcı",
+   "track": "lisans",
+   "term": "plan-2027-2028",
+   "raw": "2027-2028 öğretim yılı için; • Tüm Ön Lisans-Lisans Öğrencilerinin ve İngilizce Hazırlık 1. Modül derslerinin başlangıcının 20 Eylül 2027, • Ders Kayıtlarının 14 Eylül 2027 saat 10.00'dan 16 Eylül 2027 saat 09.00'a kadar, • Danışman Onaylarının 16 Eylül 2027 saat 10.00'dan 17 Eylül 2027 saat 16.00'ya kadar, olması planlanmaktadır.",
+   "note": "planned (planlanmaktadır) for the 2027-2028 academic year, as stated on the page",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-09-14",
+   "end": "2027-09-16",
+   "label": "2027-2028 öğretim yılı için Ders Kayıtları",
+   "track": "lisans",
+   "term": "plan-2027-2028",
+   "startTime": "10:00",
+   "endTime": "09:00",
+   "raw": "2027-2028 öğretim yılı için; • Tüm Ön Lisans-Lisans Öğrencilerinin ve İngilizce Hazırlık 1. Modül derslerinin başlangıcının 20 Eylül 2027, • Ders Kayıtlarının 14 Eylül 2027 saat 10.00'dan 16 Eylül 2027 saat 09.00'a kadar, • Danışman Onaylarının 16 Eylül 2027 saat 10.00'dan 17 Eylül 2027 saat 16.00'ya kadar, olması planlanmaktadır.",
+   "note": "planned (planlanmaktadır) for the 2027-2028 academic year, as stated on the page",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-09-16",
+   "end": "2027-09-17",
+   "label": "2027-2028 öğretim yılı için Danışman Onayları",
+   "track": "lisans",
+   "term": "plan-2027-2028",
+   "startTime": "10:00",
+   "endTime": "16:00",
+   "raw": "2027-2028 öğretim yılı için; • Tüm Ön Lisans-Lisans Öğrencilerinin ve İngilizce Hazırlık 1. Modül derslerinin başlangıcının 20 Eylül 2027, • Ders Kayıtlarının 14 Eylül 2027 saat 10.00'dan 16 Eylül 2027 saat 09.00'a kadar, • Danışman Onaylarının 16 Eylül 2027 saat 10.00'dan 17 Eylül 2027 saat 16.00'ya kadar, olması planlanmaktadır.",
+   "note": "planned (planlanmaktadır) for the 2027-2028 academic year, as stated on the page",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-07-01",
+   "end": "2026-07-01",
+   "label": "Tıp Fakültesi 6. sınıf öğrencilerinin Mali Kayıtlarının Tamamlanması için SON GÜN",
+   "track": "tip",
+   "term": "guz",
+   "raw": "01 Temmuz 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-07-02",
+   "end": "2026-07-03",
+   "label": "Tıp Fakültesi 6. sınıf öğrencileri için DERS KAYITLARI",
+   "track": "tip",
+   "term": "guz",
+   "raw": "02-03 Temmuz 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-07-06",
+   "end": "2026-07-06",
+   "label": "Tıp Fakültesi 6. sınıf öğrencileri için DERSLERİN BAŞLAMASI",
+   "track": "tip",
+   "term": "guz",
+   "raw": "06 Temmuz 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-07-24",
+   "end": "2026-07-24",
+   "label": "Tıp Fakültesi 6. Sınıf öğrencileri için Kayıt Dondurma Başvurusu SON GÜN",
+   "track": "tip",
+   "term": "guz",
+   "raw": "24 Temmuz 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-08-12",
+   "end": "2026-08-12",
+   "label": "Tıp Fakültesi 4 ve 5. sınıf öğrencilerinin Mali Kayıtlarının Tamamlanması için SON GÜN",
+   "track": "tip",
+   "term": "guz",
+   "raw": "12 Ağustos 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-08-13",
+   "end": "2026-08-14",
+   "label": "Tıp Fakültesi 4 ve 5. sınıf öğrencileri için DERS KAYITLARI",
+   "track": "tip",
+   "term": "guz",
+   "raw": "13-14 Ağustos 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-08-17",
+   "end": "2026-08-17",
+   "label": "Tıp Fakültesi 4 ve 5. sınıf öğrencileri için DERSLERİN BAŞLAMASI",
+   "track": "tip",
+   "term": "guz",
+   "raw": "17 Ağustos 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-08-26",
+   "end": "2026-08-26",
+   "label": "Tıp Fakültesi 2. ve 3. sınıf öğrencilerinin Mali Kayıtlarının Tamamlanması için SON GÜN",
+   "track": "tip",
+   "term": "guz",
+   "raw": "26 Ağustos 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-08-27",
+   "end": "2026-08-28",
+   "label": "Tıp Fakültesi 2. ve 3. sınıf öğrencilerinin DERS KAYITLARI (Tıp Fakültesi tarafından yürütülen dersler için)",
+   "track": "tip",
+   "term": "guz",
+   "raw": "27-28 Ağustos 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-08-30",
+   "end": "2026-08-30",
+   "label": "30 Ağustos Zafer Bayramı (Resmî Tatil)",
+   "track": "tip",
+   "term": "guz",
+   "raw": "30 Ağustos 2026 Pazar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-08-31",
+   "end": "2026-08-31",
+   "label": "Tıp Fakültesi 2. ve 3. sınıf öğrencileri için DERSLERİNİN BAŞLAMASI",
+   "track": "tip",
+   "term": "guz",
+   "raw": "31 Ağustos 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-04",
+   "end": "2026-09-04",
+   "label": "Tıp Fakültesi 4. ve 5. Sınıf öğrencileri için Kayıt Dondurma Başvurusu SON GÜN",
+   "track": "tip",
+   "term": "guz",
+   "raw": "04 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-07",
+   "end": "2026-09-08",
+   "label": "ENG 101-ING 101- ING 105 Dersleri Muafiyet Başvuruları",
+   "track": "tip",
+   "term": "guz",
+   "raw": "07-08 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-09",
+   "end": "2026-09-09",
+   "label": "Tıp Fakültesi 1.sınıf öğrencilerinin Mali Kayıtlarının Tamamlanması için SON GÜN",
+   "track": "tip",
+   "term": "guz",
+   "raw": "09 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-10",
+   "end": "2026-09-10",
+   "label": "ENG 101-ING 101- ING 105 Dersleri MUAFİYET SINAVLARI",
+   "track": "tip",
+   "term": "guz",
+   "raw": "10 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-10",
+   "end": "2026-09-11",
+   "label": "Tıp Fakültesi 1. sınıf öğrencileri için DERS KAYITLARI (Tıp Fakültesi tarafından yürütülen dersler için)",
+   "track": "tip",
+   "term": "guz",
+   "raw": "10-11 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-14",
+   "end": "2026-09-14",
+   "label": "Tıp Fakültesi 1. sınıf öğrencileri için DERSLERİNİN BAŞLAMASI",
+   "track": "tip",
+   "term": "guz",
+   "raw": "14 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-15",
+   "end": "2026-09-17",
+   "label": "Öğrencilerin üniversite ortak dersleri ve seçmeli dersleri için DERS KAYITLARI",
+   "track": "tip",
+   "term": "guz",
+   "startTime": "10:00",
+   "endTime": "09:00",
+   "raw": "15 Eylül 2026 saat 10.00'dan 17 Eylül 2026 saat 09.00'a kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-17",
+   "end": "2026-09-18",
+   "label": "Öğrencilerin üniversite ortak dersleri ve seçmeli dersleri için DANIŞMAN ONAYLARI",
+   "track": "tip",
+   "term": "guz",
+   "startTime": "10:00",
+   "endTime": "16:00",
+   "raw": "17 Eylül 2026 saat 10.00'dan 18 Eylül 2026 saat 16.00'ya kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-18",
+   "end": "2026-09-18",
+   "label": "Tıp Fakültesi 2. ve 3. sınıf öğrencileri için Kayıt Dondurma Başvurusu SON GÜN",
+   "track": "tip",
+   "term": "guz",
+   "raw": "18 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-19",
+   "end": "2026-09-19",
+   "label": "Ders Muafiyeti Başvurusu için SON GÜN",
+   "track": "tip",
+   "term": "guz",
+   "raw": "19 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-21",
+   "end": "2026-09-21",
+   "label": "Tüm öğrenciler için Welcome Day",
+   "track": "tip",
+   "term": "guz",
+   "raw": "21 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-21",
+   "end": "2026-09-21",
+   "label": "Öğrencilerin Üniversite ortak dersleri ve seçmeli dersleri için DERSLERİN BAŞLAMASI",
+   "track": "tip",
+   "term": "guz",
+   "raw": "21 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-28",
+   "end": "2026-09-30",
+   "label": "Öğrencilerin üniversite ortak dersleri ve seçmeli dersleri için DERS EKLEME-BIRAKMA",
+   "track": "tip",
+   "term": "guz",
+   "startTime": "10:00",
+   "endTime": "10:00",
+   "raw": "28 Eylül 2026 saat 10.00'dan 30 Eylül 2026 saat 10.00'a kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-30",
+   "end": "2026-10-02",
+   "label": "Öğrencilerin üniversite ortak dersleri ve seçmeli dersleri için DERS EKLEME-BIRAKMA DANIŞMAN ONAYLARI",
+   "track": "tip",
+   "term": "guz",
+   "startTime": "10:00",
+   "endTime": "16:00",
+   "raw": "30 Eylül 2026 saat 10.00'dan 02 Ekim 2026 saat 16.00'ya kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-10-02",
+   "end": "2026-10-02",
+   "label": "Tıp Fakültesi 1.sınıf öğrencileri için Kayıt Dondurma Başvurusu SON GÜN",
+   "track": "tip",
+   "term": "guz",
+   "raw": "02 Ekim 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "label": "Tıp Fakültesi öğrencilerinin üniversite ortak dersleri ve seçmeli dersleri için 28 Ekim 2026 Çarşamba Günü öğleden sonra Yapılamayan Derslerin Telafisi",
+   "track": "tip",
+   "term": "guz",
+   "raw": "24 Ekim 2026 Cumartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-10-28",
+   "end": "2026-10-29",
+   "label": "29 Ekim Cumhuriyet Bayramı (Resmî Tatil)",
+   "track": "tip",
+   "term": "guz",
+   "raw": "28 Ekim 2026 Çarşamba yarım gün ve 29 Ekim 2026 Perşembe tüm gün",
+   "note": "half-day / time-of-day detail is in raw",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "label": "Tıp Fakültesi öğrencilerinin üniversite ortak dersleri ve seçmeli dersleri için 29 Ekim 2026 Perşembe Günü Yapılamayan Derslerin Telafisi",
+   "track": "tip",
+   "term": "guz",
+   "raw": "31 Ekim 2026 Cumartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-11-07",
+   "end": "2026-11-15",
+   "label": "Öğrencilerin üniversite ortak dersleri ve seçmeli dersleri için ARA SINAVLAR",
+   "track": "tip",
+   "term": "guz",
+   "raw": "07-15 Kasım 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-11-23",
+   "end": "2026-12-11",
+   "label": "Öğrencilerin üniversite ortak dersleri ve seçmeli dersleri için DERSTEN ÇEKİLME",
+   "track": "tip",
+   "term": "guz",
+   "raw": "23 Kasım-11 Aralık 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-12-26",
+   "end": "2026-12-26",
+   "label": "Tıp Fakültesi öğrencilerinin üniversite ortak dersleri ve seçmeli dersleri için 01 Ocak 2027 Cuma günü Yapılamayan Derslerin Telafisi",
+   "track": "tip",
+   "term": "guz",
+   "raw": "26 Aralık 2026 Cumartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-12-31",
+   "end": "2026-12-31",
+   "label": "Öğrencilerin üniversite ortak dersleri ve seçmeli dersleri için DERSLERİN SONA ERMESİ",
+   "track": "tip",
+   "term": "guz",
+   "raw": "31 Aralık 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-01",
+   "end": "2027-01-01",
+   "label": "Yılbaşı (Resmî Tatil)",
+   "track": "tip",
+   "term": "guz",
+   "raw": "01 Ocak 2027 Cuma",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-02",
+   "end": "2027-01-02",
+   "label": "Tıp Fakültesi tarafından yürütülen 1.,2. ve 3. sınıf dersleri için DERSLERİNİN SONA ERMESI",
+   "track": "tip",
+   "term": "guz",
+   "raw": "02 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-04",
+   "end": "2027-01-13",
+   "label": "Öğrencilerin üniversite ortak dersleri ve seçmeli dersleri için FİNAL SINAVLARI",
+   "track": "tip",
+   "term": "guz",
+   "raw": "04-13 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-11",
+   "end": "2027-01-15",
+   "label": "Tıp Fakültesi tarafından yürütülen 1., 2. ve 3. sınıf dersleri için FİNAL SINAVLARI",
+   "track": "tip",
+   "term": "guz",
+   "raw": "11-15 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-16",
+   "end": "2027-01-16",
+   "label": "Tıp Fakültesi 4. ve 5. sınıf dersleri için DERSLERİN SONA ERMESI",
+   "track": "tip",
+   "term": "guz",
+   "raw": "16 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-18",
+   "end": "2027-01-18",
+   "label": "Öğrencilerin Üniversite ortak dersleri ve seçmeli dersleri için Dönem Sonu Notlarının Açıklanması",
+   "track": "tip",
+   "term": "guz",
+   "raw": "18 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-19",
+   "end": "2027-01-19",
+   "label": "Tıp Fakültesi tarafından yürütülen 1., 2. ve 3. sınıf dersleri için Dönem Sonu Notlarının Açıklanması",
+   "track": "tip",
+   "term": "guz",
+   "raw": "19 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-25",
+   "end": "2027-01-29",
+   "label": "Tıp Fakültesi tarafından yürütülen 1., 2. ve 3. sınıf dersleri için BÜTÜNLEME SINAVLARI",
+   "track": "tip",
+   "term": "guz",
+   "raw": "25-29 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-26",
+   "end": "2027-01-26",
+   "label": "Tıp Fakültesi tarafından yürütülen 1., 2., ve 3. sınıf dersleri için \"I\" (Eksik) Notların Açıklanması",
+   "track": "tip",
+   "term": "guz",
+   "raw": "26 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-27",
+   "end": "2027-01-27",
+   "label": "Öğrencilerin üniversite ortak dersleri ve seçmeli dersleri için \"I\" (Eksik) Notlarının Açıklanması",
+   "track": "tip",
+   "term": "guz",
+   "raw": "27 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-29",
+   "end": "2027-01-29",
+   "label": "Tıp Fakültesi tarafından yürütülen 1. sınıf dersleri için Bütünleme Sınav Notlarının Açıklanması",
+   "track": "tip",
+   "term": "guz",
+   "raw": "29 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-30",
+   "end": "2027-01-30",
+   "label": "Tıp Fakültesi tarafından yürütülen 2. ve 3. sınıf dersleri için Bütünleme Sınav Notlarının Açıklanması",
+   "track": "tip",
+   "term": "guz",
+   "raw": "30 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-20",
+   "end": "2027-01-20",
+   "label": "Tıp Fakültesi 4. ve 5. sınıflar için Mali Kayıtların Tamamlanması için SON GÜN",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "20 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-22",
+   "end": "2027-01-22",
+   "label": "Tıp Fakültesi 6. sınıflar için Mali Kayıtların Tamamlanması için SON GÜN",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "22 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-25",
+   "end": "2027-01-25",
+   "label": "Tıp Fakültesi tarafından yürütülen 4. ve 5. sınıf DERSLERİNİN BAŞLAMASI",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "25 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-27",
+   "end": "2027-01-27",
+   "label": "Tıp Fakültesi 1.,2. ve 3.sınıflar için Mali Kayıtların Tamamlanması için SON GÜN",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "27 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-28",
+   "end": "2027-01-29",
+   "label": "Tıp Fakültesi tarafından yürütülen 1., 2. ve 3. sınıf dersleri için DERS KAYITLARI",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "28-29 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-01",
+   "end": "2027-02-01",
+   "label": "Tıp Fakültesi tarafından yürütülen 1. 2. 3. sınıf DERSLERİNİN BAŞLAMASI",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "01 Şubat 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-01",
+   "end": "2027-02-02",
+   "label": "ENG 102-ING 102- ING 106 Dersleri MUAFİYET BAŞVURULARI",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "01-02 Şubat 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-04",
+   "end": "2027-02-04",
+   "label": "ENG 102-ING 102- ING 106 Dersleri MUAFİYET SINAVLARI",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "04 Şubat 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-09",
+   "end": "2027-02-11",
+   "label": "Öğrencilerin üniversite ortak dersleri ve seçmeli dersleri için DERS KAYITLARI",
+   "track": "tip",
+   "term": "bahar",
+   "startTime": "10:00",
+   "endTime": "09:00",
+   "raw": "09 Şubat 2027 saat 10.00'dan 11 Şubat 2027 saat 09.00'a kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-11",
+   "end": "2027-02-12",
+   "label": "Öğrencilerin üniversite ortak dersleri ve seçmeli dersleri için DANIŞMAN ONAYLARI",
+   "track": "tip",
+   "term": "bahar",
+   "startTime": "10:00",
+   "endTime": "16:00",
+   "raw": "11 Şubat 2027 saat 10.00'dan 12 Şubat 2027 saat 16.00'ya kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-12",
+   "end": "2027-02-12",
+   "label": "Ders Muafiyeti Başvurusu için SON GÜN",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "12 Şubat 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-12",
+   "end": "2027-02-12",
+   "label": "Tıp Fakültesi 4. ve 5. sınıf öğrencileri için Kayıt Dondurma Başvurusu SON GÜN",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "12 Şubat 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-15",
+   "end": "2027-02-15",
+   "label": "Tıp Fakültesi tarafından yürütülen zorunlu dersler dışındaki tüm dersler için DERSLERİN BAŞLAMASI",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "15 Şubat 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-19",
+   "end": "2027-02-19",
+   "label": "Tıp Fakültesi 1.,2. ve 3. sınıf öğrencileri için Kayıt Dondurma Başvurusu SON GÜN",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "19 Şubat 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-22",
+   "end": "2027-02-24",
+   "label": "Öğrencilerin üniversite ortak dersleri ve seçmeli dersleri DERS EKLEME-BIRAKMA",
+   "track": "tip",
+   "term": "bahar",
+   "startTime": "10:00",
+   "endTime": "10:00",
+   "raw": "22 Şubat 2027 saat 10.00'dan 24 Şubat 2027 saat 10.00'a kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-24",
+   "end": "2027-02-26",
+   "label": "Öğrencilerin üniversite ortak dersleri ve seçmeli dersleri için DERS EKLEME-BIRAKMA DANIŞMAN ONAYLARI",
+   "track": "tip",
+   "term": "bahar",
+   "startTime": "10:00",
+   "endTime": "16:00",
+   "raw": "24 Şubat 2027 saat 10.00'dan 26 Şubat 2027 saat 16.00'ya kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-03-08",
+   "end": "2027-03-11",
+   "label": "Ramazan Bayramı (Resmî Tatil)",
+   "track": "tip",
+   "term": "bahar",
+   "startTime": "12:00",
+   "raw": "08 Mart 2027 Pazartesi saat 12:00'den sonra, 09 Mart 2027 Salı tam gün, 10 Mart 2027 Çarşamba tam gün, 11 Mart 2027 Perşembe tam gün",
+   "note": "half-day / time-of-day detail is in raw",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-03-13",
+   "end": "2027-03-13",
+   "label": "Tıp Fakültesi öğrencilerinin Üniversite ortak dersleri ve seçmeli dersleri için 08 Mart 2027 Pazartesi saat 12:00'den sonra yapılamayan derslerin telafisi",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "13 Mart 2027 Cumartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-03-20",
+   "end": "2027-03-20",
+   "label": "Tıp Fakültesi öğrencilerinin Üniversite ortak dersleri ve seçmeli dersleri için 09 Mart 2027 Salı tam gün yapılamayan derslerin telafisi",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "20 Mart 2027 Cumartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-03-27",
+   "end": "2027-03-27",
+   "label": "Tıp Fakültesi öğrencilerinin Üniversite ortak dersleri ve seçmeli dersleri için 10 Mart 2027 Çarşamba tam gün yapılamayan derslerin telafisi",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "27 Mart 2027 Cumartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-04-10",
+   "end": "2027-04-18",
+   "label": "Öğrencilerin üniversite ortak dersleri ve seçmeli dersleri için ARA SINAVLAR",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "10-18 Nisan 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-04-19",
+   "end": "2027-05-07",
+   "label": "Öğrencilerin üniversite ortak dersleri ve seçmeli dersleri için DERSTEN ÇEKİLME",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "19 Nisan- 07 Mayıs 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "label": "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı (Resmî Tatil)",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "23 Nisan 2027 Cuma",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-05-01",
+   "end": "2027-05-01",
+   "label": "01 Mayıs Emek ve Dayanışma Günü (Resmî Tatil)",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "01 Mayıs 2027 Cumartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-05-04",
+   "end": "2027-05-06",
+   "label": "Bahar Şenlikleri",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "04-05-06 Mayıs 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-05-15",
+   "end": "2027-05-19",
+   "label": "Kurban Bayramı (Resmî Tatil)",
+   "track": "tip",
+   "term": "bahar",
+   "startTime": "12:00",
+   "raw": "15 Mayıs 2027 Cumartesi saat 12:00'den sonra, 16 Mayıs 2027 Pazar tam gün, 17 Mayıs 2027 Pazartesi tam gün, 18 Mayıs 2027 Salı tam gün, 19 Mayıs 2027 Çarşamba tam gün",
+   "note": "half-day / time-of-day detail is in raw",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-05-19",
+   "end": "2027-05-19",
+   "label": "19 Mayıs Atatürk'ü Anma Gençlik ve Spor Bayramı (Resmî Tatil)",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "19 Mayıs 2027 Çarşamba",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-04",
+   "end": "2027-06-04",
+   "label": "Öğrencilerin üniversite ortak dersleri ve seçmeli dersleri için DERSLERİN SONA ERMESİ",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "04 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-05",
+   "end": "2027-06-14",
+   "label": "Öğrencilerin üniversite ortak dersleri ve seçmeli dersleri için FİNAL SINAVLARI",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "05-14 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-12",
+   "end": "2027-06-12",
+   "label": "Tıp Fakültesi tarafından yürütülen 4. sınıf DERSLERİNİN SONA ERMESİ",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "12 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-12",
+   "end": "2027-06-12",
+   "label": "Tıp Fakültesi tarafından yürütülen 5. sınıf DERSLERİNİN SONA ERMESİ",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "12 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-16",
+   "end": "2027-06-16",
+   "label": "Tıp Fakültesi tarafından yürütülen 5.sınıf Dersleri için Dönem Sonu Notlarının Açıklanması",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "16 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-17",
+   "end": "2027-06-17",
+   "label": "Öğrencilerin üniversite ortak dersleri ve seçmeli dersleri için Dönem Sonu Notlarının Açıklanması",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "17 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-18",
+   "end": "2027-06-18",
+   "label": "Tıp Fakültesi tarafından yürütülen 4. sınıf Dersleri için Dönem Sonu Notlarının Açıklanması",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "18 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-19",
+   "end": "2027-06-19",
+   "label": "Tıp Fakültesi tarafından yürütülen 1. 2. ve 3. sınıf DERSLERİNİN SONA ERMESİ",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "19 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-22",
+   "end": "2027-06-25",
+   "label": "Tıp Fakültesi tarafından yürütülen 4. sınıf öğrencilerinin dersleri için BÜTÜNLEME SINAVLARI",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "22-25 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-23",
+   "end": "2027-06-23",
+   "label": "Tıp Fakültesi tarafından yürütülen 5. sınıf Dersleri için \"I\" (Eksik) Notların Açıklanması",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "23 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-24",
+   "end": "2027-06-24",
+   "label": "Öğrencilerin Üniversite ortak dersleri ve seçmeli dersleri için \"I\" (Eksik) Notların Açıklanması",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "24 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-24",
+   "end": "2027-06-28",
+   "label": "Tıp Fakültesi tarafından yürütülen 5. sınıf öğrencilerinin dersleri için BÜTÜNLEME SINAVLARI",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "24-25-26-28 Haziran 2027",
+   "note": "non-contiguous days: 24, 25, 26, 28 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-25",
+   "end": "2027-06-25",
+   "label": "Tıp Fakültesi tarafından yürütülen 4. sınıf Dersleri için \"I\" (Eksik) Notların Açıklanması",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "25 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-28",
+   "end": "2027-07-02",
+   "label": "Tıp Fakültesi tarafından yürütülen 1., 2. ve 3. sınıf dersleri için FİNAL SINAVLARI",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "28 Haziran- 02 Temmuz 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-28",
+   "end": "2027-06-28",
+   "label": "Tıp Fakültesi tarafından yürütülen 4. sınıf dersleri için Bütünleme Notlarının Açıklanması",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "28 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-28",
+   "end": "2027-06-28",
+   "label": "Tıp Fakültesi tarafından yürütülen 5. sınıf dersleri için Bütünleme Notlarının Açıklanması",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "28 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-07-05",
+   "end": "2027-07-05",
+   "label": "Tıp Fakültesi tarafından yürütülen 6. sınıf DERSLERİNİN SONA ERMESİ",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "05 Temmuz 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-07-06",
+   "end": "2027-07-06",
+   "label": "Tıp Fakültesi tarafından yürütülen 1.,2. ve 3. sınıf dersleri için Dönem Sonu Notlarının Açıklanması",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "06 Temmuz 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-07-06",
+   "end": "2027-07-06",
+   "label": "Tıp Fakültesi tarafından yürütülen 6.sınıf Notlarının Açıklanması",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "06 Temmuz 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-07-13",
+   "end": "2027-07-13",
+   "label": "Tıp Fakültesi tarafından yürütülen 1., 2., ve 3. sınıf dersleri için \"I\" (Eksik) Notların Açıklanması",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "13 Temmuz 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-07-19",
+   "end": "2027-07-21",
+   "label": "Tıp Fakültesi tarafından yürütülen 1., 2. ve 3. sınıf dersleri için BÜTÜNLEME SINAVLARI",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "19-21 Temmuz 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-07-23",
+   "end": "2027-07-23",
+   "label": "Tıp Fakültesi tarafından yürütülen 1., 2. ve 3. sınıf dersleri için Bütünleme Notlarının Açıklanması",
+   "track": "tip",
+   "term": "bahar",
+   "raw": "23 Temmuz 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-23",
+   "end": "2027-06-28",
+   "label": "Öğrencilerin Üniversite ortak dersleri ve seçmeli dersleri için Yaz Okulu DERS KAYITLARI ve Mali Kayıtların Tamamlanması",
+   "track": "tip",
+   "term": "yaz",
+   "endTime": "10:00",
+   "raw": "23 Haziran 2027-28 Haziran 2027 saat 10:00'a kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-07-05",
+   "end": "2027-08-14",
+   "label": "Öğrencilerin üniversite ortak dersleri ve seçmeli dersleri için Yaz Okulu Dönemi BAŞLANGIÇ-BİTİŞ TARİHİ",
+   "track": "tip",
+   "term": "yaz",
+   "raw": "05 Temmuz-14 Ağustos 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-07-15",
+   "end": "2027-07-15",
+   "label": "15 Temmuz Demokrasi ve Milli Birlik Günü (Resmî Tatil)",
+   "track": "tip",
+   "term": "yaz",
+   "raw": "15 Temmuz 2027 Perşembe",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-08-02",
+   "end": "2027-08-03",
+   "label": "Akademik Yılsonu İNGİLİZCE YETERLİK SINAVI",
+   "track": "tip",
+   "term": "yaz",
+   "raw": "02-03 Ağustos 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-08-14",
+   "end": "2027-08-14",
+   "label": "15 Temmuz 2027 Perşembe günü yapılamayan derslerin telafisi",
+   "track": "tip",
+   "term": "yaz",
+   "raw": "14 Ağustos 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-08-18",
+   "end": "2027-08-18",
+   "label": "Öğrencilerin üniversite ortak dersleri ve seçmeli dersleri için Yaz Okulu Notlarının Açıklanması",
+   "track": "tip",
+   "term": "yaz",
+   "raw": "18 Ağustos 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-08-25",
+   "end": "2027-08-25",
+   "label": "Öğrencilerin üniversite ortak dersleri ve seçmeli dersleri için Yaz okulu \"I\" (Eksik) Notların Açıklanması",
+   "track": "tip",
+   "term": "yaz",
+   "raw": "25 Ağustos 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-08-30",
+   "end": "2027-08-30",
+   "label": "30 Ağustos Zafer Bayramı (Resmî Tatil)",
+   "track": "tip",
+   "term": "yaz",
+   "raw": "30 Ağustos 2027 Pazartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-09-20",
+   "end": "2027-09-20",
+   "label": "2027-2028 öğretim yılında Tıp Fakültesi öğrencilerinin, üniversite ortak dersleri ve seçmeli Derslerinin Başlangıcı",
+   "track": "tip",
+   "term": "plan-2027-2028",
+   "raw": "2027-2028 öğretim yılında; • Tıp Fakültesi öğrencilerinin, üniversite ortak dersleri ve seçmeli Derslerinin Başlangıcının 20 Eylül 2027, • Tıp Fakültesi öğrencilerinin, üniversite ortak dersleri ve seçmeli Derslerinin Ders Kayıtlarının 14 Eylül 2027 saat 10.00'dan 16 Eylül 2027 saat 09.00'a kadar, • Tıp Fakültesi öğrencilerinin, üniversite ortak dersleri ve seçmeli Derslerinin Danışman Onaylarının 16 Eylül 2027 saat 10.00'dan 17 Eylül 2027 saat 16.00'ya kadar, olması planlanmaktadır.",
+   "note": "planned (planlanmaktadır) for the 2027-2028 academic year, as stated on the page",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-09-14",
+   "end": "2027-09-16",
+   "label": "2027-2028 öğretim yılında Tıp Fakültesi öğrencilerinin, üniversite ortak dersleri ve seçmeli Derslerinin Ders Kayıtları",
+   "track": "tip",
+   "term": "plan-2027-2028",
+   "startTime": "10:00",
+   "endTime": "09:00",
+   "raw": "2027-2028 öğretim yılında; • Tıp Fakültesi öğrencilerinin, üniversite ortak dersleri ve seçmeli Derslerinin Başlangıcının 20 Eylül 2027, • Tıp Fakültesi öğrencilerinin, üniversite ortak dersleri ve seçmeli Derslerinin Ders Kayıtlarının 14 Eylül 2027 saat 10.00'dan 16 Eylül 2027 saat 09.00'a kadar, • Tıp Fakültesi öğrencilerinin, üniversite ortak dersleri ve seçmeli Derslerinin Danışman Onaylarının 16 Eylül 2027 saat 10.00'dan 17 Eylül 2027 saat 16.00'ya kadar, olması planlanmaktadır.",
+   "note": "planned (planlanmaktadır) for the 2027-2028 academic year, as stated on the page",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-09-16",
+   "end": "2027-09-17",
+   "label": "2027-2028 öğretim yılında Tıp Fakültesi öğrencilerinin, üniversite ortak dersleri ve seçmeli Derslerinin Danışman Onayları",
+   "track": "tip",
+   "term": "plan-2027-2028",
+   "startTime": "10:00",
+   "endTime": "16:00",
+   "raw": "2027-2028 öğretim yılında; • Tıp Fakültesi öğrencilerinin, üniversite ortak dersleri ve seçmeli Derslerinin Başlangıcının 20 Eylül 2027, • Tıp Fakültesi öğrencilerinin, üniversite ortak dersleri ve seçmeli Derslerinin Ders Kayıtlarının 14 Eylül 2027 saat 10.00'dan 16 Eylül 2027 saat 09.00'a kadar, • Tıp Fakültesi öğrencilerinin, üniversite ortak dersleri ve seçmeli Derslerinin Danışman Onaylarının 16 Eylül 2027 saat 10.00'dan 17 Eylül 2027 saat 16.00'ya kadar, olması planlanmaktadır.",
+   "note": "planned (planlanmaktadır) for the 2027-2028 academic year, as stated on the page",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-11",
+   "end": "2026-09-11",
+   "label": "Devam Eden Öğrencilerin Mali Kayıtlarının Tamamlanması için SON GÜN",
+   "track": "lisansustu",
+   "term": "guz",
+   "raw": "11 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-16",
+   "end": "2026-09-17",
+   "label": "DERS KAYITLARI",
+   "track": "lisansustu",
+   "term": "guz",
+   "startTime": "11:00",
+   "endTime": "15:00",
+   "raw": "16 Eylül 2026 saat 11.00'den 17 Eylül 2026 saat 15.00'e kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-16",
+   "end": "2026-09-18",
+   "label": "DANIŞMAN ONAYLARI",
+   "track": "lisansustu",
+   "term": "guz",
+   "startTime": "12:00",
+   "endTime": "16:00",
+   "raw": "16 Eylül 2026 saat 12.00'den 18 Eylül 2026 saat 16.00'ya kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-19",
+   "end": "2026-09-19",
+   "label": "Ders Muafiyeti Başvurusu için SON GÜN",
+   "track": "lisansustu",
+   "term": "guz",
+   "raw": "19 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-21",
+   "end": "2026-09-21",
+   "label": "Tüm öğrenciler için Welcome Day",
+   "track": "lisansustu",
+   "term": "guz",
+   "raw": "21 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-21",
+   "end": "2026-09-21",
+   "label": "DERSLERİN BAŞLAMASI",
+   "track": "lisansustu",
+   "term": "guz",
+   "raw": "21 Eylül 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-28",
+   "end": "2026-09-29",
+   "label": "DERS EKLEME-BIRAKMA",
+   "track": "lisansustu",
+   "term": "guz",
+   "startTime": "11:00",
+   "endTime": "17:00",
+   "raw": "28 Eylül 2026 saat 11.00'den 29 Eylül 2026 saat 17.00'ye kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-09-28",
+   "end": "2026-09-30",
+   "label": "DERS EKLEME-BIRAKMA DANIŞMAN ONAYLARI",
+   "track": "lisansustu",
+   "term": "guz",
+   "startTime": "11:00",
+   "endTime": "17:00",
+   "raw": "28 Eylül 2026 saat 11.00'den 30 Eylül 2026 saat 17.00'ye kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-10-09",
+   "end": "2026-10-09",
+   "label": "Kayıt Dondurma Başvurusu SON GÜN",
+   "track": "lisansustu",
+   "term": "guz",
+   "raw": "09 Ekim 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "label": "28 Ekim 2026 Çarşamba Günü öğleden sonra Yapılamayan Derslerin Telafisi",
+   "track": "lisansustu",
+   "term": "guz",
+   "raw": "24 Ekim 2026 Cumartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-10-28",
+   "end": "2026-10-29",
+   "label": "29 Ekim Cumhuriyet Bayramı (Resmî Tatil)",
+   "track": "lisansustu",
+   "term": "guz",
+   "raw": "28 Ekim 2026 Çarşamba yarım gün ve 29 Ekim 2026 Perşembe tüm gün",
+   "note": "half-day / time-of-day detail is in raw",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "label": "29 Ekim 2026 Perşembe Günü Yapılamayan Derslerin Telafisi",
+   "track": "lisansustu",
+   "term": "guz",
+   "raw": "31 Ekim 2026 Cumartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-11-07",
+   "end": "2026-11-15",
+   "label": "Dönem içi eğitim arası (Tatil)",
+   "track": "lisansustu",
+   "term": "guz",
+   "raw": "07-15 Kasım 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-11-23",
+   "end": "2026-12-11",
+   "label": "DERSTEN ÇEKİLME",
+   "track": "lisansustu",
+   "term": "guz",
+   "raw": "23 Kasım-11 Aralık 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-12-26",
+   "end": "2026-12-26",
+   "label": "01 Ocak 2027 Cuma günü Yapılamayan Derslerin Telafisi",
+   "track": "lisansustu",
+   "term": "guz",
+   "raw": "26 Aralık 2026 Cumartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2026-12-31",
+   "end": "2026-12-31",
+   "label": "DERSLERİN SONA ERMESİ",
+   "track": "lisansustu",
+   "term": "guz",
+   "raw": "31 Aralık 2026",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-01",
+   "end": "2027-01-01",
+   "label": "Yılbaşı (Resmî Tatil)",
+   "track": "lisansustu",
+   "term": "guz",
+   "raw": "01 Ocak 2027 Cuma",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-04",
+   "end": "2027-01-13",
+   "label": "FİNAL SINAVLARI",
+   "track": "lisansustu",
+   "term": "guz",
+   "raw": "04-13 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-08",
+   "end": "2027-01-08",
+   "label": "Tez Savunması yapacak olan öğrencilerin Tez Savunma Formları'nın Enstitüye Teslimi için SON GÜN",
+   "track": "lisansustu",
+   "term": "guz",
+   "raw": "08 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-08",
+   "end": "2027-01-08",
+   "label": "Doktora tez izleme komitesi toplantılarının gerçekleştirmesi için SON GÜN",
+   "track": "lisansustu",
+   "term": "guz",
+   "raw": "08 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-08",
+   "end": "2027-01-08",
+   "label": "Doktora tez önerisi toplantısının gerçekleştirmesi için SON GÜN",
+   "track": "lisansustu",
+   "term": "guz",
+   "raw": "08 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-08",
+   "end": "2027-01-08",
+   "label": "Doktora yeterlik sınavının gerçekleştirmesi için SON GÜN",
+   "track": "lisansustu",
+   "term": "guz",
+   "raw": "08 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-18",
+   "end": "2027-01-18",
+   "label": "Dönem Sonu Notlarının Açıklanması",
+   "track": "lisansustu",
+   "term": "guz",
+   "raw": "18 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-20",
+   "end": "2027-01-20",
+   "label": "Son Dönem SINAV BAŞVURULARI",
+   "track": "lisansustu",
+   "term": "guz",
+   "endTime": "16:00",
+   "raw": "20 Ocak 2027 saat 16:00'ya kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-01-25",
+   "end": "2027-01-25",
+   "label": "Son Dönem SINAVLARI",
+   "track": "lisansustu",
+   "term": "guz",
+   "raw": "25 Ocak 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-03",
+   "end": "2027-02-03",
+   "label": "\"I\" (Eksik) Notlarının Açıklanması",
+   "track": "lisansustu",
+   "term": "guz",
+   "raw": "03 Şubat 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-04",
+   "end": "2027-02-04",
+   "label": "\"I\" (Eksik) notu olan Son Dönem Öğrencileri için SON DÖNEM SINAV BAŞVURUSU SON GÜN",
+   "track": "lisansustu",
+   "term": "guz",
+   "endTime": "15:00",
+   "raw": "04 Şubat 2027 saat 15:00'a kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-05",
+   "end": "2027-02-05",
+   "label": "\"I\" (Eksik) notu olan Son Dönem Öğrencilerin SON DÖNEM SINAVLARI",
+   "track": "lisansustu",
+   "term": "guz",
+   "raw": "05 Şubat 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-05",
+   "end": "2027-02-05",
+   "label": "Devam Eden Öğrencilerin Mali Kayıtlarının Tamamlanması için SON GÜN",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "05 Şubat 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-11",
+   "end": "2027-02-12",
+   "label": "DERS KAYITLARI",
+   "track": "lisansustu",
+   "term": "bahar",
+   "startTime": "11:00",
+   "endTime": "15:00",
+   "raw": "11 Şubat 2027 saat 11.00'den 12 Şubat 2027 saat 15.00'e kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-11",
+   "end": "2027-02-12",
+   "label": "DANIŞMAN ONAYLARI",
+   "track": "lisansustu",
+   "term": "bahar",
+   "startTime": "12:00",
+   "endTime": "17:00",
+   "raw": "11 Şubat 2027 saat 12.00'den 12 Şubat 2027 saat 17.00'ye kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-12",
+   "end": "2027-02-12",
+   "label": "Ders Muafiyeti Başvurusu için SON GÜN",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "12 Şubat 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-15",
+   "end": "2027-02-15",
+   "label": "DERSLERİN BAŞLAMASI",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "15 Şubat 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-22",
+   "end": "2027-02-23",
+   "label": "DERS EKLEME-BIRAKMA",
+   "track": "lisansustu",
+   "term": "bahar",
+   "startTime": "11:00",
+   "endTime": "17:00",
+   "raw": "22 Şubat 2027 saat 11.00'den 23 Şubat 2027 saat 17.00'ye kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-02-22",
+   "end": "2027-02-24",
+   "label": "DERS EKLEME-BIRAKMA DANIŞMAN ONAYLARI",
+   "track": "lisansustu",
+   "term": "bahar",
+   "startTime": "11:00",
+   "endTime": "17:00",
+   "raw": "22 Şubat 2027 saat 11.00'den 24 Şubat 2027 saat 17.00'ye kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-03-05",
+   "end": "2027-03-05",
+   "label": "Kayıt Dondurma Başvurusu SON GÜN",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "05 Mart 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-03-08",
+   "end": "2027-03-11",
+   "label": "Ramazan Bayramı (Resmî Tatil)",
+   "track": "lisansustu",
+   "term": "bahar",
+   "startTime": "12:00",
+   "raw": "08 Mart 2027 Pazartesi saat 12:00'den sonra, 09 Mart 2027 Salı tam gün, 10 Mart 2027 Çarşamba tam gün, 11 Mart 2027 Perşembe tam gün",
+   "note": "half-day / time-of-day detail is in raw",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-03-13",
+   "end": "2027-03-13",
+   "label": "08 Mart 2027 Pazartesi saat 12:00'den sonra yapılamayan derslerin telafisi",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "13 Mart 2027 Cumartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-03-20",
+   "end": "2027-03-20",
+   "label": "09 Mart 2027 Salı tam gün yapılamayan derslerin telafisi",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "20 Mart 2027 Cumartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-03-27",
+   "end": "2027-03-27",
+   "label": "10 Mart 2027 Çarşamba tam gün yapılamayan derslerin telafisi",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "27 Mart 2027 Cumartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-04-10",
+   "end": "2027-04-18",
+   "label": "Dönem içi eğitim arası (Tatil)",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "10-18 Nisan 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-04-19",
+   "end": "2027-05-07",
+   "label": "DERSTEN ÇEKİLME",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "19 Nisan- 07 Mayıs 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "label": "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı (Resmî Tatil)",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "23 Nisan 2027 Cuma",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-05-01",
+   "end": "2027-05-01",
+   "label": "01 Mayıs Emek ve Dayanışma Günü (Resmî Tatil)",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "01 Mayıs 2027 Cumartesi",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-05-04",
+   "end": "2027-05-06",
+   "label": "Bahar Şenlikleri",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "04-05-06 Mayıs 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-05-15",
+   "end": "2027-05-19",
+   "label": "Kurban Bayramı (Resmî Tatil)",
+   "track": "lisansustu",
+   "term": "bahar",
+   "startTime": "12:00",
+   "raw": "15 Mayıs 2027 Cumartesi saat 12:00'den sonra, 16 Mayıs 2027 Pazar tam gün, 17 Mayıs 2027 Pazartesi tam gün, 18 Mayıs 2027 Salı tam gün, 19 Mayıs 2027 Çarşamba tam gün",
+   "note": "half-day / time-of-day detail is in raw",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-05-19",
+   "end": "2027-05-19",
+   "label": "19 Mayıs Atatürk'ü Anma Gençlik ve Spor Bayramı (Resmî Tatil)",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "19 Mayıs 2027 Çarşamba",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-04",
+   "end": "2027-06-04",
+   "label": "DERSLERİN SONA ERMESİ",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "04 Haziran 2027 Cuma",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-04",
+   "end": "2027-06-04",
+   "label": "Tez Savunması yapacak olan öğrencilerin Tez Savunma Formları'nın Enstitüye Teslimi için SON GÜN",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "04 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-04",
+   "end": "2027-06-04",
+   "label": "Doktora tez izleme komitesi toplantılarının gerçekleştirmesi için SON GÜN",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "04 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-04",
+   "end": "2027-06-04",
+   "label": "Doktora tez önerisi toplantısının gerçekleştirmesi için SON GÜN",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "04 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-04",
+   "end": "2027-06-04",
+   "label": "Doktora yeterlik sınavının gerçekleştirmesi için SON GÜN",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "04 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-05",
+   "end": "2027-06-14",
+   "label": "FİNAL SINAVLARI",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "05-14 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-17",
+   "end": "2027-06-17",
+   "label": "Dönem Sonu Notlarının Açıklanması",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "17 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-18",
+   "end": "2027-06-18",
+   "label": "\"I\"-Eksik notu olan Lisansüstü öğrencileri hariç Son Dönem SINAV BAŞVURULARI",
+   "track": "lisansustu",
+   "term": "bahar",
+   "endTime": "16:00",
+   "raw": "18 Haziran 2027 saat 16.00'ya kadar",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-06-22",
+   "end": "2027-06-22",
+   "label": "\"I\"-Eksik notu olan Lisansüstü öğrencileri hariç Son Dönem SINAVLARI",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "22 Haziran 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-07-01",
+   "end": "2027-07-01",
+   "label": "\"I\" (Eksik) Notların Açıklanması",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "01 Temmuz 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-07-01",
+   "end": "2027-07-01",
+   "label": "\"I\" (Eksik) notu olan Son Dönem Öğrencileri için SON DÖNEM BAŞVURUSU",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "01 Temmuz 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-07-02",
+   "end": "2027-07-02",
+   "label": "\"I\" (Eksik) notu olan Son Dönem Öğrencilerinin SON DÖNEM SINAVLARI",
+   "track": "lisansustu",
+   "term": "bahar",
+   "raw": "02 Temmuz 2027",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-09-20",
+   "end": "2027-09-20",
+   "label": "2027-2028 öğretim yılı için Tüm Lisansüstü Derslerinin Başlangıcı",
+   "track": "lisansustu",
+   "term": "plan-2027-2028",
+   "raw": "2027-2028 öğretim yılı için; • Tüm Lisansüstü Derslerinin Başlangıcının 20 Eylül 2027 olması, • Tüm Lisansüstü Dersleri Ders Kayıtlarının 15 Eylül 2027 saat 11.00'den 16 Eylül 2027 saat 15.00'e kadar, • Tüm Lisansüstü Dersleri Danışman Onaylarının 15 Eylül 2027 saat 12.00'den 17 Eylül 2027 saat 16.00'ya kadar olması planlanmaktadır.",
+   "note": "planned (planlanmaktadır) for the 2027-2028 academic year, as stated on the page",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-09-15",
+   "end": "2027-09-16",
+   "label": "2027-2028 öğretim yılı için Tüm Lisansüstü Dersleri Ders Kayıtları",
+   "track": "lisansustu",
+   "term": "plan-2027-2028",
+   "startTime": "11:00",
+   "endTime": "15:00",
+   "raw": "2027-2028 öğretim yılı için; • Tüm Lisansüstü Derslerinin Başlangıcının 20 Eylül 2027 olması, • Tüm Lisansüstü Dersleri Ders Kayıtlarının 15 Eylül 2027 saat 11.00'den 16 Eylül 2027 saat 15.00'e kadar, • Tüm Lisansüstü Dersleri Danışman Onaylarının 15 Eylül 2027 saat 12.00'den 17 Eylül 2027 saat 16.00'ya kadar olması planlanmaktadır.",
+   "note": "planned (planlanmaktadır) for the 2027-2028 academic year, as stated on the page",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  },
+  {
+   "start": "2027-09-15",
+   "end": "2027-09-17",
+   "label": "2027-2028 öğretim yılı için Tüm Lisansüstü Dersleri Danışman Onayları",
+   "track": "lisansustu",
+   "term": "plan-2027-2028",
+   "startTime": "12:00",
+   "endTime": "16:00",
+   "raw": "2027-2028 öğretim yılı için; • Tüm Lisansüstü Derslerinin Başlangıcının 20 Eylül 2027 olması, • Tüm Lisansüstü Dersleri Ders Kayıtlarının 15 Eylül 2027 saat 11.00'den 16 Eylül 2027 saat 15.00'e kadar, • Tüm Lisansüstü Dersleri Danışman Onaylarının 15 Eylül 2027 saat 12.00'den 17 Eylül 2027 saat 16.00'ya kadar olması planlanmaktadır.",
+   "note": "planned (planlanmaktadır) for the 2027-2028 academic year, as stated on the page",
+   "source": "https://www.ieu.edu.tr/tr/akademik-takvim"
+  }
+ ],
+ "events": [
+  {
+   "date": "2026-09-06/2026-09-11",
+   "time": "",
+   "title": "Liderler Forumu",
+   "place": "İzmir",
+   "organizer": "ESTIEM (club)",
+   "type": "Club forum",
+   "status": "recent-past",
+   "source": "https://club.ieu.edu.tr/etkinlikler",
+   "note": "The club site prints times of 07:20 for both ends; treat the times as unreliable."
+  },
+  {
+   "date": "2026-09-14",
+   "time": "",
+   "title": "Lisans ve önlisans 1. sınıf öğrencileri için oryantasyon",
+   "place": "not stated",
+   "organizer": "Sağlık, Kültür ve Spor Müdürlüğü",
+   "type": "Orientation",
+   "status": "recent-past",
+   "source": "https://sks.ieu.edu.tr/tr/welcome-day",
+   "note": "Listed as 'Lisans ve Ön lisans 1.sınıf öğrencileri için oryantasyon' in the academic calendar."
+  },
+  {
+   "date": "2026-09-16",
+   "time": "18:00-20:00",
+   "title": "Buddy Buluşması",
+   "place": "To Be Announced",
+   "organizer": "Erasmus Öğrenci Ağı İEÜ (ESN)",
+   "type": "Club social",
+   "status": "recent-past",
+   "source": "https://club.ieu.edu.tr/etkinlikler"
+  },
+  {
+   "date": "2026-09-19",
+   "time": "14:00-17:00",
+   "title": "Plaj Günü",
+   "place": "Çeşme Ilıca Halk Plajı (off campus)",
+   "organizer": "Erasmus Öğrenci Ağı İEÜ (ESN)",
+   "type": "Club social",
+   "status": "recent-past",
+   "source": "https://club.ieu.edu.tr/etkinlikler"
+  },
+  {
+   "date": "2026-09-21",
+   "time": "",
+   "title": "Welcome Day (all students) and English Preparatory programme orientation",
+   "place": "not stated",
+   "organizer": "Sağlık, Kültür ve Spor Müdürlüğü / Yabancı Diller Yüksekokulu",
+   "type": "Welcome Day",
+   "status": "recent-past",
+   "source": "https://sks.ieu.edu.tr/tr/welcome-day",
+   "note": "Same day as the first day of classes for undergraduate, graduate and English preparatory module 1."
+  },
+  {
+   "date": "2026-09-21",
+   "time": "18:00-19:00",
+   "title": "Türk Akşam Yemeği",
+   "place": "Gönül Çorba (off campus)",
+   "organizer": "Erasmus Öğrenci Ağı İEÜ (ESN)",
+   "type": "Club social",
+   "status": "recent-past",
+   "source": "https://club.ieu.edu.tr/etkinlikler"
+  },
+  {
+   "date": "2026-09-22",
+   "time": "",
+   "title": "Yeni dönemin ilk dersi (first lecture of the new term, given by the Governor of İzmir)",
+   "place": "not stated",
+   "organizer": "İEÜ",
+   "type": "Opening lecture",
+   "status": "recent-past",
+   "source": "https://www.ieu.edu.tr/tr/news/type/read/id/10547",
+   "note": "From the news listing snippet: disaster-resilience messages; the news page itself was not opened."
+  },
+  {
+   "date": "2026-09-22",
+   "time": "18:00-20:00",
+   "title": "Dose Of ESN",
+   "place": "Agora AVM (off campus)",
+   "organizer": "Erasmus Öğrenci Ağı İEÜ (ESN)",
+   "type": "Club social",
+   "status": "recent-past",
+   "source": "https://club.ieu.edu.tr/etkinlikler"
+  },
+  {
+   "date": "2026-09-23",
+   "time": "09:40-17:00",
+   "title": "İEÜ HDK Kulüp Tanıtım Standı",
+   "place": "M blok ana giriş",
+   "organizer": "Halk Dansları Kulübü (HDK)",
+   "type": "Club stand",
+   "status": "recent-past",
+   "source": "https://club.ieu.edu.tr/etkinlikler"
+  },
+  {
+   "date": "2026-09-23",
+   "time": "18:30-20:30",
+   "title": "Endüstri Sistemleri Topluluğu 1. Genel Kurul",
+   "place": "D Çok Amaçlı Salon",
+   "organizer": "Endüstri Sistemleri Topluluğu (EST)",
+   "type": "Club general assembly",
+   "status": "recent-past",
+   "source": "https://club.ieu.edu.tr/etkinlikler"
+  },
+  {
+   "date": "2026-09-25",
+   "time": "19:00-23:00",
+   "title": "İsim Partisi",
+   "place": "İnciraltı Kent Ormanı (off campus)",
+   "organizer": "Erasmus Öğrenci Ağı İEÜ (ESN)",
+   "type": "Club social",
+   "status": "recent-past",
+   "source": "https://club.ieu.edu.tr/etkinlikler"
+  },
+  {
+   "date": "2026-09-26",
+   "time": "16:00-19:00",
+   "title": "Ücretsiz Bisiklet Turu ve Sahil Buluşması",
+   "place": "Bostanlı Sahil (off campus)",
+   "organizer": "Erasmus Öğrenci Ağı İEÜ (ESN)",
+   "type": "Club social",
+   "status": "recent-past",
+   "source": "https://club.ieu.edu.tr/etkinlikler"
+  },
+  {
+   "date": "2026-09-29",
+   "time": "19:00-23:30",
+   "title": "Tanışma Etkinliği",
+   "place": "Palmiye AVM (off campus)",
+   "organizer": "Otomobil ve Motor Sporları Kulübü",
+   "type": "Club social",
+   "status": "recent-past",
+   "source": "https://club.ieu.edu.tr/etkinlikler"
+  },
+  {
+   "date": "2026-09-30",
+   "time": "12:00-13:30",
+   "title": "Meslekleri Tanıyorum, İşimi Seçiyorum: Meslek Okullarına Meslek Atölyeleri",
+   "place": "D Blok - Çok Amaçlı Salon",
+   "organizer": "",
+   "type": "Atölye (workshop)",
+   "status": "today",
+   "source": "https://www.ieu.edu.tr/tr/events/type/read/id/1917",
+   "note": "Project for students of special-education vocational schools (gastronomy, textile and design, furniture, visual arts, occupational safety and archiving workshops at IEU; internships with the Izmir Chamber of Commerce)."
+  },
+  {
+   "date": "2026-09-30",
+   "time": "12:00-13:30",
+   "title": "SHMYO Açılış Dersi: “Senaryosuz Gelecek: Değişen Dünyada Kendi Öykünü Yazmak”",
+   "place": "Konferans Salonu",
+   "organizer": "İEÜ Sağlık Hizmetleri Meslek Yüksekokulu (SHMYO)",
+   "type": "Açılış Dersi (opening lecture)",
+   "status": "today",
+   "source": "https://www.ieu.edu.tr/tr/events/type/read/id/1918",
+   "note": "Guest speaker from Ege University (name omitted). All academic/administrative staff and students invited."
+  },
+  {
+   "date": "2026-09-30",
+   "time": "12:00-15:00",
+   "title": "30 Eylül Dünya Çeviri Günü Standı",
+   "place": "M Blok kantin",
+   "organizer": "İEU Çeviri Topluluğu (club)",
+   "type": "Club stand",
+   "status": "today",
+   "source": "https://club.ieu.edu.tr/etkinlikler",
+   "note": "Mini games and translation-themed activities; title is printed '3O Eylül' (letter O) on the club site."
+  },
+  {
+   "date": "2026-10-02",
+   "time": "18:00-22:00",
+   "title": "EFG Açılış Karnavalı",
+   "place": "D blok konferans salonu",
+   "organizer": "Engineering For Good Club",
+   "type": "Club opening event",
+   "status": "upcoming",
+   "source": "https://club.ieu.edu.tr/etkinlikler",
+   "note": "Programme: opening speeches, team introductions, get-to-know activities, team selection, entertainment."
+  },
+  {
+   "date": "2026-10-06/2026-10-08",
+   "time": "",
+   "title": "Ankara Gezisi (Geleneksel Ankara Gezisi)",
+   "place": "Ankara (off campus)",
+   "organizer": "Siyaset Platformu (club)",
+   "type": "Club trip",
+   "status": "upcoming",
+   "source": "https://club.ieu.edu.tr/etkinlikler",
+   "note": "2 nights / 3 days; visits to the parliament, ministries, high courts, museums and the Anıtkabir; club members are away from campus."
+  },
+  {
+   "date": "2026-10-09",
+   "time": "13:30 bid deadline, 14:00 tender session",
+   "title": "Ağaçaltı Kafeterya İşletmesi Kiralanması İhalesi (tender no 29.2026-2027-01)",
+   "place": "Sakarya Cad. No:156 Balçova (university procurement office)",
+   "organizer": "Satın Alma Müdürlüğü",
+   "type": "Administrative (tender)",
+   "status": "upcoming",
+   "source": "https://www.ieu.edu.tr/tr/announcements/type/read/id/13830",
+   "note": "Open-bid rental tender for the cafeteria on the garden terrace above the amphitheatre. Same day: last day to apply for registration freeze for the undergraduate, preparatory and graduate tracks (academic calendar)."
+  },
+  {
+   "date": "2026-10-21",
+   "time": "18:00-20:00",
+   "title": "CV Hazırlama ve Mülakat Teknikleri (seminar)",
+   "place": "D Blok - Çok Amaçlı Salon",
+   "organizer": "Kariyer Yönlendirme ve Mezunlarla İlişkiler Müdürlüğü",
+   "type": "Seminer",
+   "status": "upcoming",
+   "source": "https://www.ieu.edu.tr/tr/events/type/read/id/1923",
+   "note": "For students and alumni; registration through the site's etkinlik-kayit page; participation certificate given."
+  }
+ ],
+ "traditions": [
+  {
+   "name": "Oryantasyon and Welcome Day (start of the academic year)",
+   "when": "Mid to late September. 2026: orientation for associate/undergraduate first-year students on Mon 2026-09-14; Welcome Day for all students plus the English Preparatory orientation on Mon 2026-09-21 (also the first day of classes).",
+   "description": "Run by the Sağlık, Kültür ve Spor Müdürlüğü. The academic calendar lists 'Tüm öğrenciler için Welcome Day' on 2026-09-21 in all four tracks. Programme details and places are not published on the page.",
+   "source": "https://sks.ieu.edu.tr/tr/welcome-day",
+   "moreSources": [
+    "https://www.ieu.edu.tr/tr/akademik-takvim"
+   ]
+  },
+  {
+   "name": "Opening lectures (Açılış Dersi) of the units",
+   "when": "First weeks of term. 2026: governor's first-lecture news dated 2026-09-22; SHMYO opening lecture Wed 2026-09-30 12:00-13:30 in the Konferans Salonu.",
+   "description": "Examples in 2026: the Governor of İzmir gave the first lecture of the new term and the Vocational School of Health Services held an opening lecture with a guest from Ege University. Whether every faculty holds one is not stated.",
+   "source": "https://www.ieu.edu.tr/tr/events/type/read/id/1918",
+   "moreSources": [
+    "https://www.ieu.edu.tr/tr/news/type/read/id/10547"
+   ]
+  },
+  {
+   "name": "Sports team tryout week (Takım Seçmeleri Haftası)",
+   "when": "Late September to early October. 2025: Mon 29 Sep to Thu 2 Oct (news dated 2025-10-07). The 2026 dates are not published.",
+   "description": "Held every year at the Balçova Belediyesi Spor Kompleksi (5 minutes' walk from campus) for women's and men's basketball, women's volleyball, men's football and American football (korumalı futbol).",
+   "source": "https://sks.ieu.edu.tr/tr/news/type/read/id/10065"
+  },
+  {
+   "name": "Club stands and club opening events at term start",
+   "when": "September to October (observed in 2026: 23 Sep club stand at the M Blok main entrance 09:40-17:00; 30 Sep translation-day stand at the M Blok canteen 12:00-15:00; 2 Oct EFG opening carnival 18:00-22:00 in the D Blok conference hall).",
+   "description": "No single official 'club fair' date was found; clubs run stands at the M Block entrance and canteen and hold general assemblies and social meetings in D Blok halls. The Erasmus Student Network club runs a series of welcome socials (mostly off campus) in the second half of September.",
+   "source": "https://club.ieu.edu.tr/etkinlikler",
+   "moreSources": [
+    "https://club.ieu.edu.tr/"
+   ]
+  },
+  {
+   "name": "Free midnight treats in exam periods",
+   "when": "During exam periods (calendar 2026-27: midterms 2026-11-07 to 11-15 and 2027-04-10 to 04-18; finals 2027-01-04 to 01-13 and 2027-06-05 to 06-14).",
+   "description": "The official 'İEÜ'de Hayat' text says students can enjoy free treats at midnight ('gece yarısı ücretsiz ikramlar') in exam periods. Which venue serves them is not stated. The library lower floor is open 24/7 and the campus is described as 'living 24 hours'.",
+   "source": "https://www.ieu.edu.tr/tr/ieude-hayat"
+  },
+  {
+   "name": "Kariyer Günleri (Career Days / career fair)",
+   "when": "March each year: 2025-03-19 to 03-21 (10:00-17:00, A Blok Konferans Salonu); 2026-03-09 to 03-13 (Konferans Salonu and A Blok Fuaye Alanı; 65 sectors, 119 companies). The 2027 dates are not published.",
+   "description": "One-to-one meetings with employers, internship and job opportunities. In 2025 an interview simulation was held on the last day; separate 'Mülakat Simülasyonu' pages exist for 2024, 2025 and 2026. A CV and interview seminar is scheduled for 2026-10-21.",
+   "source": "https://kariyer.ieu.edu.tr/tr/2026-kariyer-gunleri",
+   "moreSources": [
+    "https://kariyer.ieu.edu.tr/tr/2025-kariyer-gunleri"
+   ]
+  },
+  {
+   "name": "Bahar Şenlikleri (spring festival)",
+   "when": "Early to mid May. 2025: Wed 7 to Fri 9 May (the event page announced 7-8 May, 10:00-22:30; the news says 7-9 May). 2027: Tue 2027-05-04 to Thu 2027-05-06 (academic calendar, all tracks).",
+   "description": "Club stands and games at the Tören Alanı, sports and relaxation at the Koru Alanı, food, drink and dessert stands across the campus from 10:00. The Music Festival opens the first evening (2025: 16:00, Amfitiyatro) and a concert closes the festival at the Amfi Tiyatro (2025: 21:00 on day 2).",
+   "source": "https://www.ieu.edu.tr/tr/events/type/read/id/1742",
+   "moreSources": [
+    "https://sks.ieu.edu.tr/tr/news/type/read/id/9814",
+    "https://www.ieu.edu.tr/tr/akademik-takvim"
+   ]
+  },
+  {
+   "name": "Mezuniyet Törenleri (graduation ceremonies)",
+   "when": "Late June to early July every year in the 2011-2025 archive (2025: 1-4 July, plus 21 Aug and 4 Sep sessions). 2026: Mon 2026-07-06 to Fri 2026-07-10 at the Amfitiyatro; rehearsal 10:30 and ceremony 20:00 each day. 2027 dates are not published.",
+   "description": "Faculty-by-faculty schedule (2026: Mon Fen Edebiyat, Adalet MYO, Hukuk; Tue Mühendislik; Wed Uygulamalı Yönetim Bilimleri, İletişim, Güzel Sanatlar ve Tasarım; Thu İşletme, Sağlık Bilimleri, Sağlık Hizmetleri MYO; Fri Meslek Yüksekokulu; Graduate Institute and Medicine later). Each graduate may invite at most 4 guests; guests show ID at the campus gate and get one-use wristbands; overflow viewing at the A Blok Kantin Alanı and the D Blok Çok Amaçlı Salon; live on YouTube; gowns handed out on rehearsal day; smoking, confetti, flares and pets banned at the Amfitiyatro. Eligibility: at least 200 ECTS (undergraduate) or 90 ECTS (associate).",
+   "source": "https://kim.ieu.edu.tr/tr/mezuniyet-toreni",
+   "moreSources": [
+    "https://mezun.ieu.edu.tr/tr/mezuniyet-torenleri"
+   ]
+  },
+  {
+   "name": "Müzik Festivali, Dans Festivali and Spor Ödülleri Galası",
+   "when": "Annual. Music Festival: first evening of the spring festival (2025: the 2nd edition). Dance Festival: first held in 2025 by all dance clubs. Sports Awards Gala: 3rd edition in 2025. Dates of the Dance Festival and the Gala were not captured.",
+   "description": "Named in the news list of the Sağlık, Kültür ve Spor Müdürlüğü; only the Music Festival timing is confirmed by the spring-festival event page.",
+   "source": "https://sks.ieu.edu.tr/tr",
+   "moreSources": [
+    "https://www.ieu.edu.tr/tr/events/type/read/id/1742"
+   ]
+  },
+  {
+   "name": "Club presidents' fortnightly meeting",
+   "when": "Every 15 days (as stated; the page does not say whether it pauses in holidays).",
+   "description": "The Öğrenci Dekanlığı meets the club presidents every 15 days to review activities; the Student Council links students and management and attends the board of trustees and senate meetings.",
+   "source": "https://ects.ieu.edu.tr/new/idari.php?id=50&lang=tr"
+  }
+ ],
+ "clubs": {
+  "count": 80,
+  "categories": [
+   "Kültür / Sanat Kulüpleri (culture and arts): 9 clubs",
+   "Mesleki Gelişim Kulüpleri (professional development): 39 clubs",
+   "Hobi Kulüpleri (hobby): 16 clubs",
+   "Düşünce / İletişim Ağı Kulüpleri (thought and communication network): 8 clubs",
+   "Sosyal Sorumluluk Kulüpleri (social responsibility): 5 clubs"
+  ],
+  "categoryCounts": {
+   "Kültür / Sanat": 9,
+   "Mesleki Gelişim": 39,
+   "Hobi": 16,
+   "Düşünce / İletişim Ağı": 8,
+   "Sosyal Sorumluluk": 5
+  },
+  "listedInCategories": 77,
+  "members": 2200,
+  "eventsRealizedCounter": 13,
+  "exampleClubs": [
+   "Halk Dansları Kulübü (HDK)",
+   "Latin Dans Kulübü",
+   "Tiyatro Kulübü",
+   "İEÜ Çok Sesli Korosu (ECHOIR)",
+   "Association for Computing Machinery Club (ACM)",
+   "Google Developer Students IUE Club",
+   "Institute of Engineers and Everyone Club (IEEE)",
+   "Endüstri Sistemleri Topluluğu (EST)",
+   "Yatırım ve Borsa Kulübü",
+   "Havacılık Kulübü",
+   "Dağcılık ve Trekking Kulübü (EKODAK)",
+   "Yelken Kulübü",
+   "Atlı Sporlar ve Binicilik Kulübü",
+   "Sualtı Kulübü",
+   "Erasmus Student Network Club (ESN IUE)",
+   "Model United Nations Club (ECOMUN)",
+   "Münazara Kulübü",
+   "Rotaract Kulübü",
+   "Genç Kızılay Kulübü",
+   "Hayvanseverler Kulübü",
+   "Toplum Gönüllüleri Kulübü (EKOTOG)"
+  ],
+  "notes": "Counts differ by page: club.ieu.edu.tr shows 'Kulüp Sayısı 80', 'Üye Sayısı 2200', 'Gerçekleşen Etkinlik 13' (list paginated 14 pages of 6, JSON endpoint https://club.ieu.edu.tr/ogrenci-kulupleri?page=N); the Sağlık, Kültür ve Spor Müdürlüğü page lists 77 clubs in the 5 official categories above (club.ieu.edu.tr also shows clubs founded in Nov 2025 such as the Afet ve İlk Yardım and Bilardo clubs that are not in that list); ieu.edu.tr/aday 'Kampüste Yaşam' says 80+, while the older 'İEÜ'de Hayat' text says 50+. Category assignment is the official SKS grouping, not my inference. No president or member names recorded.",
+  "source": "https://club.ieu.edu.tr/",
+  "moreSources": [
+   "https://sks.ieu.edu.tr/tr/ogrenci-kulupleri-ieu",
+   "https://club.ieu.edu.tr/ogrenci-kulupleri",
+   "https://www.ieu.edu.tr/aday/tr/kampuste-yasam"
+  ]
+ },
+ "facts": [
+  {
+   "fact": "Official name İzmir Ekonomi Üniversitesi (İEÜ); Balçova campus address Sakarya Caddesi No:156, 35330 Balçova, İzmir. Tender documents write the address as 'Fevzi Çakmak Mahallesi, Sakarya Cad. No:156'. The ECTS page says the campus lies in Balçova at the 'Teleferik mevkii'.",
+   "source": "https://www.ieu.edu.tr/tr",
+   "moreSources": [
+    "https://phoenix.ieu.edu.tr/betanix/uploads/duyuru/duyuru_1789734936.pdf",
+    "https://ects.ieu.edu.tr/new/idari.php?id=46&lang=tr"
+   ]
+  },
+  {
+   "fact": "Founded by law no. 4633, published in the Resmi Gazete no. 24373 on 14 April 2001, as 2 faculties, 5 schools (yüksekokul) and 2 institutes.",
+   "source": "https://www.ieu.edu.tr/tr/tarihce"
+  },
+  {
+   "fact": "Founding body: İzmir Ticaret Odası Eğitim ve Sağlık Vakfı. History given by IEU: the İzmir Chamber of Commerce (İZTO) was founded in 1885; it set up the İzmir Ticaret Odası Sosyal Yardımlaşma Vakfı in 1988; the foundation became 'İzmir Ticaret Odası Eğitim ve Sağlık Vakfı' in 1995; the university followed in 2001.",
+   "source": "https://www.ieu.edu.tr/tr/tarihce"
+  },
+  {
+   "fact": "The university moved to its present Balçova campus on 1 July 2001 and started with 288 students.",
+   "source": "https://www.ieu.edu.tr/tr/tarihce"
+  },
+  {
+   "fact": "Claim: 'Ege Bölgesi'nin ilk vakıf üniversitesi' (the first foundation university of the Aegean Region). Repeated in the 25th-anniversary message: 'Ege Bölgesi'nin ilk vakıf üniversitesi olarak, 14 Nisan 2001 tarihinde başladığımız eğitim yolculuğu'.",
+   "source": "https://www.ieu.edu.tr/tr/tarihce",
+   "moreSources": [
+    "https://25yil.ieu.edu.tr/"
+   ]
+  },
+  {
+   "fact": "Numbers in the 25th-anniversary message (2026): about 28 thousand alumni, 12 thousand students, one thousand academics and 300 administrative staff (rounded figures from a speech, not an official statistic).",
+   "source": "https://25yil.ieu.edu.tr/"
+  },
+  {
+   "fact": "Structure stated on the history page: 8 faculties, 2 schools (yüksekokul), 3 vocational schools (MYO) and the graduate institute. Faculty of Medicine: started 2017-2018 with 60 students, 283 students now and 138 graduates (dean's message on the 25th-year site).",
+   "source": "https://www.ieu.edu.tr/tr/tarihce",
+   "moreSources": [
+    "https://25yil.ieu.edu.tr/"
+   ]
+  },
+  {
+   "fact": "Slogan: 'bilimle anla bilgiyle yönet' (English version in the logo guide: 'Comprehend with science, manage with knowledge'). The wordmark reads İZMİR EKONOMİ ÜNİVERSİTESİ, with the slogan below it in the recommended version.",
+   "source": "https://phoenix.ieu.edu.tr/betanix/uploads/cms/kim.ieu.edu.tr/9153_1597928273.pdf"
+  },
+  {
+   "fact": "Corporate colours (logo guide, 2020): primary orange Pantone 1505 (CMYK 0/64/100/0, RGB 255/105/0, HEX FF6900) and black; complementary Pantone Cool Gray 10 (RGB 99/102/106, HEX 63666A) and Pantone 2768 dark navy (RGB 7/29/73, HEX 071D49); metallic gold Pantone 871 and metallic silver Pantone 877. The guide prints HEX 878786 next to the black swatch although its RGB is 0/0/0 (inconsistent in the source).",
+   "source": "https://phoenix.ieu.edu.tr/betanix/uploads/cms/kim.ieu.edu.tr/9153_1597928273.pdf"
+  },
+  {
+   "fact": "Typography (logo guide): logotype in Eurostile Extended; Helvetica is the primary publication font, with Open Sans as the only allowed substitute. Logo on dark backgrounds is used in white (negative), on light backgrounds in the original colours; minimum logo size 12 mm; a separate KAMPÜSİZMİR logo exists.",
+   "source": "https://phoenix.ieu.edu.tr/betanix/uploads/cms/kim.ieu.edu.tr/9153_1597928273.pdf"
+  },
+  {
+   "fact": "The university emblem is an orange rounded symbol with a white figure placed next to the wordmark (seen on the header of the rendered tender site sketch; an observation of the image, not a text statement).",
+   "source": "https://ieucloud.izmirekonomi.edu.tr/remote.php/dav/public-files/RUaKaHQEogomvIa/KROK%c4%b0.pdf"
+  },
+  {
+   "fact": "2026 is the university's 25th anniversary ('25. YIL' site); the second campus (Güzelbahçe) is announced in the same period and is separate from the Balçova campus.",
+   "source": "https://25yil.ieu.edu.tr/",
+   "moreSources": [
+    "https://www.ieu.edu.tr/tr"
+   ]
+  },
+  {
+   "fact": "Official 'İEÜ'de Hayat' text: the campus is 'eğlenceli, dinamik ve 24 saat yaşayan' (fun, dynamic, living 24 hours); Alsancak or Konak is about 25 minutes away; the campus sits at the foot of a forest ('sırtını ormana yaslayıp denizi seyredebilirsin'); nearby attractions named are Balçova Terapi Ormanı (walking and sport), the Tarihi Asansör and the cable car (Teleferik).",
+   "source": "https://www.ieu.edu.tr/tr/ieude-hayat"
+  },
+  {
+   "fact": "Official text mentions 'ünlü isimlerin katılımıyla gerçekleşen söyleşiler, sürpriz konserler, sıra dışı etkinlik ve şenlikler' (talks with well-known guests, surprise concerts, festivals) on campus.",
+   "source": "https://www.ieu.edu.tr/tr/ieude-hayat"
+  },
+  {
+   "fact": "Accessibility: the campus was built to ease access for people with orthopaedic disabilities; the Engelli Öğrenci Destek Birimi sits in the Sağlık, Kültür ve Spor Müdürlüğü; each dorm building has a ground-floor 4-person disabled room.",
+   "source": "https://www.ieu.edu.tr/aday/tr/kampuste-yasam",
+   "moreSources": [
+    "https://yurt.ieu.edu.tr/tr/sss"
+   ]
+  },
+  {
+   "fact": "Smart Campus: students can join lectures live online and re-watch lecture recordings.",
+   "source": "https://www.ieu.edu.tr/aday/tr/kampuste-yasam"
+  },
+  {
+   "fact": "Sports teams listed by the Spor Koordinatörlüğü (18): men's basketball, women's basketball, women's volleyball, men's football, men's tennis, women's tennis, fencing, sailing, swimming, taekwondo, American football (korumalı futbol), chess, 3x3 men's basketball, 3x3 women's basketball, beach volleyball, shooting, men's e-sports, women's e-sports. The IEU Spor Kulübü was founded in 2005 (ECTS page).",
+   "source": "https://sks.ieu.edu.tr/tr/spor-koordinatorlugu",
+   "moreSources": [
+    "https://ects.ieu.edu.tr/new/idari.php?id=49&lang=tr"
+   ]
+  },
+  {
+   "fact": "Sports events named by the coordinator: nature walks, yoga, zumba, bodyfit, table-tennis tournaments (students and staff), staff volleyball team, chess tournament, 3x3 student basketball tournament, foosball tournament, Sports Awards Gala.",
+   "source": "https://sks.ieu.edu.tr/tr/spor-koordinatorlugu"
+  },
+  {
+   "fact": "Card access system (EkoKart, project started 2007): about 7000 users; 13 turnstiles at 3 main entrance points; vehicle barriers at 3 points (2 integrated); GSTF building has 15 card-controlled doors. Staff meal rights are used with the card on POS terminals at restaurants, cafeterias and canteens, valid for the same day only (no carry-over, no vouchers).",
+   "source": "https://comp.ieu.edu.tr/tr/kartli-gecis-projesi"
+  },
+  {
+   "fact": "Student ID card: needed to enter the campus, shown in class when asked and mandatory at exams; the sticker is renewed each academic year; also used for on-campus payments (parking, photocopy, document requests) and for discounts on city buses, metro and ferries.",
+   "source": "https://oim.ieu.edu.tr/tr/ogrenci-kimlik-karti"
+  },
+  {
+   "fact": "Tobacco and e-cigarettes are banned in areas the university is responsible for (tender specification for the cafeteria); smoking is also banned in the Amfitiyatro during ceremonies. The university follows the Ministry of Health 'Beslenme Dostu ve Fiziksel Aktiviteyi Destekleyen İş Yeri Programı' (2021) and calls itself a 'Sağlıklı Kampüs'.",
+   "source": "https://ieucloud.izmirekonomi.edu.tr/remote.php/dav/public-files/RUaKaHQEogomvIa/TEKN%c4%b0K%20%c5%9eARTNAME.pdf",
+   "moreSources": [
+    "https://kim.ieu.edu.tr/tr/mezuniyet-toreni",
+    "https://sks.ieu.edu.tr/tr"
+   ]
+  },
+  {
+   "fact": "Named event venues in official texts: Amfitiyatro / Amfi Tiyatro (open-air, hosts graduation and festival concerts), Konferans Salonu and A Blok Fuaye Alanı (Career Days), A Blok Konferans Salonu, D Blok Çok Amaçlı Salon, D blok konferans salonu, M Blok kantin, M blok ana giriş, A Blok Kantin Alanı, Tören Alanı, Koru Alanı.",
+   "source": "https://kim.ieu.edu.tr/tr/mezuniyet-toreni",
+   "moreSources": [
+    "https://club.ieu.edu.tr/etkinlikler",
+    "https://www.ieu.edu.tr/tr/events/type/read/id/1742",
+    "https://kariyer.ieu.edu.tr/tr/2026-kariyer-gunleri"
+   ]
+  },
+  {
+   "fact": "PGDM (psychology center) is in A Blok, floor -1, offices 1B18 and 1B19. The A Block also houses the conference hall and its foyer.",
+   "source": "https://pgdm.ieu.edu.tr/tr/iletisim",
+   "moreSources": [
+    "https://kariyer.ieu.edu.tr/tr/2026-kariyer-gunleri"
+   ]
+  },
+  {
+   "fact": "Dorms opened in 2006 inside the campus; capacity 474 (282 girls, 192 boys); geothermal heating and hot water, central air conditioning; 24-hour staff and security; DEU Hospital is near, and the campus is close to Carrefoursa, Migros, Agora, Palmiye, Ege Park and İstinye Park shopping centres.",
+   "source": "https://yurt.ieu.edu.tr/tr",
+   "moreSources": [
+    "https://yurt.ieu.edu.tr/tr/hakkimizda"
+   ]
+  },
+  {
+   "fact": "Campus food on the official 'Kafe ve Restoran' page is only a photo gallery; the ECTS info package says the campus has a restaurant and a main cafeteria (students need a voucher) and a cafeteria inside the dorm.",
+   "source": "https://www.ieu.edu.tr/tr/kafe-ve-restoran",
+   "moreSources": [
+    "https://ects.ieu.edu.tr/new/idari.php?id=38&lang=tr"
+   ]
+  },
+  {
+   "fact": "Ağaçaltı cafeteria tender specification: the operator must upload the final menu list to a university web site daily or monthly, and must serve every day, for staff and students, at least one lunch menu priced at the university's staff-card daily meal amount.",
+   "source": "https://ieucloud.izmirekonomi.edu.tr/remote.php/dav/public-files/RUaKaHQEogomvIa/TEKN%c4%b0K%20%c5%9eARTNAME.pdf"
+  }
+ ],
+ "gaps": [
+  "The page https://www.ieu.edu.tr/tr/kafe-ve-restoran is NOT filled by JavaScript/XHR: the server-rendered HTML contains only an h1 and a static gallery of 22 images (paths /images/kafe/mio-1.jpg, mio-2.jpg, ana-kantin-1..4.jpg, acik-alan-3.jpg, IMAGE_4118..5000.webp); the only ajax calls in the page are the site-wide search (/anasayfa/ajax/search.php) and phone-book search (/anasayfa/ajax/phone_book_search.php). There is no venue text, hours or API for it. The real hours are on https://tim.ieu.edu.tr/tr/is-ortaklari. The 22 images were not downloaded or inspected (file names suggest 'mio', 'ana kantin' and 'açık alan' venues).",
+  "Yemekhane/cafeteria menu and prices: no menu list was found on any official page read; the Ağaçaltı tender says the operator must upload menus to a university web site but the URL is not known.",
+  "Subway: not in the official partner list (tim.ieu.edu.tr/tr/is-ortaklari), so presence and hours are unconfirmed from official sources.",
+  "Ağaçaltı Kafeterya: the current operator's actual hours and the operator's name are not published; the space is scheduled to be handed to a new tenant on 2027-01-06 with mandatory reopening by 2027-02-08 (tender result after 2026-10-09 unknown).",
+  "Which building/block hosts the library, cafes, OIM, career center, health office, EkoFit, ATMs and stationery shop is not stated on the official pages read (only PGDM: A Blok floor -1; venues named in event texts).",
+  "Counter hours for Öğrenci İşleri (OIM), Kariyer Yönlendirme ve Mezunlarla İlişkiler Müdürlüğü, Sağlık Ofisi and the SKS office are not published (PGDM 08:30-17:45 and library summer hours 08:30-17:45 were not extrapolated to them).",
+  "Shuttle/servis: no IEU-run campus shuttle or staff/student servis timetable found; İdari İşler lists 'Ulaştırma Hizmetleri' without details. Bus 969/480/253 timetables are not on IEU pages.",
+  "Parking and vehicle rules (hours, fees, permits) and gate opening hours were not found; the student-portal link tim.ieu.edu.tr/tr/guvenlik-hizmetleri returns 404. Only the card-access facts (13 turnstiles, 3 vehicle barriers) are documented.",
+  "Balçova Belediyesi Spor Kompleksi opening hours were not captured (the municipal project page returned 'Sayfa Bulunamadı'); on-campus courts (football, volleyball, basketball, tennis) have no published hours or positions.",
+  "Dorm calendar for 2026-2027 is not published on yurt.ieu.edu.tr (page still shows 2025-2026); dorm vacate/move-in dates for 2026-2027 are unknown. The 2025-2026 pattern is recorded only as last year's pattern.",
+  "'Kedili Park' is not mentioned in any official IEU text found (searches and the pages read); the name may come only from OpenStreetMap. Only 'Niki The Cat Coffee' (a cafe in the partner list) references cats. The 'Balçova Terapi Ormanı', 'Tarihi Asansör' and 'Teleferik' are named in the official İEÜ'de Hayat text, but as places near the campus.",
+  "Club categories: the official five-category grouping comes from the SKS page (77 clubs listed) while the club platform counts 80; only the first page (6 of 14) of the platform list was read, so newer clubs are not categorised. No presidents or members recorded (privacy).",
+  "Dates not published yet: Career Days 2027, sports tryout week 2026, Dance Festival and Sports Awards Gala 2026-27, alumni meeting 2026, graduation ceremonies 2027 (2026 ones are 6-10 July 2026).",
+  "Library: floors are only named 'Alt Kat' and 'Üst Kat'; the number of seats is not stated; the computer count is inconsistent (22 desktop computers on the campus-life page vs 27 internet PCs plus 2 catalogue terminals on the older history page). The first exam-period reservation slot is printed '08:30 - 12:30' (probably a typo).",
+  "Student/faculty numbers are rounded figures from the 25th-anniversary message (12 thousand students, 1 thousand academics, 300 administrative staff); official YÖK statistics were not consulted.",
+  "News pages were read only as listings; only three ieu.edu.tr events (30 Sep x2, 21 Oct) and three upcoming club events exist for the next 60 days, so the 2026-10-01 to 2026-11-29 window is sparse on published events. No ATM is listed beyond YapıKredi and Ziraat, and no bank branch.",
+  "Gastronomy department practice restaurant (Uygulama Restoranı, daily menus prepared by chefs and students) appeared only in a web-search summary of culinary.ieu.edu.tr; its hours and location were not verified.",
+  "Wristband/ID rules for ordinary visitors on non-ceremony days, lost-and-found procedure hours and cleaning schedules inside buildings are not documented.",
+  "DuckDuckGo HTML search returned a bot challenge (HTTP 202) during this run, so web search was done with the WebSearch tool instead (no challenge was bypassed)."
+ ],
+ "meta": {
+  "today": "2026-09-30",
+  "language": "Descriptive text is English; proper names, venue names and calendar labels keep the original Turkish as printed on the source.",
+  "requestBudget": "73 HTTP requests (including 2 WebDAV PROPFIND calls on a public tender folder and 1 DuckDuckGo request that returned a bot challenge) plus 7 web searches; 1 second between fetches.",
+  "unknownHoursConvention": "An empty string in hours.* means the source does not state it; see hours.notes and the gaps list.",
+  "privacy": "No personal names, e-mail addresses or phone numbers were recorded; unit names only.",
+  "primarySources": {
+   "hoursOfCafesAtmsStationerySecurity": "https://tim.ieu.edu.tr/tr/is-ortaklari",
+   "academicCalendar": "https://www.ieu.edu.tr/tr/akademik-takvim",
+   "libraryHoursAndFloors": "https://kutuphane.ieu.edu.tr/tr and https://kutuphane.ieu.edu.tr/tr/rezervasyon-sistemi",
+   "agacaltiCafeteriaTender": "https://www.ieu.edu.tr/tr/announcements/type/read/id/13830"
+  },
+  "todaySnapshot_derivedFromCalendar": [
+   "2026-09-30 is a Wednesday in week 2 of the fall term; classes started Mon 2026-09-21 in all tracks (Welcome Day the same day).",
+   "Undergraduate add/drop window closes today at 10:00; advisor approval of add/drop runs 2026-09-30 10:00 to 2026-10-02 16:00. Graduate add/drop ended 2026-09-29 17:00 and its advisor approvals end today 17:00.",
+   "Library (assuming the fall term counts as 'academic year' for the library): staffed floor 08:30-22:00 weekdays, 10:00-17:00 Saturday, closed Sunday; lower floor open 24/7.",
+   "Next academic dates: 2026-10-09 registration-freeze deadline (also the Agacalti tender day); Sat 2026-10-24 and Sat 2026-10-31 make-up class days; Wed 2026-10-28 half day and Thu 2026-10-29 Republic Day holiday; midterms 2026-11-07 to 11-15; preparatory module 1 ends 2026-11-13, module 2 starts 2026-11-23; course withdrawal 2026-11-23 to 2026-12-11."
+  ]
+ }
+}

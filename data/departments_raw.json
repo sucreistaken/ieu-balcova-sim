@@ -1,0 +1,556 @@
+{
+ "Adalet Meslek Yüksekokulu": [
+  {
+   "name": "Adalet Meslek Yüksekokulu",
+   "url": "https://adl.ieu.edu.tr"
+  },
+  {
+   "name": "Adalet (Türkçe)",
+   "url": "https://adl.ieu.edu.tr/adalet/tr"
+  },
+  {
+   "name": "Hukuk Büro Yönetimi ve Sekreterliği (Türkçe)",
+   "url": "https://adl.ieu.edu.tr/hukuk_buro_yonetimi/tr"
+  }
+ ],
+ "Meslek Yüksekokulu": [
+  {
+   "name": "Meslek Yüksekokulu",
+   "url": "https://vs.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Bankacılık ve Sigortacılık (Türkçe)",
+   "url": "https://bs.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Bilgisayar Programcılığı (Türkçe)",
+   "url": "https://vs.ieu.edu.tr/cp/tr"
+  },
+  {
+   "name": "Dış Ticaret (Türkçe)",
+   "url": "https://dt.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Grafik Tasarım (Türkçe)",
+   "url": "https://vs.ieu.edu.tr/graphic_design/tr"
+  },
+  {
+   "name": "İç Mekân Tasarımı (Türkçe)",
+   "url": "https://vs.ieu.edu.tr/interior_design/tr"
+  },
+  {
+   "name": "İnşaat Teknolojisi (Türkçe)",
+   "url": "https://vs.ieu.edu.tr/insaat/tr"
+  },
+  {
+   "name": "İş Sağlığı ve Güvenliği (Türkçe)",
+   "url": "https://vs.ieu.edu.tr/ohs/tr"
+  },
+  {
+   "name": "Medya ve İletişim (Türkçe)",
+   "url": "https://vs.ieu.edu.tr/medyaveiletisim/tr"
+  },
+  {
+   "name": "Mimari Restorasyon (Türkçe)",
+   "url": "https://vs.ieu.edu.tr/architectural_restoration/tr"
+  },
+  {
+   "name": "Radyo ve Televizyon Programcılığı (Türkçe)",
+   "url": "https://rtv.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Sivil Havacılık Kabin Hizmetleri (Türkçe)",
+   "url": "https://vs.ieu.edu.tr/civil_aviation/tr"
+  },
+  {
+   "name": "Sivil Hava Ulaştırma İşletmeciliği (Türkçe)",
+   "url": "https://vs.ieu.edu.tr/ground_services/tr"
+  },
+  {
+   "name": "Turizm ve Otel İşletmeciliği (Türkçe)",
+   "url": "https://vs.ieu.edu.tr/tourism/tr"
+  },
+  {
+   "name": "Uygulamalı İngilizce Çevirmenlik",
+   "url": "https://vs.ieu.edu.tr/uic/tr"
+  }
+ ],
+ "Sağlık Hizmetleri Meslek Yüksekokulu": [
+  {
+   "name": "Sağlık Hizmetleri Meslek Yüksekokulu",
+   "url": "https://shs.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Çocuk Gelişimi",
+   "url": "https://shs.ieu.edu.tr/cd/tr"
+  },
+  {
+   "name": "Fizyoterapi",
+   "url": "https://shs.ieu.edu.tr/pt/tr"
+  },
+  {
+   "name": "İlk ve Acil Yardım Programı",
+   "url": "https://shs.ieu.edu.tr/paramedic/tr"
+  },
+  {
+   "name": "Optisyenlik",
+   "url": "https://shs.ieu.edu.tr/opt/tr"
+  },
+  {
+   "name": "Tıbbi Dokümantasyon ve Sekreterlik (Türkçe)",
+   "url": "https://shs.ieu.edu.tr/tds/tr"
+  },
+  {
+   "name": "Tıbbi Görüntüleme Teknikleri",
+   "url": "https://shs.ieu.edu.tr/mit/tr"
+  },
+  {
+   "name": "Tıbbi Laboratuvar Teknikleri",
+   "url": "https://shs.ieu.edu.tr/medical_laboratory_techniques/tr"
+  },
+  {
+   "name": "Yaşlı Bakımı (Türkçe)",
+   "url": "https://shs.ieu.edu.tr/yasli_bakimi/tr"
+  }
+ ],
+ "Uygulamalı Yönetim Bilimleri Yüksekokulu": [
+  {
+   "name": "Uygulamalı Yönetim Bilimleri Yüksekokulu",
+   "url": "https://sams.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Gastronomi ve Mutfak Sanatları",
+   "url": "https://culinary.ieu.edu.tr/tr"
+  }
+ ],
+ "Yabancı Diller Yüksekokulu": [
+  {
+   "name": "Yabancı Diller Yüksekokulu",
+   "url": "https://sfl.ieu.edu.tr/tr"
+  }
+ ],
+ "Fen-Edebiyat Fakültesi": [
+  {
+   "name": "Fen-Edebiyat Fakültesi",
+   "url": "https://fas.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Fizik",
+   "url": "https://physics.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Matematik",
+   "url": "https://dm.ieu.edu.tr/tr"
+  },
+  {
+   "name": "İngilizce Mütercim ve Tercümanlık",
+   "url": "https://dti.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Psikoloji",
+   "url": "https://psikoloji.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Sosyoloji",
+   "url": "https://soc.ieu.edu.tr/tr"
+  }
+ ],
+ "Güzel Sanatlar ve Tasarım Fakültesi": [
+  {
+   "name": "Güzel Sanatlar ve Tasarım Fakültesi",
+   "url": "https://fadf.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Endüstriyel Tasarım",
+   "url": "https://ent.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Görsel İletişim Tasarımı",
+   "url": "https://ilt.ieu.edu.tr/tr"
+  },
+  {
+   "name": "İçmimarlık ve Çevre Tasarımı",
+   "url": "https://ic.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Mimarlık",
+   "url": "https://mmr.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Tekstil ve Moda Tasarımı",
+   "url": "https://mt.ieu.edu.tr/tr"
+  }
+ ],
+ "Hukuk Fakültesi": [
+  {
+   "name": "Hukuk Fakültesi",
+   "url": "https://law.ieu.edu.tr/tr"
+  }
+ ],
+ "İletişim Fakültesi": [
+  {
+   "name": "İletişim Fakültesi",
+   "url": "https://fc.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Halkla İlişkiler ve Reklamcılık",
+   "url": "https://pra.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Yeni Medya ve İletişim",
+   "url": "https://mc.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Sinema ve Dijital Medya",
+   "url": "https://cdm.ieu.edu.tr/tr"
+  }
+ ],
+ "İşletme Fakültesi": [
+  {
+   "name": "İşletme Fakültesi",
+   "url": "https://isl.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Ekonomi",
+   "url": "https://eco.ieu.edu.tr/tr"
+  },
+  {
+   "name": "İşletme",
+   "url": "https://dba.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Lojistik Yönetimi",
+   "url": "https://dlm.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Muhasebe ve Denetim Programı",
+   "url": "https://daa.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Siyaset Bilimi ve Uluslararası İlişkiler",
+   "url": "https://ireu.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Uluslararası Ticaret ve Finansman",
+   "url": "https://itf.ieu.edu.tr/tr"
+  }
+ ],
+ "Mühendislik Fakültesi": [
+  {
+   "name": "Mühendislik Fakültesi",
+   "url": "https://fecs.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Bilgisayar Mühendisliği",
+   "url": "https://ce.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Biyomedikal Mühendisliği",
+   "url": "https://bme.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Elektrik-Elektronik Mühendisliği",
+   "url": "https://eee.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Endüstri Mühendisliği",
+   "url": "https://ie.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Gıda Mühendisliği",
+   "url": "https://dfe.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Genetik ve Biyomühendislik",
+   "url": "https://gbe.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Havacılık ve Uzay Mühendisliği",
+   "url": "https://ae.ieu.edu.tr/tr"
+  },
+  {
+   "name": "İnşaat Mühendisliği",
+   "url": "https://cie.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Makine Mühendisliği",
+   "url": "https://me.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Mekatronik Mühendisliği",
+   "url": "https://mce.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Yazılım Mühendisliği",
+   "url": "https://se.ieu.edu.tr/tr"
+  }
+ ],
+ "Sağlık Bilimleri Fakültesi": [
+  {
+   "name": "Sağlık Bilimleri Fakültesi",
+   "url": "https://fhs.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Fizyoterapi ve Rehabilitasyon",
+   "url": "https://ftr.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Hemşirelik",
+   "url": "https://nursing.ieu.edu.tr/tr"
+  },
+  {
+   "name": "Beslenme ve Diyetetik",
+   "url": "https://bdb.ieu.edu.tr/tr"
+  }
+ ],
+ "Tıp Fakültesi": [
+  {
+   "name": "Tıp Fakültesi",
+   "url": "https://tip.ieu.edu.tr"
+  }
+ ],
+ "Ekonomi Alanı": [
+  {
+   "name": "Ekonomi Alanı",
+   "url": "https://lisansustu.ieu.edu.tr/tr/ekonomi-lisansustu-programlari"
+  },
+  {
+   "name": "Finans Ekonomisi Tezli Yüksek Lisans",
+   "url": "https://lisansustu.ieu.edu.tr/finans_ekonomisi/tr"
+  },
+  {
+   "name": "Finans Ekonomisi Tezsiz Yüksek Lisans",
+   "url": "https://lisansustu.ieu.edu.tr/finans_ekonomisi_tezsiz/tr"
+  }
+ ],
+ "Hukuk Alanı": [
+  {
+   "name": "Hukuk Alanı",
+   "url": "https://lisansustu.ieu.edu.tr/tr/hukuk-lisansustu-programi"
+  },
+  {
+   "name": " Kamu Hukuku Tezli Yüksek Lisans",
+   "url": "https://lisansustu.ieu.edu.tr/kamu_hukuku/tr"
+  },
+  {
+   "name": "Kamu Hukuku Tezsiz Yüksek Lisans",
+   "url": "https://lisansustu.ieu.edu.tr/kamu_hukuku_tezsiz/tr"
+  },
+  {
+   "name": "Kamu Hukuku Doktora Programı",
+   "url": "https://lisansustu.ieu.edu.tr/kamu_hukuku_doktora/tr"
+  },
+  {
+   "name": "Özel Hukuk Tezli Yüksek Lisans ",
+   "url": "https://lisansustu.ieu.edu.tr/ozel_hukuk/tr "
+  },
+  {
+   "name": "Özel Hukuk Tezsiz Yüksek Lisans ",
+   "url": "https://lisansustu.ieu.edu.tr/ozel_hukuk_tezsiz/tr"
+  },
+  {
+   "name": "Özel Hukuk Doktora",
+   "url": "https://lisansustu.ieu.edu.tr/ozel_hukuk_doktora/tr"
+  }
+ ],
+ "İletişim Alanı": [
+  {
+   "name": "İletişim Alanı",
+   "url": "https://lisansustu.ieu.edu.tr/tr/iletisim-lisansustu-programlari"
+  },
+  {
+   "name": "Marka İletişimi Tezsiz Yüksek Lisans",
+   "url": "https://lisansustu.ieu.edu.tr/brand/tr"
+  },
+  {
+   "name": "Pazarlama İletişimi ve Halkla İlişkiler Tezli Y. L.",
+   "url": "https://lisansustu.ieu.edu.tr/marketing/tr"
+  }
+ ],
+ "İşletme Alanı": [
+  {
+   "name": "İşletme Alanı",
+   "url": "https://lisansustu.ieu.edu.tr/tr/isletme-lisansustu-programlari"
+  },
+  {
+   "name": "İşletme Uzaktan Öğretim Tezsiz Yüksek Lisans(Türkçe)",
+   "url": "https://lisansustu.ieu.edu.tr/e-mba/tr/"
+  },
+  {
+   "name": "İşletme (MBA) Tezli Yüksek Lisans",
+   "url": "https://lisansustu.ieu.edu.tr/mba_tezli/tr"
+  },
+  {
+   "name": "İşletme Doktora Programı",
+   "url": "https://lisansustu.ieu.edu.tr/isletme_phd/tr"
+  },
+  {
+   "name": "Yöneticiler için İşletme Tezsiz Yüksek Lisans",
+   "url": "https://lisansustu.ieu.edu.tr/executive_tr/tr/"
+  }
+ ],
+ "Lojistik Alanı": [
+  {
+   "name": "Lojistik Alanı",
+   "url": "https://lisansustu.ieu.edu.tr/tr/lojistik-yonetimi-lisansustu-programlari "
+  },
+  {
+   "name": "Lojistik Yönetimi Tezli Yüksek Lisans",
+   "url": "https://lisansustu.ieu.edu.tr/lojistik_yonetimi/tr "
+  },
+  {
+   "name": "Lojistik Yönetimi Tezsiz Yüksek Lisans",
+   "url": "https://lisansustu.ieu.edu.tr/lojistik_yonetimi_tezsiz/tr "
+  }
+ ],
+ "Matematik Alanı": [
+  {
+   "name": "Matematik Alanı",
+   "url": "https://lisansustu.ieu.edu.tr/tr/matematik-lisansustu-programlari"
+  },
+  {
+   "name": "Uygulamalı Matematik ve İstatistik Doktora Programı",
+   "url": "https://lisansustu.ieu.edu.tr/umi/tr"
+  }
+ ],
+ "Mimarlık Alanı": [
+  {
+   "name": "Mimarlık Alanı",
+   "url": "https://lisansustu.ieu.edu.tr/tr/mimarlik-lisansustu-programlari"
+  },
+  {
+   "name": "Mimarlık Tezli Yüksek Lisans",
+   "url": "https://lisansustu.ieu.edu.tr/mmr/tr"
+  }
+ ],
+ "Mühendislik Alanı": [
+  {
+   "name": "Mühendislik Alanı",
+   "url": "https://lisansustu.ieu.edu.tr/tr/muhendislik-lisansustu-programlari"
+  },
+  {
+   "name": "Bilgisayar Mühendisliği Tezli Yüksek Lisans",
+   "url": "https://lisansustu.ieu.edu.tr/cs/tr"
+  },
+  {
+   "name": "Bilgisayar Mühendisliği Tezsiz Yüksek Lisans",
+   "url": "https://lisansustu.ieu.edu.tr/cswt/tr"
+  },
+  {
+   "name": "Bilgisayar Mühendisliği Doktora Programı",
+   "url": "https://lisansustu.ieu.edu.tr/csphd/tr"
+  },
+  {
+   "name": "Biyomühendislik Tezli Yüksek Lisans",
+   "url": "https://lisansustu.ieu.edu.tr/bioengineering_thesis/tr"
+  },
+  {
+   "name": "Elektrik-Elektronik Tezli Yüksek Lisans",
+   "url": "https://lisansustu.ieu.edu.tr/ee/tr"
+  },
+  {
+   "name": "Elektrik-Elektronik Tezsiz Yüksek Lisans",
+   "url": "https://lisansustu.ieu.edu.tr/eewt/tr"
+  },
+  {
+   "name": "Elektrik-Elektronik Mühendisliği Doktora Programı",
+   "url": "https://lisansustu.ieu.edu.tr/eephd/tr"
+  },
+  {
+   "name": "Endüstri Mühendisliği Tezli Yüksek Lisans",
+   "url": "https://lisansustu.ieu.edu.tr/ie/tr"
+  },
+  {
+   "name": "Makine Mühendisliği Tezli Yüksek Lisans",
+   "url": "https://lisansustu.ieu.edu.tr/makine_muhendisligi_tezli_yuksek_lisans_programi/tr"
+  }
+ ],
+ "Psikoloji Alanı": [
+  {
+   "name": "Psikoloji Alanı",
+   "url": "https://lisansustu.ieu.edu.tr/tr/psikoloji-lisansustu-programlari"
+  },
+  {
+   "name": "Deneysel Psikoloji Tezli Yüksek Lisans",
+   "url": "https://lisansustu.ieu.edu.tr/deneysel_psikoloji/tr"
+  },
+  {
+   "name": "Deneysel Psikoloji Doktora Programı",
+   "url": "https://lisansustu.ieu.edu.tr/deneysel_psikoloji_phd/tr"
+  },
+  {
+   "name": "Klinik Psikoloji Tezli Yüksek Lisans",
+   "url": "https://lisansustu.ieu.edu.tr/klinik_psikoloji/tr"
+  }
+ ],
+ "Sağlık Alanı": [
+  {
+   "name": "Sağlık Alanı",
+   "url": "https://lisansustu.ieu.edu.tr/tr/hemsirelik-lisansustu-programlari"
+  },
+  {
+   "name": "Cerrahi Hastalıkları Hemşireliği Tezli Y. L.",
+   "url": "https://lisansustu.ieu.edu.tr/surgical_nursing/tr"
+  }
+ ],
+ "Siyaset Bilimi ve Uluslararası İlişkiler Alanı": [
+  {
+   "name": "Siyaset Bilimi ve Uluslararası İlişkiler Alanı",
+   "url": "https://lisansustu.ieu.edu.tr/tr/siyaset-bilimi-ve-uluslararasi-iliskiler-lisansust"
+  },
+  {
+   "name": "Siyaset Bilimi ve Uluslararası İlişkiler Tezli Y. L.",
+   "url": "https://lisansustu.ieu.edu.tr/siyaset/tr"
+  },
+  {
+   "name": "Siyaset Bilimi ve Uluslararası İlişkiler Tezsiz Y. L.",
+   "url": "https://lisansustu.ieu.edu.tr/siyaset_tezsiz/tr"
+  },
+  {
+   "name": "Siyaset Bilimi ve Uluslararası İlişkiler Doktora Programı",
+   "url": "https://lisansustu.ieu.edu.tr/siyaset_phd/tr"
+  }
+ ],
+ "Sürdürülebilir Enerji Alanı": [
+  {
+   "name": "Sürdürülebilir Enerji Alanı",
+   "url": "https://lisansustu.ieu.edu.tr/tr/surdurulebilir-enerji-lisansustu-programi"
+  },
+  {
+   "name": " Sürdürülebilir Enerji Tezli Yüksek Lisans",
+   "url": "https://lisansustu.ieu.edu.tr/surdurulebilir_enerji/tr"
+  },
+  {
+   "name": "Sürdürülebilir Enerji Tezsiz Yüksek Lisans",
+   "url": "https://lisansustu.ieu.edu.tr/surdurulebilir_tezsiz/tr"
+  }
+ ],
+ "Tasarım Çalışmaları Alanı": [
+  {
+   "name": "Tasarım Çalışmaları Alanı",
+   "url": "https://lisansustu.ieu.edu.tr/tr/tasarim-calismalari-lisansustu-programlari"
+  },
+  {
+   "name": "Tasarım Çalışmaları Tezli Yüksek Lisans",
+   "url": "https://lisansustu.ieu.edu.tr/tasarim_calismalari/tr"
+  },
+  {
+   "name": "Tasarım Çalışmaları Doktora Programı",
+   "url": "https://lisansustu.ieu.edu.tr/tasarim_calismalari_doktora/tr"
+  }
+ ],
+ "Yabancı Diller Eğitimi Alanı": [
+  {
+   "name": "Yabancı Diller Eğitimi Alanı",
+   "url": "https://lisansustu.ieu.edu.tr/tr/ingiliz-dili-egitimi"
+  },
+  {
+   "name": "İngiliz Dili Eğitimi Tezli Yüksek Lisans Programı",
+   "url": "https://lisansustu.ieu.edu.tr/ingiliz_dili_egitimi_tezli_yuksek_lisans_programi/tr"
+  },
+  {
+   "name": "İngiliz Dili Eğitimi Tezsiz Yüksek Lisans Programı",
+   "url": "https://lisansustu.ieu.edu.tr/ingiliz_dili_egitimi_tezsiz_yuksek_lisans_programi/tr"
+  }
+ ]
+}
