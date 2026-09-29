@@ -4,6 +4,8 @@
 
 > **English:** a walkable 3D simulation of the Izmir University of Economics Balcova campus that runs in the browser (Three.js, no build step). Building footprints come from OpenStreetMap, building shapes are reconstructed from public photographs, the crowd is animated on the GPU and follows the real academic calendar, class periods and opening hours; room codes come from official pages. Everything that is an estimate is labelled as such.
 
+> **Resmî bir proje değildir.** İzmir Ekonomi Üniversitesi ile bağlantısı yoktur, üniversite tarafından onaylanmamıştır. Üniversitenin adı ve basitleştirilmiş bir logo çizimi yalnız kampüsü tanımlamak için kullanılır. *Unofficial: not affiliated with or endorsed by Izmir University of Economics.*
+
 Hedef: kampüsün **gerçekçi** ve **görsel olarak inandırıcı** bir kopyası. Oyun katmanı yok; bilgi, saat, takvim ve oda kodları halka açık kaynaklardan geliyor, tahmin olan her şey ayrıca etiketli.
 
 ## Ekran görüntüleri
@@ -115,5 +117,5 @@ data/                     Ham ve işlenmiş veri; data/research/ ajan araştırm
 - **Barlow ve Barlow Semi Condensed** yazı tipleri (SIL Open Font License 1.1): `css/fonts/`, metni `css/fonts/OFL.txt`.
 - **Harita verisi**: © OpenStreetMap katkıcıları, ODbL 1.0 (`data/osm_*.json` ve `data/campus.json` içindeki türevler).
 - **Yükseklik**: EU-DEM v1.1 (Copernicus verisi), OpenTopoData API üzerinden.
-- **Resmî bilgiler** (oda kodları, takvim, saatler, tarihçe): İEÜ'nün halka açık sayfaları; kaynak adresleri `DATASET.md` ve `data/research/*.json` içinde. Kişisel veri toplanmadı.
+- **Resmî bilgiler** (oda kodları, takvim, saatler, tarihçe): İEÜ'nün halka açık sayfaları; kaynak adresleri `DATASET.md` ve `data/research/*.json` içinde. Kişisel veri toplanmadı; ham OSM dosyalarında işletme adı olarak geçen adlar (ör. bir muayenehane) OpenStreetMap'ten olduğu gibi gelir.
 - **Fotoğraflar**: Wikimedia Commons'taki (CC BY-SA) kampüs fotoğrafları ve uydu görüntüsü yalnız bina yükseklik ve cephe kıyası için incelendi; projeye görüntü gömülmedi.
